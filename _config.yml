@@ -1,10 +1,10 @@
 ---
 # Program/Department Title
-title: Nuclear Energy
+title: Psychology
 # Site URL (without /)
-url: https://liberalarts.temple.edu
+url: ""
 # Subdirectory (with / at only at beginning)
-baseurl: /nuclearenergy
+baseurl: /psychology
 
 # Program Information
 # Short tagline for tweets (<100 characters)
