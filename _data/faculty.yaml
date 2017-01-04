@@ -1,5 +1,5 @@
 - name: "Peter J. Marshall"
-  title: "_ Department Chair, Professor_"
+  title: "Department Chair, Professor"
   room: "832"
   building: "Weiss Hall"
   email: "peter.marshall@temple.edu"
@@ -7,10 +7,11 @@
   website: "http://sites.temple.edu/peterjmarshall"
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: "Developmental psychology, Social cognition, EEG, Cognitive neuroscience"
-  bio: "Peter J. Marshall is a Professor of Psychology and Chair of the Department of Psychology at Temple. His research in the area of developmental social-cognitive neuroscience has been funded by the National Science Foundation and the National Institutes of Health, and he was recently elected a Fellow of the Association for Psychological Science. Dr. Marshall has published more than 60 papers in peer-reviewed journals and has contributed to a number of edited volumes, including the most recent (7th) edition of the Handbook of Child Psychology and Developmental Science. He is currently an Associate Editor at Developmental Science and the International Journal of Behavioral Development and was Guest Editor for a recent special issue of Early Education and Development. Dr. Marshall was previously a member of the Psychosocial Development, Risk, and Prevention Study Section at NIH. In 2012 he was awarded the Lindback Award for Distinguished Teaching at Temple. In their most recent published studies, Dr. Marshall and his research team have focused on neuroscience aspects of the connections between self and other across infancy, childhood, and into the young adult years. He has also published a number of articles and book chapters on the use of electroencephalographic (EEG) methods with infants and young children. Other publications by Dr. Marshall have spanned various interrelated areas, including attachment, temperament, and the effects of early life adversity. Dr. Marshall has also written a number of theoretical papers describing possibilities for moving towards a more integrative developmental science of brain, body, and mind. Dr. Marshall received his B.A. and Ph.D. degrees from the University of Cambridge in the United Kingdom, and he carried out postdoctoral research at the University of Maryland. He joined the faculty at Temple in 2004."
+  bio: >
+    Peter J. Marshall is a Professor of Psychology and Chair of the Department of Psychology at Temple. His research in the area of developmental social-cognitive neuroscience has been funded by the National Science Foundation and the National Institutes of Health, and he was recently elected a Fellow of the Association for Psychological Science. Dr. Marshall has published more than 60 papers in peer-reviewed journals and has contributed to a number of edited volumes, including the most recent (7th) edition of the Handbook of Child Psychology and Developmental Science. He is currently an Associate Editor at Developmental Science and the International Journal of Behavioral Development and was Guest Editor for a recent special issue of Early Education and Development. Dr. Marshall was previously a member of the Psychosocial Development, Risk, and Prevention Study Section at NIH. In 2012 he was awarded the Lindback Award for Distinguished Teaching at Temple. In their most recent published studies, Dr. Marshall and his research team have focused on neuroscience aspects of the connections between self and other across infancy, childhood, and into the young adult years. He has also published a number of articles and book chapters on the use of electroencephalographic (EEG) methods with infants and young children. Other publications by Dr. Marshall have spanned various interrelated areas, including attachment, temperament, and the effects of early life adversity. Dr. Marshall has also written a number of theoretical papers describing possibilities for moving towards a more integrative developmental science of brain, body, and mind. Dr. Marshall received his B.A. and Ph.D. degrees from the University of Cambridge in the United Kingdom, and he carried out postdoctoral research at the University of Maryland. He joined the faculty at Temple in 2004.
 
 - name: "Lauren Alloy"
-  title: "_Professor and Joseph Wolpe Distinguished Faculty_"
+  title: "Professor and Joseph Wolpe Distinguished Faculty"
   room: "762"
   building: "Weiss Hall"
   email: "lalloy@temple.edu"
@@ -18,10 +19,11 @@
   website: "http://www.temple.edu/moodandcognitionlab"
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: "Depression, Bipolar disorder, Developmental psychopathology, Cognitive, Psychosocial, Developmental, Neurobiological processes in mood disorders"
-  bio: "Dr. Alloy is an internationally recognized researcher in the area of mood disorders. Her work on depression and bipolar disorder has had a major impact on the fields of clinical, personality, social, developmental, and cognitive psychology and psychiatry. Her research focuses on cognitive, psychosocial, developmental, and neurobiological processes in the onset and course of depression and bipolar disorder and is funded by the National Institute of Mental Health. Along with her colleagues, Lyn Abramson and Gerald Metalksy, she is the author of the Hopelessness Theory of depression and she discovered, with Lyn Abramson, the \"sadder but wiser\" or \"depressive realism\" effect. This work has been featured prominently in the popular media (e.g., Time Magazine, the book \"Lincoln's Melancholy\", etc.). More recently, she and Lyn Abramson also have developed the Be havioral Approach System (BAS)/reward hypersensitivity theory of bipolar disorder. Previously, at Northwestern University, she became the youngest professor in the university's history and the first woman to become Professor in the Psychology Department. Dr. Alloy was awarded the American Psychological Association's (APA) Young Psychologist Award in 1984, the APA's Master Lecturer Award in Psychopathology in 2002, Temple University's Paul W. Eberman Faculty Research Award in 2001, the APA's Division 12 Distinguished Scientific Contribution Award in 2003, the Society for a Science of Clinical Psychology's Distinguished Scientist Award in 2003, and the Association for Psychological Science's (APS) James McKeen Catell Award for Lifetime Achievement in Applied Psychological Research in 2008-09. She is a Fellow of APA, APS, and the American Psychopathological Association (APPA). Dr. Alloy is the author of over 250 scholarly publications, including a popular undergraduate abnormal psychology textbook. She is currently Associate Editor of the International Journal of Cognitive Therapy and serves on the editorial boards of many clinical psychology journals. Dr. Alloy also is the the current Head and Director of Clinical Training of Temple University's Clinical Psychology Ph.D. program."
+  bio: >
+    Dr. Alloy is an internationally recognized researcher in the area of mood disorders. Her work on depression and bipolar disorder has had a major impact on the fields of clinical, personality, social, developmental, and cognitive psychology and psychiatry. Her research focuses on cognitive, psychosocial, developmental, and neurobiological processes in the onset and course of depression and bipolar disorder and is funded by the National Institute of Mental Health. Along with her colleagues, Lyn Abramson and Gerald Metalksy, she is the author of the Hopelessness Theory of depression and she discovered, with Lyn Abramson, the "sadder but wiser" or "depressive realism" effect. This work has been featured prominently in the popular media (e.g., Time Magazine, the book "Lincoln's Melancholy", etc.). More recently, she and Lyn Abramson also have developed the Be havioral Approach System (BAS)/reward hypersensitivity theory of bipolar disorder. Previously, at Northwestern University, she became the youngest professor in the university's history and the first woman to become Professor in the Psychology Department. Dr. Alloy was awarded the American Psychological Association's (APA) Young Psychologist Award in 1984, the APA's Master Lecturer Award in Psychopathology in 2002, Temple University's Paul W. Eberman Faculty Research Award in 2001, the APA's Division 12 Distinguished Scientific Contribution Award in 2003, the Society for a Science of Clinical Psychology's Distinguished Scientist Award in 2003, and the Association for Psychological Science's (APS) James McKeen Catell Award for Lifetime Achievement in Applied Psychological Research in 2008-09. She is a Fellow of APA, APS, and the American Psychopathological Association (APPA). Dr. Alloy is the author of over 250 scholarly publications, including a popular undergraduate abnormal psychology textbook. She is currently Associate Editor of the International Journal of Cognitive Therapy and serves on the editorial boards of many clinical psychology journals. Dr. Alloy also is the the current Head and Director of Clinical Training of Temple University's Clinical Psychology Ph.D. program.
 
 - name: "Debra Bangasser"
-  title: "_Assistant Professor, Associate Director, Master's Program in Neuroscience_"
+  title: "Assistant Professor, Associate Director, Master's Program in Neuroscience"
   room: "832"
   building: "Weiss Hall"
   email: "debra.bangasser@temple.edu"
@@ -29,10 +31,11 @@
   website: "http://sites.temple.edu/bangasserlab/"
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: "Stress, Sex differences, Neuroscience, Anxiety, Arousal, Depression"
-  bio: "Women are twice as likely as men to suffer from stress-related psychiatric disorders, such as depression and post-traumatic stress disorder. As principle investigator of the Neuroendocrinology and Behavior Laboratory, Dr. Debra Bangasser uses techniques from biopsychology, neuroendocrinology, and cellular and molecular biology to investigate whether there are neurobiological factors that contribute to this disparity between men and women. Specifically, her research program explores sex differences in stress response systems that predispose females to stress and stress-related psychiatric disease. Dr. Bangasser has authored numerous publications in top journals including Nature Neuroscience and Molecular Psychiatry. She is a member of the American Psychological Association, International Behavioral Neuroscience Society, Organization for the Study of Sex Differences, Society for Behavioral Neuroendocrinology, and Society for Neuroscience. Her research is funded by the National Institute of Mental Health and the National Science Foundation."
+  bio: >
+    Women are twice as likely as men to suffer from stress-related psychiatric disorders, such as depression and post-traumatic stress disorder. As principle investigator of the Neuroendocrinology and Behavior Laboratory, Dr. Debra Bangasser uses techniques from biopsychology, neuroendocrinology, and cellular and molecular biology to investigate whether there are neurobiological factors that contribute to this disparity between men and women. Specifically, her research program explores sex differences in stress response systems that predispose females to stress and stress-related psychiatric disease. Dr. Bangasser has authored numerous publications in top journals including Nature Neuroscience and Molecular Psychiatry. She is a member of the American Psychological Association, International Behavioral Neuroscience Society, Organization for the Study of Sex Differences, Society for Behavioral Neuroendocrinology, and Society for Neuroscience. Her research is funded by the National Institute of Mental Health and the National Science Foundation.
 
 - name: "Lisa Briand"
-  title: "_Assistant Professor_"
+  title: "Assistant Professor"
   room: "873"
   building: "Weiss Hall"
   email: "lbriand@temple.edu"
@@ -40,21 +43,23 @@
   website: "http://www.briandlab.com/"
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: "Addiction, Relapse, Glutamate Receptor Signaling, Stress"
-  bio: "Dr. Lisa Briand received her doctorate in Neuroscience from University of Michigan, where she worked with Dr. Terry Robinson investigating the effect of chronic cocaine use on cognitive function. Dr. Briand completed a postdoctoral fellowship at the University of Pennsylvania in the laboratories of Dr. Julie Blendy and Dr. Chris Pierce studying the circuitry and physiological mechanisms underlying reinstatement of cocaine seeking. Her current research program extends these findings to examine the electrophysiological mechanisms underlying drug relapse. Specifically, her research program examines the role of AMPA receptor trafficking in the ability of cues and stress to elicit relapse to cocaine seeking. Her research is currently funded by the National Institute of Drug Abuse."
+  bio: >
+    Dr. Lisa Briand received her doctorate in Neuroscience from University of Michigan, where she worked with Dr. Terry Robinson investigating the effect of chronic cocaine use on cognitive function. Dr. Briand completed a postdoctoral fellowship at the University of Pennsylvania in the laboratories of Dr. Julie Blendy and Dr. Chris Pierce studying the circuitry and physiological mechanisms underlying reinstatement of cocaine seeking. Her current research program extends these findings to examine the electrophysiological mechanisms underlying drug relapse. Specifically, her research program examines the role of AMPA receptor trafficking in the ability of cues and stress to elicit relapse to cocaine seeking. Her research is currently funded by the National Institute of Drug Abuse.
 
 - name: "Isabelle Chang"
-  title: ""
+  title: "Assistant Professor"
   room: ""
   building: "Weiss Hall"
-  email: ""
-  phone: ""
+  email: "isabelle.chang@temple.edu"
+  phone: "2152041559"
   website: ""
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: ""
-  bio: "A lifelong love of learning and numbers combined with much hard work eventually rewarded me a Ph.D. in psychology and a proficiency in statistics.  Along the way I also discovered a love of sharing what I have learned via a fulfilling career in teaching.  I am passionate about teaching life span human development and psychometrics, and like to study how children learn.  The greatest satisfaction in my teaching career comes from hearing my former students expressing gratitude for how I have helped them and sharing with me their academic and career successes.  My belief is that life should be a constant journey of learning and discovery.  I am always looking for new opportunities to learn and expand my capabilities whether it be how to grow my own food or finally learning how to ride a bike (accomplished last year!!)."
+  bio: >
+    A lifelong love of learning and numbers combined with much hard work eventually rewarded me a Ph.D. in psychology and a proficiency in statistics.  Along the way I also discovered a love of sharing what I have learned via a fulfilling career in teaching.  I am passionate about teaching life span human development and psychometrics, and like to study how children learn.  The greatest satisfaction in my teaching career comes from hearing my former students expressing gratitude for how I have helped them and sharing with me their academic and career successes.  My belief is that life should be a constant journey of learning and discovery.  I am always looking for new opportunities to learn and expand my capabilities whether it be how to grow my own food or finally learning how to ride a bike (accomplished last year!!).
 
 - name: "Jason Chein"
-  title: "_Associate Professor_"
+  title: "Associate Professor"
   room: "825"
   building: "Weiss Hall"
   email: "jchein@temple.edu"
@@ -62,10 +67,11 @@
   website: "http://www.temple.edu/tunl/"
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: "fMRI, Working memory, Cognitive control, Decision making, Adolescence, Neuroimaging, Cognition"
-  bio: "Jason Chein, Ph.D. is an Associate Professor in the Department of Psychology (Brain & Cognitive Sciences) at Temple University. Dr. Chein earned his Ph.D. in cognitive psychology with a specialization in cognitive neuroscience from the University of Pittsburgh, and then completed a post-doctoral fellowship at Princeton University. Broadly, research in Dr. Chein's laboratory employs a cognitive neuroscientific approach to evaluate alternative theoretical claims surrounding the basic mechanisms of cognition, the relationship among these mechanisms, and the contribution each makes to high-level cognitive function. Dr. Chein has extensive training in the use of functional magnetic resonance imaging (fMRI) and employs this technique in combination with traditional behavioral measures to pursue his research goals. Current research in his lab investigates how the d evelopment and training of working memory and cognitive control impacts the landscape of one's cognitive abilities, including executive functioning, learning, problem solving, and decision making."
+  bio: >
+    Jason Chein, Ph.D. is an Associate Professor in the Department of Psychology (Brain & Cognitive Sciences) at Temple University. Dr. Chein earned his Ph.D. in cognitive psychology with a specialization in cognitive neuroscience from the University of Pittsburgh, and then completed a post-doctoral fellowship at Princeton University. Broadly, research in Dr. Chein's laboratory employs a cognitive neuroscientific approach to evaluate alternative theoretical claims surrounding the basic mechanisms of cognition, the relationship among these mechanisms, and the contribution each makes to high-level cognitive function. Dr. Chein has extensive training in the use of functional magnetic resonance imaging (fMRI) and employs this technique in combination with traditional behavioral measures to pursue his research goals. Current research in his lab investigates how the d evelopment and training of working memory and cognitive control impacts the landscape of one's cognitive abilities, including executive functioning, learning, problem solving, and decision making.
 
 - name: "Eunice Chen"
-  title: "_Assistant Professor_"
+  title: "Assistant Professor"
   room: ""
   building: "Weiss Hall"
   email: "Eunice.Chen@temple.edu"
@@ -73,10 +79,11 @@
   website: "http://sites.temple.edu/tedp/"
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: "Eating and weight disorders, Translational science, Treatment"
-  bio: "Eunice Chen, Ph. D. is an Assistant Professor in the Clinical Psychology program. Dr. Chen received her PhD in Clinical Psychology from the University of Sydney, Australia and following this completed two Postdoctoral Fellowships, one at Yale University and the other at the University of Washington, Seattle. Prior to moving to Temple, she was an Assistant Professor in Psychiatry and Behavioral Neuroscience at the University of Chicago where she ran an adult eating and weight disorders program. Her primary research interest is the etiology and treatment of individuals with eating and weight disorders. A focus of this work is on the development of psychosocial treatments for subgroups of individuals with eating disorders for whom standard treatments fail (e.g. non-responders to Cognitive Behavior Therapy as well as individuals with eating disorders and co-occur ring disorders, adults with anorexia nervosa). To this end she has developed treatments for eating disorders utilizing Dialectical Behavior Therapy and Family Based Therapy. In addition, she is interested in the psychophysiology and brain circuitry associated with eating disorders and how they are impacted by psychosocial treatment. Her work is funded by the National Institute of Mental Health. She is a member of the American Psychological Association, Association for Psychological Science, Society for Psychophysiological Research and the Association for Behavioral and Cognitive Therapies."
+  bio: >
+    Eunice Chen, Ph. D. is an Assistant Professor in the Clinical Psychology program. Dr. Chen received her PhD in Clinical Psychology from the University of Sydney, Australia and following this completed two Postdoctoral Fellowships, one at Yale University and the other at the University of Washington, Seattle. Prior to moving to Temple, she was an Assistant Professor in Psychiatry and Behavioral Neuroscience at the University of Chicago where she ran an adult eating and weight disorders program. Her primary research interest is the etiology and treatment of individuals with eating and weight disorders. A focus of this work is on the development of psychosocial treatments for subgroups of individuals with eating disorders for whom standard treatments fail (e.g. non-responders to Cognitive Behavior Therapy as well as individuals with eating disorders and co-occur ring disorders, adults with anorexia nervosa). To this end she has developed treatments for eating disorders utilizing Dialectical Behavior Therapy and Family Based Therapy. In addition, she is interested in the psychophysiology and brain circuitry associated with eating disorders and how they are impacted by psychosocial treatment. Her work is funded by the National Institute of Mental Health. She is a member of the American Psychological Association, Association for Psychological Science, Society for Psychophysiological Research and the Association for Behavioral and Cognitive Therapies.
 
 - name: "Deborah Drabick"
-  title: "_Associate Professor_"
+  title: "Associate Professor"
   room: "476"
   building: "Weiss Hall"
   email: "ddrabick@temple.edu"
@@ -84,10 +91,11 @@
   website: "http://twitter.com/example"
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: "Developmental psychopathology, Conduct problems, Comorbidity"
-  bio: "Dr. Drabick’s expertise is broadly in developmental psychopathology, and more specifically in youth externalizing problems. Her work includes such areas as risk and resilience, co-occurring psychological conditions, contextual influences, and intervention. She has published articles related to most childhood conditions, including attention-deficit/hyperactivity disorder, oppositional defiant disorder, conduct disorder, anxiety, depression, and autism. Dr. Drabick is particularly interested in assessment of neurodevelopmental processes that may predict treatment outcomes and using advanced statistical techniques to understand the development of co-occurring psychological conditions. Her work has been funded by the National Institute of Mental Health, American Psychological Foundation, PA Department of Health, and Temple University. She has received numerous awards for teaching and has served as a reviewer for DSM-5 Work groups, NIH grant review panels, numerous journals, and conferences. Dr. Drabick is active in APA Division 12 and in initiatives aimed at bridging science and practice in clinical psychology training."
+  bio: >
+    Dr. Drabick’s expertise is broadly in developmental psychopathology, and more specifically in youth externalizing problems. Her work includes such areas as risk and resilience, co-occurring psychological conditions, contextual influences, and intervention. She has published articles related to most childhood conditions, including attention-deficit/hyperactivity disorder, oppositional defiant disorder, conduct disorder, anxiety, depression, and autism. Dr. Drabick is particularly interested in assessment of neurodevelopmental processes that may predict treatment outcomes and using advanced statistical techniques to understand the development of co-occurring psychological conditions. Her work has been funded by the National Institute of Mental Health, American Psychological Foundation, PA Department of Health, and Temple University. She has received numerous awards for teaching and has served as a reviewer for DSM-5 Work groups, NIH grant review panels, numerous journals, and conferences. Dr. Drabick is active in APA Division 12 and in initiatives aimed at bridging science and practice in clinical psychology training.
 
 - name: "Lauren Ellman"
-  title: "_Associate Professor_"
+  title: "Associate Professor"
   room: "832"
   building: "Weiss Hall"
   email: "ellman@temple.edu"
@@ -95,10 +103,11 @@
   website: "http://www.cla.temple.edu/ellmanlab/"
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: "Schizophrenia, Psychosis, Depression, Risk factors, Prenatal, Obstetric complications, Prodromal, Neurodevelopment, Psychoneuroimmunology"
-  bio: "Interests: Pre- and perinatal influences in neurodevelopment and in risk for major mental disorders, such as schizophrenia and depression; gene-environment interactions; risk factors in adolescence for schizophrenia (e.g. the prodrome of schizophrenia); multimodal imaging; neuropsychological assessments; psychoneuroimmunology; stress; psychiatric epidemiology. Lauren M. Ellman, Ph.D. is an Associate Professor in the Clinical area of the Psychology department at Temple University. Generally, Dr. Ellman’s research focuses on two sensitive periods of development in the prediction of schizophrenia and related disorders, the prenatal period and adolescence. This research is aimed at determining risk factors for schizophrenia in order to ultimately identify those who are vulnerable to developing the disorder and intervene at early stages to prevent the onset of serious psychiatric symptoms. Dr. Ellman has multiple ongoing studies examining pre- and perinatal contributions to schizophrenia using birth cohorts in the United States and Finland, with access to biosamples from pre- and perinatal periods. Using these cohorts, Dr. Ellman has focused on a variety of obstetric insults, such as psychosocial and neuroendocrine indicators of stress, maternal infection and maternal immune responses to infection during pregnancy, and biological indicators of hypoxia (decreased oxygen to the fetus). In these studies, Dr. Ellman explores how obstetric risk factors influence the neurodevelopmental course of schizophrenia, including premorbid functioning (e.g. motor, cognitive, and social) and functional outcomes after the onset of the disorder (e.g. neuropsychological, brain abnormalities, and symptom severity). Lastly, Dr. Ellman has a continued interest in how obstetric factors are influenced by genetic vulnerabilities related to schizophrenia. Dr. Ellman also has ongoing studies investigating risk factors for schizophrenia among older adolescents and young adults using clinical, psychosocial, and neuroimaging techniques. These studies are designed to identify individuals at risk for schizophrenia prior to the onset of the disorder. In all of Dr. Ellman’s studies, she takes a life-span approach to psychopathology, investigating how risk factors influence the course of the disorder at different developmental stages and interact with existing vulnerabilities within the individual, such as genetic susceptibility to mental disorders. Dr. Ellman received her B.A. in philosophy and psychology from Tulane University. She received her Ph.D. in clinical psychology from the University of California-Los Angeles (UCLA) with a health psychology minor. As a doctoral student, Dr. Ellman received training in psychoneuroimmunology (PNI) through UCLA’s Cousin’s center in PNI and she was a NIMH-funded predoctoral fellow through the health psychology program at UCLA. She completed her APA-accredited internship at the Sepulveda VA Ambulatory Care Center in Los Angeles, California. Dr. Ellman also completed a NIMH-funded National Research Service Award (NRSA) postdoctoral fellowship at Columbia University in the schizophrenia research fellowship program. In addition, Dr. Ellman has garnered numerous pre- and postdoctoral awards and has reviewed for multiple prestigious journals, including JAMA Psychiatry (formerly Archives of General Psychiatry), Behavior, Brain, and Immunity, Schizophrenia Bulletin, Biological Psychia try, Psychoneuroendocrinology and others. Dr. Ellman also has been trained in multiple forms of therapy and has supervised students in various theoretical modalities. She has extensive experiences working with a diverse array of client populations, with a special focus on working with individuals who are suffering from schizophrenia, as well as individuals exhibiting the first signs of psychosis. Dr. Ellman also has training in neuropsychological assessments, both clinically and in her various research projects. Dr. Ellman is a member of the Psychoneuroimmunology Research Society and the American Psychological Association."
+  bio: >
+    Interests: Pre- and perinatal influences in neurodevelopment and in risk for major mental disorders, such as schizophrenia and depression; gene-environment interactions; risk factors in adolescence for schizophrenia (e.g. the prodrome of schizophrenia); multimodal imaging; neuropsychological assessments; psychoneuroimmunology; stress; psychiatric epidemiology. Lauren M. Ellman, Ph.D. is an Associate Professor in the Clinical area of the Psychology department at Temple University. Generally, Dr. Ellman’s research focuses on two sensitive periods of development in the prediction of schizophrenia and related disorders, the prenatal period and adolescence. This research is aimed at determining risk factors for schizophrenia in order to ultimately identify those who are vulnerable to developing the disorder and intervene at early stages to prevent the onset of serious psychiatric symptoms. Dr. Ellman has multiple ongoing studies examining pre- and perinatal contributions to schizophrenia using birth cohorts in the United States and Finland, with access to biosamples from pre- and perinatal periods. Using these cohorts, Dr. Ellman has focused on a variety of obstetric insults, such as psychosocial and neuroendocrine indicators of stress, maternal infection and maternal immune responses to infection during pregnancy, and biological indicators of hypoxia (decreased oxygen to the fetus). In these studies, Dr. Ellman explores how obstetric risk factors influence the neurodevelopmental course of schizophrenia, including premorbid functioning (e.g. motor, cognitive, and social) and functional outcomes after the onset of the disorder (e.g. neuropsychological, brain abnormalities, and symptom severity). Lastly, Dr. Ellman has a continued interest in how obstetric factors are influenced by genetic vulnerabilities related to schizophrenia. Dr. Ellman also has ongoing studies investigating risk factors for schizophrenia among older adolescents and young adults using clinical, psychosocial, and neuroimaging techniques. These studies are designed to identify individuals at risk for schizophrenia prior to the onset of the disorder. In all of Dr. Ellman’s studies, she takes a life-span approach to psychopathology, investigating how risk factors influence the course of the disorder at different developmental stages and interact with existing vulnerabilities within the individual, such as genetic susceptibility to mental disorders. Dr. Ellman received her B.A. in philosophy and psychology from Tulane University. She received her Ph.D. in clinical psychology from the University of California-Los Angeles (UCLA) with a health psychology minor. As a doctoral student, Dr. Ellman received training in psychoneuroimmunology (PNI) through UCLA’s Cousin’s center in PNI and she was a NIMH-funded predoctoral fellow through the health psychology program at UCLA. She completed her APA-accredited internship at the Sepulveda VA Ambulatory Care Center in Los Angeles, California. Dr. Ellman also completed a NIMH-funded National Research Service Award (NRSA) postdoctoral fellowship at Columbia University in the schizophrenia research fellowship program. In addition, Dr. Ellman has garnered numerous pre- and postdoctoral awards and has reviewed for multiple prestigious journals, including JAMA Psychiatry (formerly Archives of General Psychiatry), Behavior, Brain, and Immunity, Schizophrenia Bulletin, Biological Psychia try, Psychoneuroendocrinology and others. Dr. Ellman also has been trained in multiple forms of therapy and has supervised students in various theoretical modalities. She has extensive experiences working with a diverse array of client populations, with a special focus on working with individuals who are suffering from schizophrenia, as well as individuals exhibiting the first signs of psychosis. Dr. Ellman also has training in neuropsychological assessments, both clinically and in her various research projects. Dr. Ellman is a member of the Psychoneuroimmunology Research Society and the American Psychological Association.
 
 - name: "Robert Fauber"
-  title: "_Associate Professor; Internship Training Director_"
+  title: "Associate Professor; Internship Training Director"
   room: "482"
   building: "Weiss Hall"
   email: "rfauber@temple.edu"
@@ -106,10 +115,11 @@
   website: ""
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: "Psychotherapy, Supervision, Clinical training, Context-centered psychotherapy"
-  bio: "Dr. Robert Fauber is a licensed clinical psychologist with an interest in psychotherapy process, training, supervision, and research. He serves as associate director of clinical training in the doctoral program in clinical psychology, where he also directs the graduate admissions process and is a core clinical supervisor in the clinical program's Psychological Services Center. In addition, Dr. Fauber serves as Director of Training for the Temple University Clinical Psychology Internship Consortium, a fully accredited pre-doctoral internship in clinical psychology housed administratively within the Department of Psychiatry and Behavioral Sciences, in collaboration with the Psychology Department. The internship focuses on the integration of applied psychotherapy research training with the provision of outpatient psychiatry services within an urban hospital setting serving a primarily disadvantaged and traditionally underserved urban community."
+  bio: >
+    Dr. Robert Fauber is a licensed clinical psychologist with an interest in psychotherapy process, training, supervision, and research. He serves as associate director of clinical training in the doctoral program in clinical psychology, where he also directs the graduate admissions process and is a core clinical supervisor in the clinical program's Psychological Services Center. In addition, Dr. Fauber serves as Director of Training for the Temple University Clinical Psychology Internship Consortium, a fully accredited pre-doctoral internship in clinical psychology housed administratively within the Department of Psychiatry and Behavioral Sciences, in collaboration with the Psychology Department. The internship focuses on the integration of applied psychotherapy research training with the provision of outpatient psychiatry services within an urban hospital setting serving a primarily disadvantaged and traditionally underserved urban community.
 
 - name: "Tania Giovannetti"
-  title: "_Associate Professor_"
+  title: "Associate Professor"
   room: "475"
   building: "Weiss Hall"
   email: "tgio@temple.edu"
@@ -117,10 +127,11 @@
   website: "http://www.temple.edu/cogneurolab/"
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: "Neuropsychology, Cognition, Everyday action, Naturalistic action, Cerebrovascular disease, Dementia, Mild cognitive impairment, Schizophrenia"
-  bio: "I have a broad background in neuropsychology, with specific training and expertise in the breakdown of everyday functioning in older adults with neurodegenerative cognitive disorders, including vascular cognitive impairment and Alzheimer’s disease. While conducting studies on the executive and episodic memory deficits associated with cerebrovascular disease in graduate school, I developed a strong interest in the everyday, functional consequences of these deficits. As an NRSA postdoctoral fellow, I completed studies that characterized the breakdown of everyday functioning in older adults with various cognitive disorders. I also developed methods for reliably evaluating performance on complex daily activities, including novel paradigms and coding schemes for error types and error monitoring. Upon joining the faculty at Temple University in 2003, I established a laboratory focused on understanding everyday functional deficits using these novel methods. I also formed new collaborations at Temple, including a productive relationship with Dr. Deborah Drabick that has expanded my repertoire of statistical methods. The research that I have completed at Temple has shown that individuals with dementia differ meaningfully in the type of difficulties that they experience with everyday tasks, with some individuals omitting large task segments and others completing task steps inaccurately. These distinct functional profiles are associated with different cognitive deficits and neuroimaging profiles. These findings and others have led to the development of a novel neuropsychological model for everyday, functional deficits in dementia. Our current research goals are to examine the utility of this model for 1) understanding the more subtle functional deficits reported in people with Mild Cognitive Impairment, 2) identifying older adults most at risk for pathological cognitive decline, and 3) informing interventions to improve functional outcomes. Through my collaborations with Drs. David Libon, Cate Price, and Thomas Floyd, I also continue to explore the cognitive effects of cerebrovascular disease in older adults through studies of cognitive aging, dementia, HIV, and cardiac surgery."
+  bio: >
+    I have a broad background in neuropsychology, with specific training and expertise in the breakdown of everyday functioning in older adults with neurodegenerative cognitive disorders, including vascular cognitive impairment and Alzheimer’s disease. While conducting studies on the executive and episodic memory deficits associated with cerebrovascular disease in graduate school, I developed a strong interest in the everyday, functional consequences of these deficits. As an NRSA postdoctoral fellow, I completed studies that characterized the breakdown of everyday functioning in older adults with various cognitive disorders. I also developed methods for reliably evaluating performance on complex daily activities, including novel paradigms and coding schemes for error types and error monitoring. Upon joining the faculty at Temple University in 2003, I established a laboratory focused on understanding everyday functional deficits using these novel methods. I also formed new collaborations at Temple, including a productive relationship with Dr. Deborah Drabick that has expanded my repertoire of statistical methods. The research that I have completed at Temple has shown that individuals with dementia differ meaningfully in the type of difficulties that they experience with everyday tasks, with some individuals omitting large task segments and others completing task steps inaccurately. These distinct functional profiles are associated with different cognitive deficits and neuroimaging profiles. These findings and others have led to the development of a novel neuropsychological model for everyday, functional deficits in dementia. Our current research goals are to examine the utility of this model for 1) understanding the more subtle functional deficits reported in people with Mild Cognitive Impairment, 2) identifying older adults most at risk for pathological cognitive decline, and 3) informing interventions to improve functional outcomes. Through my collaborations with Drs. David Libon, Cate Price, and Thomas Floyd, I also continue to explore the cognitive effects of cerebrovascular disease in older adults through studies of cognitive aging, dementia, HIV, and cardiac surgery.
 
 - name: "Elizabeth Gunderson"
-  title: "_Assistant Professor_"
+  title: "Assistant Professor"
   room: ""
   building: "Weiss Hall"
   email: "liz.gunderson@temple.edu"
@@ -128,10 +139,11 @@
   website: "http://sites.temple.edu/cognitionlearning/"
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: "Cognitive development, Numerical cognition, Spatial cognition, Achievement motivation"
-  bio: "Elizabeth Gunderson, Ph.D., is an Assistant Professor in the Department of Psychology at Temple University. She received her Ph.D. in Developmental Psychology from the University of Chicago in 2012 and her B.A. in Computer Science & Psychology from Yale University in 2005. Dr. Gunderson’s research focuses on the cognitive and socio-emotional factors that affect young children’s academic achievement, especially in the domain of mathematics. She is currently investigating how verbal interactions facilitate preschoolers’ development of number concepts; how visuo-spatial skills relate to children’s early number knowledge; how teacher’s and children’s anxieties influence students’ math performance; and how children's beliefs about the malleability of math and reading ability affect their achievement motivation."
+  bio: >
+    Elizabeth Gunderson, Ph.D., is an Assistant Professor in the Department of Psychology at Temple University. She received her Ph.D. in Developmental Psychology from the University of Chicago in 2012 and her B.A. in Computer Science & Psychology from Yale University in 2005. Dr. Gunderson’s research focuses on the cognitive and socio-emotional factors that affect young children’s academic achievement, especially in the domain of mathematics. She is currently investigating how verbal interactions facilitate preschoolers’ development of number concepts; how visuo-spatial skills relate to children’s early number knowledge; how teacher’s and children’s anxieties influence students’ math performance; and how children's beliefs about the malleability of math and reading ability affect their achievement motivation.
 
 - name: "Donald Hantula"
-  title: "_Associate Professor_"
+  title: "Associate Professor"
   room: ""
   building: "Weiss Hall"
   email: "hantula@temple.edu"
@@ -139,10 +151,11 @@
   website: "http://astro.temple.edu/~hantula/"
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: "Organizational behavior, Behavioral economics, Behavior analysis, Decision making, Evolutionary theory"
-  bio: "Dr. Hantula holds undergraduate degrees in Religion and Psychology from Emory University and graduate degrees in Psychology from the University of Notre Dame. He developed a broad perspective on the behavioral sciences and psychology, having worked as a biomedical engineering technician, behavior program supervisor, occupational health researcher, and as a professor of human resource management, management information systems, and now of psychology. His research combines themes from behavior analytic and evolutionary theories to focus on issues of choice, decision making, technology, and behavior in and around formal organizations, under the umbrella term “evolutionary behavioral economics.” Discovering “rational” reasons for supposedly “irrational” behaviors and choices is a common theme throughout much of his research – he views humans as adap ted beings, not flawed information processors. We are foragers, not rational actors. As his work is interdisciplinary and embraces multiple methodologies he has published widely in psychology journals ranging from biopsychology to organizational behavior, and also in many other fields including economics, information technology and medicine. His scholarly projects include computational modeling, meta analyses, laboratory studies, and field research in organizations and community settings."
+  bio: >
+    Dr. Hantula holds undergraduate degrees in Religion and Psychology from Emory University and graduate degrees in Psychology from the University of Notre Dame. He developed a broad perspective on the behavioral sciences and psychology, having worked as a biomedical engineering technician, behavior program supervisor, occupational health researcher, and as a professor of human resource management, management information systems, and now of psychology. His research combines themes from behavior analytic and evolutionary theories to focus on issues of choice, decision making, technology, and behavior in and around formal organizations, under the umbrella term “evolutionary behavioral economics.” Discovering “rational” reasons for supposedly “irrational” behaviors and choices is a common theme throughout much of his research – he views humans as adap ted beings, not flawed information processors. We are foragers, not rational actors. As his work is interdisciplinary and embraces multiple methodologies he has published widely in psychology journals ranging from biopsychology to organizational behavior, and also in many other fields including economics, information technology and medicine. His scholarly projects include computational modeling, meta analyses, laboratory studies, and field research in organizations and community settings.
 
 - name: "Richard Heimberg"
-  title: "_Thaddeus L. Bolton Professor of Psychology Professor; David Kipnis Distinguished Faculty Fellow_"
+  title: "Thaddeus L. Bolton Professor of Psychology Professor; David Kipnis Distinguished Faculty Fellow"
   room: "420"
   building: "Weiss Hall"
   email: "heimberg@temple.edu"
@@ -150,10 +163,11 @@
   website: "http://sites.temple.edu/anxiety/"
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: "Anxiety disorders, Social anxiety disorder(social phobia), Dental anxiety/phobia, Cognitive-behavioral therapy, Cognitive and behavioral assessment, Cognition and information-processing in psychopathology, Emotion dysregulation in psychopathology"
-  bio: "Richard G. Heimberg received his PhD from Florida State University in 1977. He is the Thaddeus L. Bolton Professor of Psychology and the Director of the Adult Anxiety Clinic of Temple University. Dr. Heimberg is well known for his efforts to develop cognitive-behavioral treatments for social anxiety disorder and examine their efficacy in comparison to (or in combination with) medication treatments. He and his colleagues have also conducted research on the treatment of generalized anxiety disorder. Most recently, Dr. Heimberg and colleagues at the Temple University Kornberg School of Dentistry have been working on a program for the treatment of patients with anxiety about going to the dentist. His research has been supported by grants from the National Institute of Mental Health and the National Institute of Dental and Craniofacial Research. Dr. Heimberg has published 11 books and more than 400 articles and chapters on social anxiety, generalized anxiety disorder, dental anxiety, and related topics. He was recently listed among the top 1% of cited authors in his field according to Thomson Reuters’ Essential Science Indicators, a statistical compilation of publications and citations. Dr. Heimberg is Past President of the Association for Behavioral and Cognitive Therapies (ABCT) and the Society for a Science of Clinical Psychology. He is also Past Editor of Behavior Therapy, the flagship journal of ABCT and has served on 15 additional editorial boards over the years. Dr. Heimberg was named one of the four most influential psychological researchers in anxiety in a 2001 survey of members of the Anxiety and Depression Association of America, and he serves on the Scientific Council of that association. He is a founding fellow of the Academy of Cognitive Therapy and was the inaugural recipient of the Academy's A.T. Beck Award for Significant and Enduring Contribution to Cognitive Therapy. He is a previous recipient of the Outstanding Research Award of the American Society for Group Work. He has also received awards from the Department of Psychology at his graduate alma mater Florida State University (2005 Doctoral Graduate of Distinction), from Temple University (2005 Paul Eberman Award for Excellence in Research), from ABCT (Outstanding Mentor 2006), from the Society of Clinical Psychology (Toy Caldwell-Colbert Award for Distinguished Educator in Clinical Psychology, 2014) and the American Psychological Association of Graduate Students (Raymond D. Fowler Award for Outstanding Contributions to Students’ Professional Development, 2015). Dr. Heimberg has served as mentor to over 60 doctoral students in clinical psychology over the course of his career."
+  bio: >
+    Richard G. Heimberg received his PhD from Florida State University in 1977. He is the Thaddeus L. Bolton Professor of Psychology and the Director of the Adult Anxiety Clinic of Temple University. Dr. Heimberg is well known for his efforts to develop cognitive-behavioral treatments for social anxiety disorder and examine their efficacy in comparison to (or in combination with) medication treatments. He and his colleagues have also conducted research on the treatment of generalized anxiety disorder. Most recently, Dr. Heimberg and colleagues at the Temple University Kornberg School of Dentistry have been working on a program for the treatment of patients with anxiety about going to the dentist. His research has been supported by grants from the National Institute of Mental Health and the National Institute of Dental and Craniofacial Research. Dr. Heimberg has published 11 books and more than 400 articles and chapters on social anxiety, generalized anxiety disorder, dental anxiety, and related topics. He was recently listed among the top 1% of cited authors in his field according to Thomson Reuters’ Essential Science Indicators, a statistical compilation of publications and citations. Dr. Heimberg is Past President of the Association for Behavioral and Cognitive Therapies (ABCT) and the Society for a Science of Clinical Psychology. He is also Past Editor of Behavior Therapy, the flagship journal of ABCT and has served on 15 additional editorial boards over the years. Dr. Heimberg was named one of the four most influential psychological researchers in anxiety in a 2001 survey of members of the Anxiety and Depression Association of America, and he serves on the Scientific Council of that association. He is a founding fellow of the Academy of Cognitive Therapy and was the inaugural recipient of the Academy's A.T. Beck Award for Significant and Enduring Contribution to Cognitive Therapy. He is a previous recipient of the Outstanding Research Award of the American Society for Group Work. He has also received awards from the Department of Psychology at his graduate alma mater Florida State University (2005 Doctoral Graduate of Distinction), from Temple University (2005 Paul Eberman Award for Excellence in Research), from ABCT (Outstanding Mentor 2006), from the Society of Clinical Psychology (Toy Caldwell-Colbert Award for Distinguished Educator in Clinical Psychology, 2014) and the American Psychological Association of Graduate Students (Raymond D. Fowler Award for Outstanding Contributions to Students’ Professional Development, 2015). Dr. Heimberg has served as mentor to over 60 doctoral students in clinical psychology over the course of his career.
 
 - name: "Kathryn Hirsh-Pasek"
-  title: "_Professor_"
+  title: "Professor"
   room: ""
   building: "Ambler Campus"
   email: "khirshpa@temple.edu"
@@ -161,10 +175,11 @@
   website: "http://astro.temple.edu/~khirshpa/"
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: "Developmental Psychology, Child Development, Language, Literacy, Play, Early Childhood"
-  bio: "Kathryn Hirsh-Pasek is the Stanley and Debra Lefkowitz Distinguished Faculty Fellow in the Department of Psychology at Temple University, where she serves as Director of the Temple Infant and Child Laboratory. Kathy received her bachelor’s degree from the University of Pittsburgh and her Ph.D. at University of Pennsylvania. Her research in the areas of early language development, literacy and infant cognition has been funded by the National Science Foundation and the National Institutes of Health and Human Development and the Department of Education (IES) resulting in 11 books and over 150 publications. With her long time collaborator, Roberta Golinkoff, she is a recipient of The APA Bronfenbrenner Award for lifetime contribution to the science of developmental psychology in the service of science and society and the APA Award for Distinguished Service to Psychological Science. She also received Temple University’s Great Teacher Award and Paul Eberman Research Award. She is a Fellow of the American Psychological Association and the American Psychological Society, served as the Associate Editor of Child Development and treasurer of the International Association for Infant Studies. She serves on the editorial board of Infancy. Her book, Einstein Never used Flashcards: How children really learn and why they need to play more and memorize less, (Rodale Books) won the prestigious Books for Better Life Award as the best psychology book in 2003. Kathy is deeply invested in bridging the gap between research and practice. To that end, she was a researcher on the NICHD Study of Early Child Care and Youth Development, co-developed the language and literacy preschool curricula for the State of California, was the co-founder of the Ultimate Block Party (www.ultimateblockparty.com) and Learn (www. LearnNow.org), The Learning Resource Network. She serves on the advisory boards of Disney Junior, Fred Rogers Center, Jumpstart, The New York Hall of Science and the Dupage Children’s Museum and is a regular columnist for the Huffington Post and Psychology Today."
+  bio: >
+    Kathryn Hirsh-Pasek is the Stanley and Debra Lefkowitz Distinguished Faculty Fellow in the Department of Psychology at Temple University, where she serves as Director of the Temple Infant and Child Laboratory. Kathy received her bachelor’s degree from the University of Pittsburgh and her Ph.D. at University of Pennsylvania. Her research in the areas of early language development, literacy and infant cognition has been funded by the National Science Foundation and the National Institutes of Health and Human Development and the Department of Education (IES) resulting in 11 books and over 150 publications. With her long time collaborator, Roberta Golinkoff, she is a recipient of The APA Bronfenbrenner Award for lifetime contribution to the science of developmental psychology in the service of science and society and the APA Award for Distinguished Service to Psychological Science. She also received Temple University’s Great Teacher Award and Paul Eberman Research Award. She is a Fellow of the American Psychological Association and the American Psychological Society, served as the Associate Editor of Child Development and treasurer of the International Association for Infant Studies. She serves on the editorial board of Infancy. Her book, Einstein Never used Flashcards: How children really learn and why they need to play more and memorize less, (Rodale Books) won the prestigious Books for Better Life Award as the best psychology book in 2003. Kathy is deeply invested in bridging the gap between research and practice. To that end, she was a researcher on the NICHD Study of Early Child Care and Youth Development, co-developed the language and literacy preschool curricula for the State of California, was the co-founder of the Ultimate Block Party (www.ultimateblockparty.com) and Learn (www. LearnNow.org), The Learning Resource Network. She serves on the advisory boards of Disney Junior, Fred Rogers Center, Jumpstart, The New York Hall of Science and the Dupage Children’s Museum and is a regular columnist for the Huffington Post and Psychology Today.
 
 - name: "Peter James"
-  title: "_Associate Professor_"
+  title: "Associate Professor"
   room: ""
   building: "Weiss Hall"
   email: "pjames@temple.edu"
@@ -172,10 +187,11 @@
   website: ""
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: "Behavioral neuroscience, Hormones, Reproductive behaviors, Stress, Reward"
-  bio: "Dr. James completed a postdoctoral fellowship from The Salk Institute for Biological Studies and The Scripps Research Institute after receiving his PhD in Behavioral Neuroscience from Lehigh University and his BS in Psychology from DeSales University. His research interests have focused upon the central effects of hormones on behaviors and how stress specifically influences hormone release. In 2008, Dr. James began teaching Psychology and Neuroscience courses for the Department of Psychology at Temple University. In 2012, Dr. James began serving as the Associate Chair for the Department of Psychology at Temple University."
+  bio: >
+    Dr. James completed a postdoctoral fellowship from The Salk Institute for Biological Studies and The Scripps Research Institute after receiving his PhD in Behavioral Neuroscience from Lehigh University and his BS in Psychology from DeSales University. His research interests have focused upon the central effects of hormones on behaviors and how stress specifically influences hormone release. In 2008, Dr. James began teaching Psychology and Neuroscience courses for the Department of Psychology at Temple University. In 2012, Dr. James began serving as the Associate Chair for the Department of Psychology at Temple University.
 
 - name: "Kareem Johnson"
-  title: "_Assistant Professor_"
+  title: "Assistant Professor"
   room: "518"
   building: "Weiss Hall"
   email: "kareem.johnson@temple.edu"
@@ -183,10 +199,11 @@
   website: ""
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: "Social Psychology, Emotion, Positive Emotion, Stereotypes, Prejudice, Facial Recognition, Categorization, Evolutionary Psychology"
-  bio: "My primary research interests focus on how emotional states influence cognitive processes such as facial recognition. My past research has shown how positive emotional states can improve cross-racial identification. I have taught a wide variety of courses, but my specialty is in teaching Social Psychology, Cognitive Psychology, and Social Cognition. I also have a strong interest in Evolutionary Psychology, because evolutionary perspectives allow us to explain all scientific disciplines under a single framework."
+  bio: >
+    My primary research interests focus on how emotional states influence cognitive processes such as facial recognition. My past research has shown how positive emotional states can improve cross-racial identification. I have taught a wide variety of courses, but my specialty is in teaching Social Psychology, Cognitive Psychology, and Social Cognition. I also have a strong interest in Evolutionary Psychology, because evolutionary perspectives allow us to explain all scientific disciplines under a single framework.
 
 - name: "Andrew Karpinski"
-  title: "_Associate Professor_"
+  title: "Associate Professor"
   room: "520"
   building: "Weiss Hall"
   email: "andrew.karpinski@temple.edu"
@@ -194,10 +211,11 @@
   website: "http://sites.temple.edu/karplab"
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: "Implicit cognition, Unconscious processes"
-  bio: "I am a social psychologist interested in how the mind works, with a focus on unconscious processes. My research concerns the measurement of implicit attitudes and the nature of (primarily unconscious) cognition. I teach courses on consciousness (and unconsciousness), social psychology, social cognition, and graduate statistics. In my spare time I like to ride my bike, cheer for the Phillies, and travel."
+  bio: >
+    I am a social psychologist interested in how the mind works, with a focus on unconscious processes. My research concerns the measurement of implicit attitudes and the nature of (primarily unconscious) cognition. I teach courses on consciousness (and unconsciousness), social psychology, social cognition, and graduate statistics. In my spare time I like to ride my bike, cheer for the Phillies, and travel.
 
 - name: "Philip C. Kendall"
-  title: "_Distinguished University Professor and Laura H. Carnell Professor of Psychology_"
+  title: "Distinguished University Professor and Laura H. Carnell Professor of Psychology"
   room: ""
   building: "Weiss Hall"
   email: "pkendall@temple.edu"
@@ -205,10 +223,11 @@
   website: "http://www.childanxiety.org/"
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: "Child and adolescent clinical psychology, Anxiety disorders and their treatment, Computer-assisted mental health services for youth"
-  bio: "Dr. Kendall is an active researcher, scholar, and clinician. His CV lists over 450 publications, including over 30 books and over 20 treatment manuals and workbooks. His treatment programs have been translated into dozens of languages, and he has had over 30 years of uninterrupted grant support from various agencies. Having received many thousands of citations per year, he placed among an elite handful of the most “Highly-Cited” individuals in all of the social and medical sciences. In a recent quantitative analysis of the publications by and citations to all members of the faculty in the 157 American Psychological Association approved programs in clinical psychology, Dr. Kendall ranked 5th. Dr. Kendall has garnered prestigious awards: Fellow at the Center for Advanced Study in the Behavioral Sciences, inaugural Research Recognition Award from the Anxiety Disorders Association of America, “Great Teacher” award from Temple University, identified as a “top therapist” in the tristate area by Philadelphia Magazine, and a named chair and Distinguished University Professorship at Temple University. He has been president of the Society of Clinical Child and Adolescent Psychology (Division 53) of APA as well as President of the Association for the Advancement of Behavior Therapy (AABT, now ABCT). Recently, ABCT recognized and awarded him for his “Outstanding Contribution by an Individual for Educational / Training Activities.” Dr. Kendall has contributed as a basic scientist, theorist, teacher, administrative leader, and public intellectual. His contributions include seminal work on the treatment of anxiety disorders in youth, cognitive-behavioral theory, assessment, and treatment, research methodology, and in the conceptualizing and understanding of the psychopathology and treatment of children and adolescents. Dr. Kendall is known for his clinical sensitivity, rigorous research methodology, creative and integrative approaches, and commitment to graduate mentoring."
+  bio: >
+    Dr. Kendall is an active researcher, scholar, and clinician. His CV lists over 450 publications, including over 30 books and over 20 treatment manuals and workbooks. His treatment programs have been translated into dozens of languages, and he has had over 30 years of uninterrupted grant support from various agencies. Having received many thousands of citations per year, he placed among an elite handful of the most “Highly-Cited” individuals in all of the social and medical sciences. In a recent quantitative analysis of the publications by and citations to all members of the faculty in the 157 American Psychological Association approved programs in clinical psychology, Dr. Kendall ranked 5th. Dr. Kendall has garnered prestigious awards: Fellow at the Center for Advanced Study in the Behavioral Sciences, inaugural Research Recognition Award from the Anxiety Disorders Association of America, “Great Teacher” award from Temple University, identified as a “top therapist” in the tristate area by Philadelphia Magazine, and a named chair and Distinguished University Professorship at Temple University. He has been president of the Society of Clinical Child and Adolescent Psychology (Division 53) of APA as well as President of the Association for the Advancement of Behavior Therapy (AABT, now ABCT). Recently, ABCT recognized and awarded him for his “Outstanding Contribution by an Individual for Educational / Training Activities.” Dr. Kendall has contributed as a basic scientist, theorist, teacher, administrative leader, and public intellectual. His contributions include seminal work on the treatment of anxiety disorders in youth, cognitive-behavioral theory, assessment, and treatment, research methodology, and in the conceptualizing and understanding of the psychopathology and treatment of children and adolescents. Dr. Kendall is known for his clinical sensitivity, rigorous research methodology, creative and integrative approaches, and commitment to graduate mentoring.
 
 - name: "Joshua Klugman"
-  title: "_Assistant Professor_"
+  title: "Assistant Professor"
   room: "763"
   building: "Gladfelter Hall"
   email: "klugman@temple.edu"
@@ -216,10 +235,11 @@
   website: "http://sites.temple.edu/klugman/"
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: "Sociology of Education, Suicide, Race, Immigration, College Destinations, Stratification"
-  bio: "I am a faculty member in the Department of Sociology and Department of Psychology at Temple University. I am primarily a sociologist of education, studying how upper-middle-class families exploit resource inequalities between schools to provide educational advantages for their children, as well as how school racial segregation matters for children outside of the traditional black-white dichotomy (namely Hispanic children and multiracial children). I also teach graduate-level statistical methods in the Psychology department"
+  bio: >
+    I am a faculty member in the Department of Sociology and Department of Psychology at Temple University. I am primarily a sociologist of education, studying how upper-middle-class families exploit resource inequalities between schools to provide educational advantages for their children, as well as how school racial segregation matters for children outside of the traditional black-white dichotomy (namely Hispanic children and multiracial children). I also teach graduate-level statistical methods in the Psychology department.
 
 - name: "Melinda Mattingly"
-  title: "_Professor_"
+  title: "Professor"
   room: ""
   building: "Weiss Hall"
   email: "melinda.mattingly@temple.edu"
@@ -227,194 +247,137 @@
   website: ""
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: "Teaching, Social psychology, Health psychology"
-  bio: "Melinda Mattingly (Ph.D., Saint Louis University, 2012) is Assistant Professor of Psychology (teaching faculty). Dr. Mattingly obtained her Ph.D. in Experimental Social Psychology with a minor in research Methodology and Statistics. Her dissertation and subsequent research has focused on topics in social and health psychology, including health attitudes and persuasion and weight stigma and discrimination."
+  bio: >
+    Melinda Mattingly (Ph.D., Saint Louis University, 2012) is Assistant Professor of Psychology (teaching faculty). Dr. Mattingly obtained her Ph.D. in Experimental Social Psychology with a minor in research Methodology and Statistics. Her dissertation and subsequent research has focused on topics in social and health psychology, including health attitudes and persuasion and weight stigma and discrimination.
 
-name: "Michael McCloskey"
-title: "_Associate  Professor_"
-room: ""
-building: "Weiss Hall"  
-email: "mikemccloskey@temple.edu"
-phone: "2152042256"
-website: "http://sites.temple.edu/madlab/"
-photo: "https://randomuser.me/api/portraits/men/12.jpg"
-expertise: "Aggression, Intermittent Explosive Disorder, Suicide, Non-Suicidal Self-Aggression"
-bio: "Michael McCloskey, Ph. D. is an Associate Professor in the Clinical Psychology program. His research examines on the interplay of cognitive-affective, psychosocial, and biologic processes involved in the development and maintenance of affect dysregulation, with an emphasis on self and other directed aggression. This includes the development of interventions to reduce aggression among individuals with severe aggressive problems including those with Intermittent Explosive Disorder (IED). To this end Dr. McCloskey is the director of the Mechanisms of Affect Dysregulation Clinical Research Laboratory (MADLAB). Dr. McCloskey is the author of numerous chapters and articles. His research has been funded by the National Institute of Mental Health, National Institute of Alcohol Abuse and Alcoholism, and the American Foundation for Suicide Prevention. His current NIH- funded studies include an examination of early response to SSRI treatment among patients with Borderline Personality Disorder and the development of a cognitive-behavioral intervention for Intermittent Explosive Disorder. Dr. McCloskey received his Ph. D. in Psychology from the University of Southern Mississippi in 2001. He completed his pre-doctoral internship at the New Orleans Veterans Administration Medical Center followed by a post-doctoral fellowship at the University of Chicago Clinical Neuroscience and Psychopharmacology Research Unit. Before joining the faculty at Temple University in 2009, Dr. McCloskey was an Assistant Professor at the University of Chicago Department of Psychiatry and Behavioral Neuroscience."
+- name: "Michael McCloskey"
+  title: "Associate  Professor"
+  room: ""
+  building: "Weiss Hall"
+  email: "mikemccloskey@temple.edu"
+  phone: "2152042256"
+  website: "http://sites.temple.edu/madlab/"
+  photo: "https://randomuser.me/api/portraits/men/12.jpg"
+  expertise: "Aggression, Intermittent Explosive Disorder, Suicide, Non-Suicidal Self-Aggression"
+  bio: >
+    Michael McCloskey, Ph. D. is an Associate Professor in the Clinical Psychology program. His research examines on the interplay of cognitive-affective, psychosocial, and biologic processes involved in the development and maintenance of affect dysregulation, with an emphasis on self and other directed aggression. This includes the development of interventions to reduce aggression among individuals with severe aggressive problems including those with Intermittent Explosive Disorder (IED). To this end Dr. McCloskey is the director of the Mechanisms of Affect Dysregulation Clinical Research Laboratory (MADLAB). Dr. McCloskey is the author of numerous chapters and articles. His research has been funded by the National Institute of Mental Health, National Institute of Alcohol Abuse and Alcoholism, and the American Foundation for Suicide Prevention. His current NIH- funded studies include an examination of early response to SSRI treatment among patients with Borderline Personality Disorder and the development of a cognitive-behavioral intervention for Intermittent Explosive Disorder. Dr. McCloskey received his Ph. D. in Psychology from the University of Southern Mississippi in 2001. He completed his pre-doctoral internship at the New Orleans Veterans Administration Medical Center followed by a post-doctoral fellowship at the University of Chicago Clinical Neuroscience and Psychopharmacology Research Unit. Before joining the faculty at Temple University in 2009, Dr. McCloskey was an Assistant Professor at the University of Chicago Department of Psychiatry and Behavioral Neuroscience.
 
-name: "Nora Newcombe"
-title: "_Laura H. Carnell Professor of Psychology, James H. Glackin Distinguished Faculty Fellow_"
-room: "318"
-building: "Weiss Hall"  
-email: "newcombe@temple.edu"
-phone: "2152046944"
-website: "http://nora%20s.%20newcombe/"
-website: "http://www.temple.edu/infantlab/"
-website: "http://sites.temple.edu/risc/"
-website: "http://sites.temple.edu/tiles/"
-photo: "https://randomuser.me/api/portraits/men/12.jpg"
-expertise: "Cognition, Development, Spatial thinking, Memory, STEM education"
-bio: "Nora S. Newcombe, Ph.D. , is a Professor of Psychology at Temple University and PI of the Spatial Intelligence and Learning Center (SILC), headquartered at Temple and involving Northwestern, the University of Chicago and the University of Pennsylvania as primary partners. Dr. Newcombe was educated at Antioch College, where she graduated with a major in psychology in 1972; and at Harvard University, where she received her Ph.D. in Psychology and Social Relations in 1976. She taught previously at Penn State University. Dr. Newcombe has served as Editor of the Journal of Experimental Psychology: General and as Associate Editor of Psychological Bulletin, as well as on numerous editorial boards and grant review panels. She is currently an Associate Editor for Cognitive Psychology and for WIRES in Cognitive Science. Honors include the William James Fellow Award from APS and the George Miller Award and the G. Stanley Hall Awards from APA, the Award for Distinguished Service to Psychological Science, also from APA, and the Women in Cognitive Science Mentor Award. She is a fellow of four divisions of the American Psychological Association (General, Experimental, Developmental, and Psychology of Women), of the American Psychological Society, of the Cognitive Science Society, and of the American Association for the Advancement of Science, and has been a Visiting Professor at the University of Pennsylvania, Princeton, and the Wissenschaftskolleg in Berlin. She is a member of the American Academy of A rts and Sciences and the Society of Experimental Psychologists."
+- name: "Nora Newcombe"
+  title: "Laura H. Carnell Professor of Psychology, James H. Glackin Distinguished Faculty Fellow"
+  room: "318"
+  building: "Weiss Hall"
+  email: "newcombe@temple.edu"
+  phone: "2152046944"
+  website: "https://sites.temple.edu/newcombe/"
+  photo: "https://randomuser.me/api/portraits/men/12.jpg"
+  expertise: "Cognition, Development, Spatial thinking, Memory, STEM education"
+  bio: >
+    Nora S. Newcombe, Ph.D., is a Professor of Psychology at Temple University and PI of the Spatial Intelligence and Learning Center (SILC), headquartered at Temple and involving Northwestern, the University of Chicago and the University of Pennsylvania as primary partners. Dr. Newcombe was educated at Antioch College, where she graduated with a major in psychology in 1972; and at Harvard University, where she received her Ph.D. in Psychology and Social Relations in 1976. She taught previously at Penn State University. Dr. Newcombe has served as Editor of the Journal of Experimental Psychology: General and as Associate Editor of Psychological Bulletin, as well as on numerous editorial boards and grant review panels. She is currently an Associate Editor for Cognitive Psychology and for WIRES in Cognitive Science. Honors include the William James Fellow Award from APS and the George Miller Award and the G. Stanley Hall Awards from APA, the Award for Distinguished Service to Psychological Science, also from APA, and the Women in Cognitive Science Mentor Award. She is a fellow of four divisions of the American Psychological Association (General, Experimental, Developmental, and Psychology of Women), of the American Psychological Society, of the Cognitive Science Society, and of the American Association for the Advancement of Science, and has been a Visiting Professor at the University of Pennsylvania, Princeton, and the Wissenschaftskolleg in Berlin. She is a member of the American Academy of A rts and Sciences and the Society of Experimental Psychologists.
 
-name: "Thomas Olino"
-title: "_Assistant Professor_"
-room: ""
-building: "Weiss Hall"  
-email: "thomas.olino@temple.edu"
-phone: "2152041553"
-website: ""
-photo: "https://randomuser.me/api/portraits/men/12.jpg"
-expertise: "Depression, Developmental Psychopathology, Statistical Methods, Neurobiology, Reward Function"
-bio: "Thomas M. Olino, PhD, is an Assistant Professor of Psychology in the Clinical area of the Psychology department at Temple University. He completed his B.S. in Biology & Society and Human Development from Cornell University. He received his PhD in Clinical Psychology from Stony Brook University with a minor in Quantitative Methods. He completed his clinical internship at Western Psychiatric Institute and Clinic and a post-doctoral fellowship at the University of Pittsburgh. Dr. Olino was previously Assistant Professor of Psychiatry at the University of Pittsburgh. Most generally, Dr. Olino is interested in the etiology of depression, thus, his work includes investigations across multiple candidate processes. His principal interests within this area are concerned with diminished anticipation of and responses to rewards (i.e., anhedonia) as a potential mar ker of risk for depression. This work is informed through the use of multiple measurement strategies, including self-report, behavioral assessments, and functional MRI methods. Dr. Olino is also interested in how adolescent development interacts with specific risk factors to increase the likelihood of developing depression. His current work is supported by the National Institute of Mental Health. He a member of the American Psychological Association, Association for Psychological Science, Society of Research of Psychopathology, International Society for Research in Child and Adolescent Psychopathology, Society for Research in Child Development, and the Society for a Science of Clinical Psychology."
+- name: "Thomas Olino"
+  title: "Assistant Professor"
+  room: ""
+  building: "Weiss Hall"
+  email: "thomas.olino@temple.edu"
+  phone: "2152041553"
+  website: ""
+  photo: "https://randomuser.me/api/portraits/men/12.jpg"
+  expertise: "Depression, Developmental Psychopathology, Statistical Methods, Neurobiology, Reward Function"
+  bio: >
+    Thomas M. Olino, PhD, is an Assistant Professor of Psychology in the Clinical area of the Psychology department at Temple University. He completed his B.S. in Biology & Society and Human Development from Cornell University. He received his PhD in Clinical Psychology from Stony Brook University with a minor in Quantitative Methods. He completed his clinical internship at Western Psychiatric Institute and Clinic and a post-doctoral fellowship at the University of Pittsburgh. Dr. Olino was previously Assistant Professor of Psychiatry at the University of Pittsburgh. Most generally, Dr. Olino is interested in the etiology of depression, thus, his work includes investigations across multiple candidate processes. His principal interests within this area are concerned with diminished anticipation of and responses to rewards (i.e., anhedonia) as a potential mar ker of risk for depression. This work is informed through the use of multiple measurement strategies, including self-report, behavioral assessments, and functional MRI methods. Dr. Olino is also interested in how adolescent development interacts with specific risk factors to increase the likelihood of developing depression. His current work is supported by the National Institute of Mental Health. He a member of the American Psychological Association, Association for Psychological Science, Society of Research of Psychopathology, International Society for Research in Child and Adolescent Psychopathology, Society for Research in Child Development, and the Society for a Science of Clinical Psychology.
 
-name: "Ingrid Olson"
-title: "_Professor_"
-room: ""
-building: "Weiss Hall"  
-email: "iolson@temple.edu"
-phone: "2152047318"
-website: ""
-photo: "https://randomuser.me/api/portraits/men/12.jpg"
-expertise: "Memory, Social cognition, Cognitive neuroscience, Semantics, fMRI, Cognitive training"
-bio: "Dr. Ingrid Olson received her undergraduate degree from the University of Michigan, Ann Arbor. After a brief hiatus working at Northwestern Medical School in Chicago, Dr. Olson moved to New Haven, Connecticut to pursue a Ph.D. at Yale University. She worked first with Tom Carew, then Marvin Chun and Truett Allison in the Department of Psychology. Professor Olson’s dissertation was on a type of statistical learning called “contextual cueing.” While at Yale, she also began working with Yuhong Jiang to study visual working memory. For her postdoc, she stayed in New Haven, but moved to the medical school to work with John Gore on biomedical imaging. Dr. Olson is currently an associate professor of Psychology at Temple University. Her research is on various types of memory – episodic memory, semantic memory, and working memory – as well as the intersection of memory with decision processes, language, and social processing."
+- name: "Ingrid Olson"
+  title: "Professor"
+  room: ""
+  building: "Weiss Hall"
+  email: "iolson@temple.edu"
+  phone: "2152047318"
+  website: ""
+  photo: "https://randomuser.me/api/portraits/men/12.jpg"
+  expertise: "Memory, Social cognition, Cognitive neuroscience, Semantics, fMRI, Cognitive training"
+  bio: >
+    Dr. Ingrid Olson received her undergraduate degree from the University of Michigan, Ann Arbor. After a brief hiatus working at Northwestern Medical School in Chicago, Dr. Olson moved to New Haven, Connecticut to pursue a Ph.D. at Yale University. She worked first with Tom Carew, then Marvin Chun and Truett Allison in the Department of Psychology. Professor Olson’s dissertation was on a type of statistical learning called “contextual cueing.” While at Yale, she also began working with Yuhong Jiang to study visual working memory. For her postdoc, she stayed in New Haven, but moved to the medical school to work with John Gore on biomedical imaging. Dr. Olson is currently an associate professor of Psychology at Temple University. Her research is on various types of memory – episodic memory, semantic memory, and working memory – as well as the intersection of memory with decision processes, language, and social processing.
 
-name: "Willis Overton"
-title: "_Thaddeus L. Bolton Professor of Psychology, Emeritus_"
-room: "824"
-building: "Weiss Hall"  
-email: "overton@temple.edu"
-phone: "2153210672"
-website: "http://sites.temple.edu/woverton/"
-photo: "https://randomuser.me/api/portraits/men/12.jpg"
-expertise: "Developmental Science, Developmental Theory, Cognitive Development"
-bio: "Willis F. Overton is the Thaddeus Lincoln Bolton Professor of Psychology, Emeritus. He works in the fields of Developmental and Clinical Psychology. He is a Fellow of the American Psychological Association in Division 7 (Developmental), Division 12 (Clinical), and Division 20 (Adult Development & Aging). His orientation in Developmental Science and Developmental Psychopathology entails a focus on relational person-oriented embodied action approaches to development. A number of his writings focus on the articulation of philosophical, metatheoretical (e.g., relational developmental systems), and methodological assumptions that ground and contextualize alternative conceptions of development, cognition, personality and the nature of scientific inquiry. Following several years of service in the U.S. Marine Corps, Professor Overton received his university education at Boston University where he was awarded his B. A. (magna cum laude) and M.A. in psychology. He received his Ph.D. from Clark University where he was trained in Developmental and Clinical Psychology. Prior to joining the Temple faculty in 1972 as Director of the Division of Developmental Psychology he taught in the Psychology Department at SUNY/Buffalo. He has also taught in a number of European countries including Czechoslovak, Germany, The Netherlands, Poland, and Switzerland. In 1982 he was awarded a prestigious Lindback Foundation Award for distinguished teaching. Professor Overton served as chair of the psychology department at Temple University from 2000-2006. His clinical work has included supervision of psychological interns at Pennsylvania and, until its closing, he was Senior Research Scientist at The Institute of Pennsylvania Hospital. Professor Overton is a past President of the Jean Piaget Society and currently President of the Society for the Study of Human Development. After a number of years on the Board of Directors of the Jean Piaget Society, he is currently an honorary member of that Board. He was Editor of Monographs of the Society for Research in Child Development from 1999-2006. He was Associate Editor of the journal Developmental Psychology for several years, and has served on numerous editorial boards including Child Development , Cognitive Development, Development & Psychopathology , Human Development , Journal of Experimental Child Psychology , Journal of Adult Development , Journal of Research on Adolescents , International Journal of Behavioral Development , and Psychological Inquiry . He was also a member of the NIH Developmental Behavioral Sciences Study Section, and has served on many committees of the American Psychological Association, the Society for Research in Child Development, and the Jean Piaget Society."
+- name: "Willis Overton"
+  title: "Thaddeus L. Bolton Professor of Psychology, Emeritus"
+  room: "824"
+  building: "Weiss Hall"
+  email: "overton@temple.edu"
+  phone: "2153210672"
+  website: "http://sites.temple.edu/woverton/"
+  photo: "https://randomuser.me/api/portraits/men/12.jpg"
+  expertise: "Developmental Science, Developmental Theory, Cognitive Development"
+  bio: >
+    Willis F. Overton is the Thaddeus Lincoln Bolton Professor of Psychology, Emeritus. He works in the fields of Developmental and Clinical Psychology. He is a Fellow of the American Psychological Association in Division 7 (Developmental), Division 12 (Clinical), and Division 20 (Adult Development & Aging). His orientation in Developmental Science and Developmental Psychopathology entails a focus on relational person-oriented embodied action approaches to development. A number of his writings focus on the articulation of philosophical, metatheoretical (e.g., relational developmental systems), and methodological assumptions that ground and contextualize alternative conceptions of development, cognition, personality and the nature of scientific inquiry. Following several years of service in the U.S. Marine Corps, Professor Overton received his university education at Boston University where he was awarded his B. A. (magna cum laude) and M.A. in psychology. He received his Ph.D. from Clark University where he was trained in Developmental and Clinical Psychology. Prior to joining the Temple faculty in 1972 as Director of the Division of Developmental Psychology he taught in the Psychology Department at SUNY/Buffalo. He has also taught in a number of European countries including Czechoslovak, Germany, The Netherlands, Poland, and Switzerland. In 1982 he was awarded a prestigious Lindback Foundation Award for distinguished teaching. Professor Overton served as chair of the psychology department at Temple University from 2000-2006. His clinical work has included supervision of psychological interns at Pennsylvania and, until its closing, he was Senior Research Scientist at The Institute of Pennsylvania Hospital. Professor Overton is a past President of the Jean Piaget Society and currently President of the Society for the Study of Human Development. After a number of years on the Board of Directors of the Jean Piaget Society, he is currently an honorary member of that Board. He was Editor of Monographs of the Society for Research in Child Development from 1999-2006. He was Associate Editor of the journal Developmental Psychology for several years, and has served on numerous editorial boards including Child Development , Cognitive Development, Development & Psychopathology , Human Development , Journal of Experimental Child Psychology , Journal of Adult Development , Journal of Research on Adolescents , International Journal of Behavioral Development , and Psychological Inquiry . He was also a member of the NIH Developmental Behavioral Sciences Study Section, and has served on many committees of the American Psychological Association, the Society for Research in Child Development, and the Jean Piaget Society.
 
-name: "Catherine Panzarella"
-title: "_Clinical Management Faculty, Director of Psychological Services_"
-room: ""
-building: "Psychological Services Center"  
-email: "cpanzarella@temple.edu"
-phone: "2152047100"
-website: ""
-photo: "https://randomuser.me/api/portraits/men/12.jpg"
-expertise: ""
-bio: "Dr. Panzarella is a clinical psychologist who is dedicated to improving quality and effectiveness of services in the public sector and training future clinicians. Since receiving her doctorate in 1995, Dr. Panzarella has worked as a faculty member teaching in three doctoral programs and directing a masters program in clinical psychology. During the past decade, Dr. Panzarella has worked at the senior management level in public behavioral health services for the City of Philadelphia and the largest Mental Health Association affiliate in the Unites States covering four counties in southeastern Pennsylvania. Her previous research is on social support as a protective factor in risk for depression and her clinical interests emphasize empirically informed interventions for high-risk populations and the integration of clinical and peer models. Dr. Panzarella has over a dozen peer reviewed publications and over 20 conference presentations to her credit. Dr. Panzarella is a diplomate and founding fellow of the Academy of Cognitive Therapy since 1999 after training in cognitive therapy at the University of Pennsylvania’s Center for Cognitive Therapy and the Beck Institute in Bala Cynwyd. Dr. Panzarella’s efforts to improve behavioral health services in Pennsylvania include serving as an Examiner for the City of Philadelphia Psychologist exam for civil servants, s on state level committees to determine performance-based contracting benchmarks for mental health & addictions services, as a team leader for writing a Call to Action to Philadelphia’s Office of Behavioral Health and for a task force to voice needs of homeless families in Philadelphia. She also served on Mayor Street’s Blue Ribbon Commission on Children’s Behavioral Health Work Group on High Risk Children and on the subsequent Philadelphia Compact Council of Advocates, a cooperative effort between executive, legislative and judicial branches of City government to improve behavioral health services for children. Dr. Panzarella has also been active in developing peer services in behavioral health. She oversaw the development, implementation and evaluation of family and youth advocacy services in four counties of Southeastern Pennsylvania. She has been a team leader for the development of a new approach to the evaluation of children and adolescent behavioral health services by peers—a multi-method/multi-informant approach using an Appreciative Inquiry paradigm. She has also been a leader in bringing peer services to the Juvenile Justice System including the presence of peer advocates at Family Court in Philadelphia and a Youth Advocate in three Central Pennsylvania Youth Development Centers. Currently, Dr. Panzarella directs the Psychological Services Center at Temple University which focuses on training clinical psychology doctoral students in therapy and assessment while providing low cost psychological services for the local community in north Philadelphia."
+- name: "Catherine Panzarella"
+  title: "Clinical Management Faculty, Director of Psychological Services"
+  room: ""
+  building: "Psychological Services Center"
+  email: "cpanzarella@temple.edu"
+  phone: "2152047100"
+  website: ""
+  photo: "https://randomuser.me/api/portraits/men/12.jpg"
+  expertise: ""
+  bio: >
+    Dr. Panzarella is a clinical psychologist who is dedicated to improving quality and effectiveness of services in the public sector and training future clinicians. Since receiving her doctorate in 1995, Dr. Panzarella has worked as a faculty member teaching in three doctoral programs and directing a masters program in clinical psychology. During the past decade, Dr. Panzarella has worked at the senior management level in public behavioral health services for the City of Philadelphia and the largest Mental Health Association affiliate in the Unites States covering four counties in southeastern Pennsylvania. Her previous research is on social support as a protective factor in risk for depression and her clinical interests emphasize empirically informed interventions for high-risk populations and the integration of clinical and peer models. Dr. Panzarella has over a dozen peer reviewed publications and over 20 conference presentations to her credit. Dr. Panzarella is a diplomate and founding fellow of the Academy of Cognitive Therapy since 1999 after training in cognitive therapy at the University of Pennsylvania’s Center for Cognitive Therapy and the Beck Institute in Bala Cynwyd. Dr. Panzarella’s efforts to improve behavioral health services in Pennsylvania include serving as an Examiner for the City of Philadelphia Psychologist exam for civil servants, s on state level committees to determine performance-based contracting benchmarks for mental health & addictions services, as a team leader for writing a Call to Action to Philadelphia’s Office of Behavioral Health and for a task force to voice needs of homeless families in Philadelphia. She also served on Mayor Street’s Blue Ribbon Commission on Children’s Behavioral Health Work Group on High Risk Children and on the subsequent Philadelphia Compact Council of Advocates, a cooperative effort between executive, legislative and judicial branches of City government to improve behavioral health services for children. Dr. Panzarella has also been active in developing peer services in behavioral health. She oversaw the development, implementation and evaluation of family and youth advocacy services in four counties of Southeastern Pennsylvania. She has been a team leader for the development of a new approach to the evaluation of children and adolescent behavioral health services by peers—a multi-method/multi-informant approach using an Appreciative Inquiry paradigm. She has also been a leader in bringing peer services to the Juvenile Justice System including the presence of peer advocates at Family Court in Philadelphia and a Youth Advocate in three Central Pennsylvania Youth Development Centers. Currently, Dr. Panzarella directs the Psychological Services Center at Temple University which focuses on training clinical psychology doctoral students in therapy and assessment while providing low cost psychological services for the local community in north Philadelphia.
 
-name: "Vinay Parikh"
-title: "_Associate Professor_"
-room: ""
-building: "Weiss Hall"  
-email: "vinay.parikh@temple.edu"
-phone: "2152041572"
-website: "http://sites.temple.edu/parikh/"
-photo: "https://randomuser.me/api/portraits/men/12.jpg"
-expertise: "Behavioral Neuroscience, Psychopharmacology, Attention, Executive functions, Cognitive Aging, Alzheimer’s disease, Drug addiction"
-bio: "Vinay Parikh, Ph.D. is an Associate Professor of Psychology and head of the Neurochemistry and Cognition Laboratory at Temple University. He is also the Director of Neuroscience Program in the College of Liberal Arts. Dr. Parikh’s research generally concerns neuromodulation of cognitive processes specifically those involved in attention and executive functions. A particular focus of his work is to delineate neurochemical signaling mechanisms that regulate functional interactions between the prefrontal cortex and other cortical and subcortical regions, and how alterations in discrete neurochemical circuits impact top-down cognitive control of behavior during the aging process and following chronic use of psychoactive drugs. Additionally, Dr. Parikh and his group are interested in exploring how the interplay of genes and environment influence the cognitive reserve capacity. Cognitive impairments constitute the core features of age-related neurodegenerative disorders such as Alzheimer’s disease and psychopathological states associated with drug addiction, schizophrenia and other mental disorders. The long term goal of his research is to identify potential biomarkers to develop psychotherapeutic approaches for the treatment of these cognitive and mental conditions. Dr. Parikh’s research involves the use of rodent models to examine cognitive alterations in the normative and pathological brain.  A broad range of neuroscientific methods and approaches are used in his research including the sophisticated operant behavioral paradigms, in vivo electrochemical recordings, vector-based genetic manipulations and protein biochemistry. Dr. Parikh has directed many research projects and his current research is funded by the National Institute of Health. Dr. Parikh received his Ph.D. in Life Sciences/Pharmacology from Punjabi University (India). After leading the Pharmacology group in Drug Discovery division at Sun Pharmaceutical Industries Ltd., he joined the Medical College of Georgia (Augusta, GA) as a postdoctoral fellow to obtain training in Neurochemistry  and Neuropsychopharmacology. He integrated perspectives of systems and behavioral/cognitive neuroscience into his research by acquiring further postdoctoral training in Psychobiology and Neuroscience from the Ohio State University (Columbus, OH) and the University of Michigan (Ann Arbor, MI). Dr. Parikh is a faculty member of the Psychology Department at Temple University since 2009. He has published over 50 peer-reviewed articles and contributed many book chapters. He has also received several honors and awards including the Research Faculty Recognition Award from the University of Michigan (2008); New Investigator Award in Alzheimer’s disease from the American Federation for Aging Research (2010), and Young Investigator Awards from NARSAD (2010) and the American College of Neuropsychopharmacology (2014)."
+- name: "Vinay Parikh"
+  title: "Associate Professor"
+  room: ""
+  building: "Weiss Hall"
+  email: "vinay.parikh@temple.edu"
+  phone: "2152041572"
+  website: "http://sites.temple.edu/parikh/"
+  photo: "https://randomuser.me/api/portraits/men/12.jpg"
+  expertise: "Behavioral Neuroscience, Psychopharmacology, Attention, Executive functions, Cognitive Aging, Alzheimer’s disease, Drug addiction"
+  bio: >
+    Vinay Parikh, Ph.D. is an Associate Professor of Psychology and head of the Neurochemistry and Cognition Laboratory at Temple University. He is also the Director of Neuroscience Program in the College of Liberal Arts. Dr. Parikh’s research generally concerns neuromodulation of cognitive processes specifically those involved in attention and executive functions. A particular focus of his work is to delineate neurochemical signaling mechanisms that regulate functional interactions between the prefrontal cortex and other cortical and subcortical regions, and how alterations in discrete neurochemical circuits impact top-down cognitive control of behavior during the aging process and following chronic use of psychoactive drugs. Additionally, Dr. Parikh and his group are interested in exploring how the interplay of genes and environment influence the cognitive reserve capacity. Cognitive impairments constitute the core features of age-related neurodegenerative disorders such as Alzheimer’s disease and psychopathological states associated with drug addiction, schizophrenia and other mental disorders. The long term goal of his research is to identify potential biomarkers to develop psychotherapeutic approaches for the treatment of these cognitive and mental conditions. Dr. Parikh’s research involves the use of rodent models to examine cognitive alterations in the normative and pathological brain.  A broad range of neuroscientific methods and approaches are used in his research including the sophisticated operant behavioral paradigms, in vivo electrochemical recordings, vector-based genetic manipulations and protein biochemistry. Dr. Parikh has directed many research projects and his current research is funded by the National Institute of Health. Dr. Parikh received his Ph.D. in Life Sciences/Pharmacology from Punjabi University (India). After leading the Pharmacology group in Drug Discovery division at Sun Pharmaceutical Industries Ltd., he joined the Medical College of Georgia (Augusta, GA) as a postdoctoral fellow to obtain training in Neurochemistry  and Neuropsychopharmacology. He integrated perspectives of systems and behavioral/cognitive neuroscience into his research by acquiring further postdoctoral training in Psychobiology and Neuroscience from the Ohio State University (Columbus, OH) and the University of Michigan (Ann Arbor, MI). Dr. Parikh is a faculty member of the Psychology Department at Temple University since 2009. He has published over 50 peer-reviewed articles and contributed many book chapters. He has also received several honors and awards including the Research Faculty Recognition Award from the University of Michigan (2008); New Investigator Award in Alzheimer’s disease from the American Federation for Aging Research (2010), and Young Investigator Awards from NARSAD (2010) and the American College of Neuropsychopharmacology (2014).
 
-name: "Pamela Shapiro"
-title: "_Assistant Professor_"
-room: "521"
-building: "Weiss Hall"  
-email: "pshapiro@temple.edu"
-phone: "2152047310"
-website: ""
-photo: "https://randomuser.me/api/portraits/men/12.jpg"
-expertise: "Cancer, Cognition, Distress, Quality of Life, Creativity"
-bio: "Dr. Shapiro received her PhD in cognitive psychology from Temple University in 2002, and then completed a Department of Defense postdoctoral fellowship at the University of Pennsylvania School Of Medicine and the Abramson Cancer Center. Most recently, she served as Research Assistant Professor at Fox Chase Cancer Center, where her research focused on cognitive outcomes of cancer and quality of life. Her courses at Temple include Foundations of Cognitive Psychology, Conducting Psychological Research, Topics in Psychology: Creativity and Psychopathology, and a Psychology Capstone focused on ethical standards in psychology."
+- name: "Pamela Shapiro"
+  title: "Assistant Professor"
+  room: "521"
+  building: "Weiss Hall"
+  email: "pshapiro@temple.edu"
+  phone: "2152047310"
+  website: ""
+  photo: "https://randomuser.me/api/portraits/men/12.jpg"
+  expertise: "Cancer, Cognition, Distress, Quality of Life, Creativity"
+  bio: >
+    Dr. Shapiro received her PhD in cognitive psychology from Temple University in 2002, and then completed a Department of Defense postdoctoral fellowship at the University of Pennsylvania School Of Medicine and the Abramson Cancer Center. Most recently, she served as Research Assistant Professor at Fox Chase Cancer Center, where her research focused on cognitive outcomes of cancer and quality of life. Her courses at Temple include Foundations of Cognitive Psychology, Conducting Psychological Research, Topics in Psychology: Creativity and Psychopathology, and a Psychology Capstone focused on ethical standards in psychology.
 
-name: "Thomas Shipley"
-title: "_Associate Professor_"
-room: "325"
-building: "Weiss Hall"  
-email: "tshipley@temple.edu"
-phone: "2152047890"
-website: "http://sites.temple.edu/thomasfshipley/"
-photo: "https://randomuser.me/api/portraits/men/12.jpg"
-expertise: "Spatial cognition, Geosciences education, Structural geology, Object and event perception"
-bio: "Dr Shipley’s research broadly focuses on spatial cognition and learning. He applies formal methods from his previous research on object and event perception to understand the perceptual and cognitive processes subserving navigation and visualization. His recent work perception and learning in spatial visualization is part of a project that aims to support undergraduate geology education with a longer term goal of understanding the cognitive processes that are critical for spatial reasoning and thus support STEM education in general for both K-12 and undergraduate students."
+- name: "Thomas Shipley"
+  title: "Associate Professor"
+  room: "325"
+  building: "Weiss Hall"
+  email: "tshipley@temple.edu"
+  phone: "2152047890"
+  website: "http://sites.temple.edu/thomasfshipley/"
+  photo: "https://randomuser.me/api/portraits/men/12.jpg"
+  expertise: "Spatial cognition, Geosciences education, Structural geology, Object and event perception"
+  bio: >
+    Dr Shipley’s research broadly focuses on spatial cognition and learning. He applies formal methods from his previous research on object and event perception to understand the perceptual and cognitive processes subserving navigation and visualization. His recent work perception and learning in spatial visualization is part of a project that aims to support undergraduate geology education with a longer term goal of understanding the cognitive processes that are critical for spatial reasoning and thus support STEM education in general for both K-12 and undergraduate students.
 
-name: "David Smith"
-title: "_Assistant Professor_"
-room: "825"
-building: "Weiss Hall"  
-email: "david.v.smith@temple.edu"
-phone: "2152041552"
-website: ""
-photo: "https://randomuser.me/api/portraits/men/12.jpg"
-expertise: "Neuroeconomics, Decision neuroscience, Social neuroscience, Brain connectivity, Neuroimaging, fMRI"
-bio: "David V. Smith is an Assistant Professor in the Department of Psychology at Temple University. Dr. Smith received his B.S. in Experimental Psychology from the University of South Carolina in 2006. He then worked with Dr. Scott Huettel at Duke University and completed his Ph.D. in 2012. Dr. Smith also completed a postdoctoral fellowship with Dr. Mauricio Delgado at Rutgers University in 2016. Dr. Smith’s research focuses on the brain mechanisms that shape how humans respond to social and economic rewards in various contexts. To examine these issues, he combines functional magnetic resonance imaging (fMRI) with analytical techniques that quantify how multiple brain regions contribute to behavior. He is a member of the following organizations: Association for Psychological Science, Cognitive Neuroscience Society; Society for Neuroscience; Organization for Human Brain Mapping; Society for Neuroeconomics; and Social & Affective Neuroscience Society. His work has been funded by the National Institute of Mental Health."
+- name: "David Smith"
+  title: "Assistant Professor"
+  room: "825"
+  building: "Weiss Hall"
+  email: "david.v.smith@temple.edu"
+  phone: "2152041552"
+  website: ""
+  photo: "https://randomuser.me/api/portraits/men/12.jpg"
+  expertise: "Neuroeconomics, Decision neuroscience, Social neuroscience, Brain connectivity, Neuroimaging, fMRI"
+  bio: >
+    David V. Smith is an Assistant Professor in the Department of Psychology at Temple University. Dr. Smith received his B.S. in Experimental Psychology from the University of South Carolina in 2006. He then worked with Dr. Scott Huettel at Duke University and completed his Ph.D. in 2012. Dr. Smith also completed a postdoctoral fellowship with Dr. Mauricio Delgado at Rutgers University in 2016. Dr. Smith’s research focuses on the brain mechanisms that shape how humans respond to social and economic rewards in various contexts. To examine these issues, he combines functional magnetic resonance imaging (fMRI) with analytical techniques that quantify how multiple brain regions contribute to behavior. He is a member of the following organizations: Association for Psychological Science, Cognitive Neuroscience Society; Society for Neuroscience; Organization for Human Brain Mapping; Society for Neuroeconomics; and Social & Affective Neuroscience Society. His work has been funded by the National Institute of Mental Health.
 
-name: "Laurence Steinberg"
-title: "_Distinguished University Professor of Psychology_"
-room: ""
-building: "Weiss Hall"  
-email: "lds@temple.edu"
-phone: "2152047321"
-website: "http://www.laurencesteinberg.com/"
-photo: "https://randomuser.me/api/portraits/men/12.jpg"
-expertise: "Adolescence, Brain Development, Decision-Making and Risk-Taking, Social Policy, Juvenile Justice, Parent-Adolescent Relations, Developmental Psychopathology"
-bio: "Laurence Steinberg, Ph.D., is the Distinguished University Professor and Laura H. Carnell Professor of Psychology at Temple University. He received his A.B. in Psychology from Vassar College and his Ph.D. in Developmental Psychology from Cornell University. Dr. Steinberg is a former President of the Division of Developmental Psychology of the American Psychological Association and of the Society for Research on Adolescence, former Director of the MacArthur Foundation Research Network on Adolescent Development and Juvenile Justice, and a member of the MacArthur Foundation’s Research Network on Law and Neuroscience. An internationally recognized expert on psychological development during adolescence, Dr. Steinberg’s research has focused on a range of topics in the study of contemporary adolescence, including adolescent brain development, risk-taking and decision-making, parent-adolescent relationships, school-year employment, high school reform, and juvenile justice. He served as a member of the National Academies’ Board on Children, Youth, and Families and chaired the Academies’ Committee on the Science of Adolescence. Dr. Steinberg was the lead scientist in the preparation of the American Psychological Association’s amicus briefs submitted to the U.S. Supreme Court in Roper v. Simmons, which abolished the juvenile death penalty; Graham v. Florida, which banned the use of life without parole for juveniles convicted of non-homicide crimes; and Miller v. Alabama, which prohibited the use of mandatory life without parole for all juvenile crimes. Dr. Steinberg is the author of approximately 350 articles and essays on growth and development during the teenage years, and the author, co-author, or editor of 17 books. He has been the recipient of numerous awards, including the American Psychological Association’s Bronfenbrenner Award for Lifetime Contribution to developmental Psychology in the Service of Science and Society and its Award for Distinguished Contributions to Research in Public Policy, as well as the National Academy of Sciences Henry and Bryna David Lectureship. In 2009, Steinberg was named the first winner of the Klaus J. Jacobs Research Prize for Productive Youth Development. In 2013, he was inducted into the American Academy of Arts and Sciences."
-
-name: "Ronald Taylor"
-title: "_Dean_"
-room: "832"
-building: "Weiss Hall"  
-email: "zach.smith@temple.com"
-phone: "3333333333"
-website: "http://twitter.com/example"
-photo: "https://randomuser.me/api/portraits/men/12.jpg"
-expertise: ""
-bio: ""
-
-name: "Zach Smith"
-title: "_Dean_"
-room: "832"
-building: "Weiss Hall"  
-email: "zach.smith@temple.com"
-phone: "3333333333"
-website: "http://twitter.com/example"
-photo: "https://randomuser.me/api/portraits/men/12.jpg"
-expertise: ""
-bio: ""
-
-name: "Zach Smith"
-title: "_Dean_"
-room: "832"
-building: "Weiss Hall"  
-email: "zach.smith@temple.com"
-phone: "3333333333"
-website: "http://twitter.com/example"
-photo: "https://randomuser.me/api/portraits/men/12.jpg"
-expertise: ""
-bio: ""
-
-name: "Zach Smith"
-title: "_Dean_"
-room: "832"
-building: "Weiss Hall"  
-email: "zach.smith@temple.com"
-phone: "3333333333"
-website: "http://twitter.com/example"
-photo: "https://randomuser.me/api/portraits/men/12.jpg"
-expertise: ""
-bio: ""
-
-name: "Zach Smith"
-title: "_Dean_"
-room: "832"
-building: "Weiss Hall"  
-email: "zach.smith@temple.com"
-phone: "3333333333"
-website: "http://twitter.com/example"
-photo: "https://randomuser.me/api/portraits/men/12.jpg"
-expertise: ""
-bio: ""
-
-name: "Zach Smith"
-title: "_Dean_"
-room: "832"
-building: "Weiss Hall"  
-email: "zach.smith@temple.com"
-phone: "3333333333"
-website: "http://twitter.com/example"
-photo: "https://randomuser.me/api/portraits/men/12.jpg"
-expertise: ""
-bio: ""
+- name: "Laurence Steinberg"
+  title: "Distinguished University Professor of Psychology"
+  room: ""
+  building: "Weiss Hall"
+  email: "lds@temple.edu"
+  phone: "2152047321"
+  website: "http://www.laurencesteinberg.com/"
+  photo: "https://randomuser.me/api/portraits/men/12.jpg"
+  expertise: "Adolescence, Brain Development, Decision-Making and Risk-Taking, Social Policy, Juvenile Justice, Parent-Adolescent Relations, Developmental Psychopathology"
+  bio: >
+    Laurence Steinberg, Ph.D., is the Distinguished University Professor and Laura H. Carnell Professor of Psychology at Temple University. He received his A.B. in Psychology from Vassar College and his Ph.D. in Developmental Psychology from Cornell University. Dr. Steinberg is a former President of the Division of Developmental Psychology of the American Psychological Association and of the Society for Research on Adolescence, former Director of the MacArthur Foundation Research Network on Adolescent Development and Juvenile Justice, and a member of the MacArthur Foundation’s Research Network on Law and Neuroscience. An internationally recognized expert on psychological development during adolescence, Dr. Steinberg’s research has focused on a range of topics in the study of contemporary adolescence, including adolescent brain development, risk-taking and decision-making, parent-adolescent relationships, school-year employment, high school reform, and juvenile justice. He served as a member of the National Academies’ Board on Children, Youth, and Families and chaired the Academies’ Committee on the Science of Adolescence. Dr. Steinberg was the lead scientist in the preparation of the American Psychological Association’s amicus briefs submitted to the U.S. Supreme Court in Roper v. Simmons, which abolished the juvenile death penalty; Graham v. Florida, which banned the use of life without parole for juveniles convicted of non-homicide crimes; and Miller v. Alabama, which prohibited the use of mandatory life without parole for all juvenile crimes. Dr. Steinberg is the author of approximately 350 articles and essays on growth and development during the teenage years, and the author, co-author, or editor of 17 books. He has been the recipient of numerous awards, including the American Psychological Association’s Bronfenbrenner Award for Lifetime Contribution to developmental Psychology in the Service of Science and Society and its Award for Distinguished Contributions to Research in Public Policy, as well as the National Academy of Sciences Henry and Bryna David Lectureship. In 2009, Steinberg was named the first winner of the Klaus J. Jacobs Research Prize for Productive Youth Development. In 2013, he was inducted into the American Academy of Arts and Sciences.
