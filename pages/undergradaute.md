@@ -1,9 +1,23 @@
 ---
 title: Undergraduate
-permalink: "/undergraduate"
+permalink: /undergraduate
 layout: page
+published: true
 ---
 
-The world is increasingly globalized, with goods, services, people, and ideas traveling across borders more often, and more quickly, than ever before. Temple University and its College of Liberal Arts are also globalizing, offering students a wide array of majors in the social sciences, humanities, and area studies programs in Asian and Latin American studies.
+## Leaders In Our Field
 
-The Global Studies Program is the latest step in the globalization of the College of Liberal Arts.  Starting in the Fall of 2015, Temple undergraduates can declare a major in Global Studies – an interdisciplinary program bringing together coursework from across a dozen departments, focused on the study of Global Security, Global Economy, and Global Cultures, and complemented by intensive language instruction and study abroad options.
+Our 38 full-time faculty members have won many national and international awards and are experienced leaders in their fields. Their research teams are addressing questions at the forefront of psychological science.
+
+## Advising At Every Step
+
+The dedicated academic advisor for Psychology is available to meet with students to provide guidance on course selection, acquiring an internship or research experience, career options, and applying to graduate school.
+
+## Academic Offerings
+
+- [BA in Psychology](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/ba-psychology/)
+- [Minor in Psychology](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/minor-psychology/)
+- [Minor in Cognitive Neuroscience](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/minor-cognitive-neuroscience/)
+- [Minor in Clinical and Health Psychology](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/minor-clinical-health-psychology/)
+- 4+1 Master of Science in Psychological Research
+- [PhD in Psychology](http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/)(Concentrations in: Brain and Cognitive Sciences, Clinical Psychology, Developmental Psychology, and Social Psychology)
