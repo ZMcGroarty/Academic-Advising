@@ -1,21 +1,33 @@
 ---
 title: Next Stops
-permalink: "/next-stops"
+permalink: /next-stops
 layout: page
+published: true
 ---
 
-## Heading
-We help connect students with internship and job  opportunities, as well as placement in prestigious master’s and PhD programs
+Next Stops:
 
-## Our students have secured internships with:
-- Congresswoman Allyson Schwartz
-- Philadelphia Magazine
-- The Please Touch Museum
-- American Lung Association
+Students may receive course credit for internship and research experiences outside the classroom. Our program offers a wide range of internships that allow students to apply their learning to real-life situations while gaining work experience and building a professional network.
 
-## Recently, our alumni have secured coveted positions with the following employers:
+Examples of internship settings include:
 
-- Patient access representative at St. Luke’s University Health Network
-- Digital media coordinator at Love Beets
-- Therapeutic staff support at Foundations Behavioral Health
-- Teen education coordinator at Kingsbridge Heights Community Center
+- Abington Memorial Hospital
+- Children’s Crisis Treatment Center
+- Children’s Hospital of Philadelphia
+- Kidsville Learning Center
+- PeopleShare
+- The Social Enrichment Center
+- Tuttleman Counseling Services
+
+
+After graduation, our students pursue a diverse range of careers, such as:
+
+- Research Coordinator (BA)
+- Clinical Case Manager (BA)
+- Human Resources (BA)
+- Speech Pathology (MS)
+- Law School (JD)
+- Psychology (PhD)
+- Neuropsychology (PhD)
+- Medical School (MD, DO)
+
