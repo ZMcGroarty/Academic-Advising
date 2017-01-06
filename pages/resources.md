@@ -1,19 +1,36 @@
 ---
 title: Resources
-permalink: "/resources"
+permalink: /resources
 layout: page
+published: true
 ---
 
-## Resources here here to help!
+## Make Your Declaration
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.
 
-https://temple.edu
+For a complete list of our academic offerings visit [liberalarts.temple.edu](liberalarts.temple.edu)
 
----
+## Visit Us!
 
-## Resources here here to help!
+The Office of Admissions offers tours daily. To register for a tour, please go to temple.edu/visit
+If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit opportunities we have throughout the year, including the Liberal Arts Preview Day.
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+For more information, please go to: [liberalarts.temple.edu/admissions/visit](liberalarts.temple.edu/admissions/visit)
 
-https://temple.edu
+## Thinking Of Transferring?
+
+The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible.
+
+To learn more about transferring to Temple, please visit [temple.edu/transfer](temple.edu/transfer)
+
+## Apply
+
+When you are ready to apply, submit your application online at [admissions.temple.edu/app](admissions.temple.edu/app)
+
+## Deadlines
+
+**February 1**: Freshman Application Deadline for Fall Semester
+**March 1**: FAFSA Financial Aid Application Deadline
+**November 1**: Transfer Deadline for Spring Semester
+**June 1**: Transfer Deadline for Fall Semester
