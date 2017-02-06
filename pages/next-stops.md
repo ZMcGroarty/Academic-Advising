@@ -1,6 +1,6 @@
 ---
 title: Next Stops
-permalink: /next-stops
+permalink: /next-stops/
 layout: page
 published: true
 ---
@@ -30,4 +30,3 @@ After graduation, our students pursue a diverse range of careers, such as:
 - Psychology (PhD)
 - Neuropsychology (PhD)
 - Medical School (MD, DO)
-
