@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-Next Stops:
+## Next Stops:
 
 Students may receive course credit for internship and research experiences outside the classroom. Our program offers a wide range of internships that allow students to apply their learning to real-life situations while gaining work experience and building a professional network.
 
@@ -18,7 +18,6 @@ Examples of internship settings include:
 - PeopleShare
 - The Social Enrichment Center
 - Tuttleman Counseling Services
-
 
 After graduation, our students pursue a diverse range of careers, such as:
 
@@ -60,5 +59,3 @@ When you are ready to apply, submit your application online at [admissions.templ
 **March 1**: FAFSA Financial Aid Application Deadline
 **November 1**: Transfer Deadline for Spring Semester
 **June 1**: Transfer Deadline for Fall Semester
-
-
