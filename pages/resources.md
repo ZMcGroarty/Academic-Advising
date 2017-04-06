@@ -998,7 +998,7 @@ Temple Psychology students are informed of career options and advised of career 
 ## Information on Careers and Graduate Study in Psychology
 
 - [Information on Careers in Psychology](http://www.apa.org/careers/resources/guides/careers.aspx)
-- Basic Guide to Graduate School in Psychology (.pdf)
-- Clinical Psychology Graduate School Fact Sheet (.pdf)
-- Information on Graduate School
-- Preparing for Post Graduation Employment (.pdf)
+- [Basic Guide to Graduate School in Psychology](http://www.cla.temple.edu/psychology/files/2013/09/Basic_Guide_to_Graduate_School_in_Psych.pdf) (.pdf)
+- [Clinical Psychology Graduate School Fact Sheet](http://www.cla.temple.edu/psychology/files/2013/09/Clinical_Psychology_Grad_School_Fact_Sheet_1210a.pdf) (.pdf)
+- [Information on Graduate School](http://www.apa.org/education/grad/index.aspx)
+- [Preparing for Post Graduation Employment](http://www.cla.temple.edu/psychology/files/2013/09/How_You_Can_Prepare_NOW_for_Post_Graduation_Employment-_4_10_12_.pdf) (.pdf)
