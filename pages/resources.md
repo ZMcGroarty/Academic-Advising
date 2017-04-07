@@ -8,48 +8,48 @@ published: true
 
 **Chair:** 
 
-Peter Marshall, Ph.D
-656 Weiss Hall
-[(215) 204-7360](tel:2152047360)
-[Pjmarsh@temple.edu](mailto:Pjmarsh@temple.edu)
+Peter Marshall, Ph.D<br/>
+656 Weiss Hall<br/>
+[(215) 204-7360](tel:2152047360)<br/>
+[Pjmarsh@temple.edu](mailto:Pjmarsh@temple.edu)<br/>
 
-Peter James, Ph.D., Associate Chair
-606 Weiss Hall
-[(215) 204-3409](tel:2152043409)
-[pjames@temple.edu](mailto:pjames@temple.edu)
+Peter James, Ph.D., Associate Chair<br/>
+606 Weiss Hall<br/>
+[(215) 204-3409](tel:2152043409)<br/>
+[pjames@temple.edu](mailto:pjames@temple.edu)<br/>
 
 **Undergraduate Chair:** 
 
-Andy Karpinski, Ph.D., Director, Undergraduate Studies
-505 Weiss Hall
-[(215) 204-3102](tel:2152043102)
-[andykarp@temple.edu](mailto:andykarp@temple.edu)
+Andy Karpinski, Ph.D., Director, Undergraduate Studies<br/>
+505 Weiss Hall<br/>
+[(215) 204-3102](tel:2152043102)<br/>
+[andykarp@temple.edu](mailto:andykarp@temple.edu)<br/>
 
 **Graduate Chair:**
 
-Deborah Drabick, Ph.D., Director, Graduate Studies
-822 Weiss Hall
-[(215) 204-0957](tel:2152040957)
-[deborah.drabick@temple.edu](mailto:deborah.drabick@temple.edu)
+Deborah Drabick, Ph.D., Director, Graduate Studies<br/>
+822 Weiss Hall<br/>
+[(215) 204-0957](tel:2152040957)<br/>
+[deborah.drabick@temple.edu](mailto:deborah.drabick@temple.edu)<br/>
 
 **Administrator:**
 
-Laura Dean
-654 Weiss Hall
-[(215) 204-2644](tel:2152042644) 
-[ldean@temple.edu](mailto:ldean@temple.edu)
+Laura Dean<br/>
+654 Weiss Hall<br/>
+[(215) 204-2644](tel:2152042644)<br/> 
+[ldean@temple.edu](mailto:ldean@temple.edu)<br/>
 
 **Coordinator:**
 
-Lauren McDuffie
-659 Weiss Hall
-[(215) 204-7321](tel:2152047321)
-[LMcD@temple.edu](mailto:LMcD@temple.edu)
+Lauren McDuffie<br/>
+659 Weiss Hall<br/>
+[(215) 204-7321](tel:2152047321)<br/>
+[LMcD@temple.edu](mailto:LMcD@temple.edu)<br/>
 
-Sarah McLaughlin, Neuroscience Student Services Specialist/Coordinator
-638 Weiss Hall
-[(215) 204-3441](tel:2152043441)
-[smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)
+Sarah McLaughlin, Neuroscience Student Services Specialist/Coordinator<br/>
+638 Weiss Hall<br/>
+[(215) 204-3441](tel:2152043441)<br/>
+[smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)<br/>
 
 ## Clinical Services
 
