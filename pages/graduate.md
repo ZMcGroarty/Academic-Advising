@@ -53,7 +53,7 @@ The Department of Psychology has several Ph.D. programs (Brain and Cognitive Sci
 
 - **Proficiency in English**:  A test demonstrating proficiency in English is required of all applicants who are not native speakers of English, except applicants with an undergraduate or graduate degree conferred by an American university, who are exempt from the English proficiency requirements. Students who have received their undergraduate degrees from non-English-speaking institutions must demonstrate proficiency in English.  Proficiency in English can be demonstrated by performance on the TOEFL, International English Language Testing System (IELTS Academic),or the Pearson Test of Academic English (PTE Academic).  Test scores should be electronically sent to the institutional code 2906.  The minimum TOEFL score needed for acceptance is as follows: 620 paper-based, 260 computer-based, or 105 internet-based. Individuals for whom English is not a first language must achieve a minimum score of 28 on the internet-based TOEFL speaking section or a minimum score of 55 on the Test of Spoken English.  The minimum test score for the IELTS Academic is 7.5.  The minimum score required for the Pearson Test of Academic English is 53.
 
-- **International applicants** should consult the page at http://www.temple.edu/grad/admissions/international.htm to make sure that they meet the requirements for degree equivalency listed there.
+- **International applicants** should consult the page at [http://www.temple.edu/grad/admissions/international.htm] (http://www.temple.edu/grad/admissions/international.htm) to make sure that they meet the requirements for degree equivalency listed there.
 
 All completed applications are reviewed. If you do not meet one or more of the admission requirements (e.g., lacking a lab course; a GRE score below the minimum) your application, if complete, will be reviewed.
 
@@ -69,7 +69,7 @@ For instructions on how to apply to the **Clinical Psychology** program, please 
 
 ### How to Apply:
 
-Applications for the **Brain and Cognitive Sciences, Developmental, or Social Psychology** programs will be through the PSYCAS system. Please use the following link to apply: https://psycas.liaisoncas.com/applicant-ux/#/login. If you are not a current PSYCAS user you will need to create a login before you can apply to one of the three non-clinical programs at Temple. Please note that the PSYCAS portal cannot be used to apply to the Clinical program.
+Applications for the **Brain and Cognitive Sciences, Developmental, or Social Psychology** programs will be through the PSYCAS system. Please use the following link to apply: [https://psycas.liaisoncas.com/applicant-ux/#/login](https://psycas.liaisoncas.com/applicant-ux/#/login). If you are not a current PSYCAS user you will need to create a login before you can apply to one of the three non-clinical programs at Temple. Please note that the PSYCAS portal cannot be used to apply to the Clinical program.
 
 ## FAQ about the Psychology Graduate Program
 
@@ -359,7 +359,7 @@ The [Council of University Directors of Clinical Training](http://www.cudcp.us/)
 
 - Offers of admission can be extended during a large time period. Most initial offers of admission are extended by April 1. Offers may be communicated by phone or email, but should be followed up by a written confirmation within 48 hours.
 
-- You should not be pressured, nor feel compelled to accept an offer of admission before April 15! This applies to offers of admission and to funding offers that accompany admission. It is impermissible for programs to request a decision prior to April 15 or to indicate that funding will be available only if students make decisions earlier than this date. Violations of this policy should be reported to CUDCP immediately (http://cudcp.us/contact.html) and your identity will be protected. Of course, it is permissible for you to accept an offer as soon as you are certain of your decision (i.e., even before April 15). But the decision to do so should be based on you, and not due to pressure placed upon you by a training program.
+- You should not be pressured, nor feel compelled to accept an offer of admission before April 15! This applies to offers of admission and to funding offers that accompany admission. It is impermissible for programs to request a decision prior to April 15 or to indicate that funding will be available only if students make decisions earlier than this date. Violations of this policy should be reported to CUDCP immediately [http://cudcp.us/contact.html](http://cudcp.us/contact.html) and your identity will be protected. Of course, it is permissible for you to accept an offer as soon as you are certain of your decision (i.e., even before April 15). But the decision to do so should be based on you, and not due to pressure placed upon you by a training program.
  
 - Do not hold more than two offers for more than one week unless there is specific information (e.g., a visit is scheduled, funding decisions) you are waiting to receive from the program. Difficulty making up one’s mind is not considered an adequate excuse to limit the options available to other applicants.
 
@@ -518,7 +518,8 @@ B. Requirements for Clinical
 C. Requirements for Developmental
 D. Requirements for Social
 
-I. GENERAL STATEMENT
+## I. GENERAL STATEMENT
+
 The Department of Psychology offers graduate study leading to the Doctor of Philosophy in a variety of areas. The Graduate Program is a full-time program of study. The Department does not admit students for a terminal Master of Arts (M.A.) degree. Students enrolled in the Ph.D. program may obtain a Master’s degree in General Psychology during the course of their graduate work.
 
 **A. Application Deadline**
@@ -543,6 +544,6 @@ Students must complete the number of credits of specified course work required b
 
 E. Departmental Regulations Governing Graduate Study
 
-This document contains the rules and regulations governing the Department of Psychology’s Graduate Program. Although these rules and regulations comply with those of the Graduate School, the Graduate School may have other rules and regulations with which all graduate students must comply. Students should obtain and familiarize themselves with all Graduate School regulations in addition to those contained in this Document. (Click here for the Graduate School Bulletin:  http://www.temple.edu/grad/policies/gradpolicies.htm).
+This document contains the rules and regulations governing the Department of Psychology’s Graduate Program. Although these rules and regulations comply with those of the Graduate School, the Graduate School may have other rules and regulations with which all graduate students must comply. Students should obtain and familiarize themselves with all Graduate School regulations in addition to those contained in this Document. (Click here for the Graduate School Bulletin: http://www.temple.edu/grad/policies/gradpolicies.htm).
 
 In many cases of questions concerning requirements, answers can be found either in this book of regulations or in the graduate school regulations. Students and their advisors should approach those sources first. In case of further questions, the Area Director should be contacted.
