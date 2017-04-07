@@ -352,3 +352,19 @@ Once we have selected the applicants to whom we are offering interviews, we will
 ### Information for Applicants
 
 The [Council of University Directors of Clinical Training](http://www.cudcp.us/) has adopted the following guidelines for offers into doctoral clinical psychology programs. If you are applying to a CUDCP program, you should expect the following policies will apply:
+
+- In most CUDCP programs, a subset of applicants will be invited for an interview. Within a few weeks of the final interview dates, applicants will be notified regarding the status of their application. You may be offered admission, declined admission, placed on a wait list, or in some cases, a decision has not yet been reached regarding your application.
+
+- Training programs will notify students no longer being considered for admission as soon as possible. In some cases, this information is communicated by the university graduate school and can take several weeks to be processed. In some cases, you may be able to get updated information on the status of the application process (e.g., whether all interview invites have been extended; whether all offers have been extended), on a clinical program’s website, or by contacting a program administrator. Beware of information posted on student-focused online forums that may be inaccurate or incomplete.
+
+- Offers of admission can be extended during a large time period. Most initial offers of admission are extended by April 1. Offers may be communicated by phone or email, but should be followed up by a written confirmation within 48 hours.
+
+- You should not be pressured, nor feel compelled to accept an offer of admission before April 15! This applies to offers of admission and to funding offers that accompany admission. It is impermissible for programs to request a decision prior to April 15 or to indicate that funding will be available only if students make decisions earlier than this date. Violations of this policy should be reported to CUDCP immediately (http://cudcp.us/contact.html) and your identity will be protected. Of course, it is permissible for you to accept an offer as soon as you are certain of your decision (i.e., even before April 15). But the decision to do so should be based on you, and not due to pressure placed upon you by a training program.
+ 
+- Do not hold more than two offers for more than one week unless there is specific information (e.g., a visit is scheduled, funding decisions) you are waiting to receive from the program. Difficulty making up one’s mind is not considered an adequate excuse to limit the options available to other applicants.
+
+- Once you have accepted an offer of admission to a training program, you should inform all programs in which you are still being considered. Be sure to inform programs either that you are declining outstanding offers of admission or you no longer wish to be considered for admission.
+
+Developmental Psychology
+
+
