@@ -385,19 +385,164 @@ In recognition of the growing popularity of the area of developmental psychopath
 
 All students interested in the Developmental Psychopathology concentration should meet the requirements of their individual programs and plan electives to ensure that the following courses are taken:
 
-developmental psychopathology
-core course in developmental psychology
-core course in psychopathology
-one additional elective in developmental psychology
-one additional elective in clinical psychology
-advanced statistics beyond multivariate regression
+- developmental psychopathology
+- core course in developmental psychology
+- core course in psychopathology
+- one additional elective in developmental psychology
+- one additional elective in clinical psychology
+- advanced statistics beyond multivariate regression
 
 **Research**
 
 Students’ independent research (e.g., dissertation) should reflect the application of a developmental psychopathology perspective in the research questions, methods, analytic approach, and interpretation of findings. At least one of the students’ core committee members should identify with the developmental psychopathology approach.
 
-Other Activities
+**Other Activities**
+
 Students should attend talks (e.g., department colloquia, conferences) that permit further application of the developmental psychopathology framework.
 
-Many of these experiences are easily achieved within the department and through consultation with students’ mentors. Criteria for the Developmental Psychopathology concentration are intended to be flexible, and it is expected that students will meet these criteria in a variety of different ways. If you have questions about this concentration, please contact ddrabick@temple.edu.
+Many of these experiences are easily achieved within the department and through consultation with students’ mentors. Criteria for the Developmental Psychopathology concentration are intended to be flexible, and it is expected that students will meet these criteria in a variety of different ways. If you have questions about this concentration, please contact [ddrabick@temple.edu](mailto:ddrabick@temple.edu).
 
+For further information or questions concerning the Doctoral Program in Developmental Psychology, contact:
+
+Dr. Hongling Xie
+Director of Graduate Area of Developmental Psychology
+Email: [hongling.xie@temple.edu](mailto:hongling.xie@temple.edu)
+
+**Primary Faculty**
+
+- Deborah Drabick
+- Elizabeth Gunderson
+- Kathy Hirsh-Pasek
+- Peter Marshall
+- Nora Newcombe
+- Willis Overton* (emeritus)
+- Laurence Steinberg
+- Ronald Taylor
+- Marsha Weinraub*
+- Hongling Xie
+
+* Please note that Drs. Weinraub and Overton are not accepting students for admission in Fall 2017.
+
+## Social Psychology
+
+Our program in Social Psychology focuses on decision making and implicit cognition. Students will gain a broad knowledge of psychology in general through coursework and a detailed knowledge of social psychological research by working in Dr. Hantula’s Decision Making Lab and/or Dr. Karpinski’s Cognition and Implicit Attitude (The Temple CIA) lab.  Students in our program receive training in multiple research methods and advanced statistical techniques.
+
+For more details, prospective applicants are encouraged to explore the web pages of social faculty to get a closer look at the research topics that are currently being investigated. A strong fit between an applicant’s research interests and those of a specific social faculty member is a very important aspect of the admissions process.
+
+For further information or questions concerning the Doctoral Program in Social Psychology, contact:
+
+Dr. Andrew Karpinski
+Director
+Telephone: (484) 222-0379
+E-mail: [andrew.karpinski@temple.edu](mailto:andrew.karpinski@temple.edu)
+
+Note: The Social Psychology Program is accepting Ph.D. students into the program for the 2017-2018 academic year.
+
+**Primary Faculty**
+
+- Donald Hantula, Ph.D.
+- Andrew Karpinski, Ph.D.
+
+## Graduate Handbook
+
+APPROVED BY THE GRADUATE COMMITTEE, June 2008; most recent revision, August 2015.
+
+I. GENERAL STATEMENT
+
+A. Application Deadline
+B. Financial Aid
+C. Admission Requirements
+D. Degree Requirements
+E. Departmental Regulations Governing Graduate Study
+II. AREAS OF SPECIALIZATION 
+
+III. DEPARTMENTAL COURSE REQUIREMENTS FOR THE PH.D.
+
+A. General Requirements
+B. Course Requirements
+C. Directed Readings
+D. Research Credits
+E. Research, Teaching, and Clinical Experience
+F. Extension of Time for Doctoral Students
+G. Exceptions to Department Regulations
+IV.  DEPARTMENTAL POLICY REGARDING TRANSFER OF COURSE CREDITS 
+
+V.  DEFINITION OF FULL-TIME STATUS FOR GRADUATE STUDENTS
+
+VI.  ENROLLMENT IN GRADUATE COURSES
+
+VII.  EVALUATION OF STUDENT PROGRESS
+
+A. Student Progress
+B. Policy Regarding Plagiarism
+VIII. DEPARTMENTAL REQUIREMENTS FOR THE M.A. IN PSYCHOLOGY
+
+IX.  ELEVATION TO CANDIDACY FOR THE PH.D.
+
+A. The Preliminary Examination
+B. Elevation to Candidacy
+C. Scheduling Rooms for Preliminary Examinations
+X. POLICIES CONCERNING FINANCIAL SUPPORT OF GRADUATE STUDENTS
+
+A. Tuition Remission
+B. Outside Employment
+C. Financial Support and Leaves of Absence
+D. Support For Graduate Student Travel To Professional Meetings
+XI.  GUIDELINES FOR GRADUATE ASSISTANTSHIPS
+
+A. Purpose
+B. Eligibility
+C. Assignments
+D. Training and Supervision
+E. Competence of Graduate Assistants
+F. Residence
+XII.  DEPARTMENTAL OBLIGATIONS CONCERNING TEACHING ASSISTANTS 
+
+XIII.  DEPARTMENTAL POLICY REGARDING STUDENTS ON FELLOWSHIP SUPPORT
+
+XIV.  PREPARING FOR THE DOCTORAL DISSERTATION
+
+A. Formation of the Doctoral Advisory Committee
+B. Composition of the Doctoral Advisory Committee
+C. Formation and Composition of the Dissertation Defense Committee
+D. Scheduling Rooms for Dissertation Oral Examinations
+E. Dissertation Format
+F. Schedule for Preparation of the Dissertation for the Dissertation Oral Defense
+G. The Dissertation Oral Defense
+XV.  STUDENT GRIEVANCE PROCEDURES
+
+XVI. SPECIFIC AREA REQUIREMENTS
+
+A. Requirements for BCS
+B. Requirements for Clinical
+C. Requirements for Developmental
+D. Requirements for Social
+
+I. GENERAL STATEMENT
+The Department of Psychology offers graduate study leading to the Doctor of Philosophy in a variety of areas. The Graduate Program is a full-time program of study. The Department does not admit students for a terminal Master of Arts (M.A.) degree. Students enrolled in the Ph.D. program may obtain a Master’s degree in General Psychology during the course of their graduate work.
+
+**A. Application Deadline**
+
+Entrance into the Graduate Program occurs in the Fall semester only. Applications must be received by December 1 for admission in the following year’s Fall semester. A student must apply to one of the six Areas of Specialization but may indicate concentrations of interest on his or her application. Application materials can be obtained online. Click on this link to access forms:
+
+([http://www.temple.edu/grad/admissions/AccessGradApp.htm](http://www.temple.edu/grad/admissions/AccessGradApp.htm))
+
+Additional admissions materials are required by the Department, such as the “Graduate Data Sheet.” See [http://www.cla.temple.edu/psychology/graduate/application-procedure/](http://www.cla.temple.edu/psychology/graduate/application-procedure/).
+
+**B. Financial Aid**
+
+In addition to financial aid awarded through the Graduate School, the Department offers a number of teaching and research assistantships, each of which carries a stipend plus full waiver of tuition and fees, as well as health insurance.
+
+C. Admission Requirements
+
+Applicants must hold a B.A. or B.S. degree and should have completed at least one laboratory course in psychology and one course in statistics. Laboratory courses in other sciences may under special circumstances substitute for a laboratory course in psychology. All applicants must submit scores from the verbal and quantitative tests of the Graduate Record Examination. It is recommended that applicants also take the GRE subject test in psychology. (Note: Applicants to Brain and Cognitive Sciences (BCS) do not need to take the Psychology GRE). Three letters of recommendation are also required.
+
+D. Degree Requirements
+
+Students must complete the number of credits of specified course work required by their Program Area, 6 credits of which (two courses) must be statistics courses. Students must also successfully complete a Predissertation Research requirement, as specified by their Program Area; pass a written and oral Preliminary Examination; submit an acceptable Dissertation; and successfully defend the Dissertation in an oral final examination. Each Area of Specialization within the Department may have additional requirements to those of the Department (for more details, see the following sections for requirements for each area: Section XVI A: Brain and Cognitive Sciences; XVI B: Clinical; XVI C: Developmental; and XVI D: Social).
+
+E. Departmental Regulations Governing Graduate Study
+
+This document contains the rules and regulations governing the Department of Psychology’s Graduate Program. Although these rules and regulations comply with those of the Graduate School, the Graduate School may have other rules and regulations with which all graduate students must comply. Students should obtain and familiarize themselves with all Graduate School regulations in addition to those contained in this Document. (Click here for the Graduate School Bulletin:  http://www.temple.edu/grad/policies/gradpolicies.htm).
+
+In many cases of questions concerning requirements, answers can be found either in this book of regulations or in the graduate school regulations. Students and their advisors should approach those sources first. In case of further questions, the Area Director should be contacted.
