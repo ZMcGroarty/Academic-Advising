@@ -1002,3 +1002,12 @@ Temple Psychology students are informed of career options and advised of career 
 - [Clinical Psychology Graduate School Fact Sheet](http://www.cla.temple.edu/psychology/files/2013/09/Clinical_Psychology_Grad_School_Fact_Sheet_1210a.pdf) (.pdf)
 - [Information on Graduate School](http://www.apa.org/education/grad/index.aspx)
 - [Preparing for Post Graduation Employment](http://www.cla.temple.edu/psychology/files/2013/09/How_You_Can_Prepare_NOW_for_Post_Graduation_Employment-_4_10_12_.pdf) (.pdf)
+
+## Support the Department of Psychology
+
+Gifts made by alumni and friends from the community are vital to our department’s success. All donations are tax-deductible and support a range of student activities and faculty research.
+
+Gifts from alumni and friends of the department can be directed to honor beloved faculty mentors, to support graduate student research and progress through the Ph.D. program, and to promote science and science education in the grandest of traditions. By donating a gift to either the Shipley Research Prize or Bersh Award fund, you will ensure that each year, a deserving student can receive up to $1000 to put toward data collection or travel.
+
+- [The Shipley Prize](http://www.cla.temple.edu/psychology/files/2017/01/Psychology-Department-Awards.pdf)
+- [The Bersh Award](http://www.cla.temple.edu/psychology/files/2017/01/Psychology-Department-Awards.pdf)
