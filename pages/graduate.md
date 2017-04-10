@@ -531,7 +531,7 @@ The Department of Psychology offers graduate study leading to the Doctor of Phil
 
 Entrance into the Graduate Program occurs in the Fall semester only. Applications must be received by December 1 for admission in the following year’s Fall semester. A student must apply to one of the six Areas of Specialization but may indicate concentrations of interest on his or her application. Application materials can be obtained online. Click on this link to access forms:
 
-([http://www.temple.edu/grad/admissions/AccessGradApp.htm](http://www.temple.edu/grad/admissions/AccessGradApp.htm))
+([https://www.temple.edu/grad/admissions/howtoapply.htm](https://www.temple.edu/grad/admissions/howtoapply.htm))
 
 Additional admissions materials are required by the Department, such as the “Graduate Data Sheet.” See [http://www.cla.temple.edu/psychology/graduate/application-procedure/](http://www.cla.temple.edu/psychology/graduate/application-procedure/).
 
