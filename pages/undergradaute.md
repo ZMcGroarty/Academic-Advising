@@ -140,7 +140,7 @@ Assisting in research in our lab is best suited for students who are interested 
 
 Lab:  Behavioral Neurophysiology Lab
 PI:  Lisa Briand
-Website:  [http://sites.temple.edu/briandlab/](http://sites.temple.edu/briandlab/)
+Website:  [http://www.briandlab.com/](http://www.briandlab.com/)
 Contact Person: Lisa Briand, [lbriand@temple.edu](mailto:lbriand@temple.edu)
 
 ## Lab Focus:
