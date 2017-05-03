@@ -8,7 +8,7 @@ baseurl: /psychology
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
+description: 'The Psychology curriculum includes foundational courses that cover a breadth of content, ranging from the biological bases of cognition and  behavior to sociocultural influences on human interactions.'
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple
 
@@ -18,8 +18,8 @@ address:
   room: 6th Floor
   street: 1701 N 13th St
   city: Philadelphia, PA 19122
-  email: liberal-arts-psychology@temple.edu
-  phone: 2152047321
+  email: <a href="mailto:liberal-arts-psychology@temple.edu">liberal-arts-psychology@temple.edu</a>
+  phone: 215-204-7321
 
 # Social Media
 # Put in only the username unless otherwise noted
