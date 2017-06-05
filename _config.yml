@@ -18,7 +18,7 @@ address:
   room: 6th Floor
   street: 1701 N 13th St
   city: Philadelphia, PA 19122
-  email: <a href="mailto:liberal-arts-psychology@temple.edu">liberal-arts-psychology@temple.edu</a>
+  email: liberal-arts-psychology@temple.edu
   phone: 215-204-7321
 
 # Social Media
@@ -28,9 +28,9 @@ social:
   # Facebook - https://facebook.com/USERNAME
   # if your page does not have a custom URL, create one!
   facebook: TempleLiberalArts
-  # Twitter - https://twitter.com/USERNAME
+  # Twitter - https://twitter.com/Temple_Psych
   twitter: TULiberalArts
-  # Instagram - https://www.instagram.com/USERNAME
+  # Instagram - https://instagram.com/Temple_Psych
   instagram: TULiberalArts
   # Snapchat - USERNAME
   snapchat:
