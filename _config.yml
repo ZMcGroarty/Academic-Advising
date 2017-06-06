@@ -28,10 +28,10 @@ social:
   # Facebook - https://facebook.com/USERNAME
   # if your page does not have a custom URL, create one!
   facebook: TempleLiberalArts
-  # Twitter - https://twitter.com/Temple_Psych
-  twitter: TULiberalArts
-  # Instagram - https://instagram.com/Temple_Psych
-  instagram: TULiberalArts
+  # Twitter - https://twitter.com/USERNAME
+  twitter: Temple_Psych
+  # Instagram - https://instagram.com/USERNAME
+  instagram: Temple_Psych
   # Snapchat - USERNAME
   snapchat:
   # GitHub - https://github.com/USERNAME or https://github.com/USERNAME/REPO
@@ -51,12 +51,12 @@ social:
 university:
   name: Temple University
   url: https://temple.edu/
-college: 
+college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
 
 # Google Tag Manager OR Google Analytics
-google_analytics: 
+google_analytics:
 
 
 google_tag_manager: GTM-58ZL5B
