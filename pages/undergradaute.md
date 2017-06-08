@@ -31,15 +31,15 @@ Students are strongly encouraged to develop applied skills through rigorous and 
 - 4+1 Master of Science in Psychological Research
 - [PhD in Psychology](http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/)(Concentrations in: Brain and Cognitive Sciences, Clinical Psychology, Developmental Psychology, and Social Psychology)
 
-## Psychology 5-Year Master’s Program (4+1)
+## Psychology 5-Year Master’s Program (+1)
 
 ### Program Description
 
-- The 4+1 Master in Psychological Research offers outstanding Temple University psychology majors the opportunity to earn both the Bachelor of Arts in Psychology and the Master of Science in Psychological Research in just 5 years. Admission to the program is highly selective.  The program is designed to provide a research-intensive experience, advanced coursework, and professional development to students who intend to pursue doctoral studies in any of the academic psychology disciplines.
+- The +1 Master in Psychological Research offers outstanding Temple University psychology majors the opportunity to earn both the Bachelor of Arts in Psychology and the Master of Science in Psychological Research in just 5 years. Admission to the program is highly selective. The program is designed to provide a research-intensive experience, advanced coursework, and professional development to students who intend to pursue doctoral studies in any of the academic psychology disciplines.
 - Students apply to the program in the spring semester of the junior year after completing a minimum of 72 undergraduate credits. Additionally, students must have a faculty sponsor who has agreed to mentor the student’s master’s project research during the four-semester program.
 - Students admitted to the program will complete 30 credits during the senior year, of which 9 credits are graduate courses. These 9 credits will count toward both the BA and MS degrees.  Each student will work with a faculty sponsor to develop and implement a master’s project.
 - On completion of the senior year, students receive the BA in Psychology, then are formally admitted to the MS program in Psychological Research (with 9 graduate credits already completed).
-- During the fifth year, 4+1 students will complete 23 graduate credits, including courses in research methods, statistics, ethics, topical seminars, a professional development seminar series, and master’s project research.
+- During the fifth year, +1 students will complete 23 graduate credits, including courses in research methods, statistics, ethics, topical seminars, a professional development seminar series, and master’s project research.
 
 ### Admission Requirements
 
@@ -57,38 +57,38 @@ Students are strongly encouraged to develop applied skills through rigorous and 
 Assemble and submit the following materials as email attachments to [psych4plus1.apply@temple.edu](mailto:psych4plus1.apply@temple.edu). All materials must be submitted in a single email.
 
 - Unofficial undergraduate transcripts
-- 4+1 [Application Form](http://www.cla.temple.edu/psychology/files/2016/01/Psychology-4-1-Application1.docx) (download)
+- +1 [Application Form](http://www.cla.temple.edu/psychology/files/2016/01/Psychology-4-1-Application1.docx) (download)
 - Signed [Faculty Sponsor Agreement](http://www.cla.temple.edu/psychology/files/2016/01/Faculty-Sponsor-Agreement.docx) (download)
 - A personal statement describing the reasons for pursuing a master’s degree, current research interests, research experience, and future career goals
 - An academic writing sample
 - Letters of Recommendation
 
-Two letters of recommendation from Temple University faculty are required.  At least one letter must be from Psychology Department faculty.  Please request that faculty recommenders submit the letter as an email attachment to [psych4plus1.lor@temple.edu](mailto:psych4plus1.info@temple.edu), with the applicant’s full name in the subject line.
+Two letters of recommendation from Temple University faculty are required. At least one letter must be from Psychology Department faculty. Please request that faculty recommenders submit the letter as an email attachment to [psych4plus1.lor@temple.edu](mailto:psych4plus1.info@temple.edu), with the applicant’s full name in the subject line.
 
-### 4+1 Program Contact Information
+### +1 Program Contact Information
 
 **Program Director**
 
-Pamela Joyce Shapiro, Ph.D.
-521 Weiss Hall
-[215-204-7321](tel:2152047321)
-[psych4plus1.info@temple.edu](mailto:psych4plus1.info@temple.edu)
+Pamela Joyce Shapiro, Ph.D.<br>
+521 Weiss Hall<br>
+[215-204-7321](tel:2152047321)<br>
+[psych4plus1.info@temple.edu](mailto:psych4plus1.info@temple.edu)<br>
 
 **Academic Advisor**
 
-Nicole Pileggi, M.Ed.
-616 Weiss Hall
-[215-204-3403](tel:2152043403)
-[nicole.pileggi@temple.edu](mailto:nicole.pileggi@temple.edu)
+Nicole Pileggi, M.Ed.<br>
+616 Weiss Hall<br>
+[215-204-3403](tel:2152043403)<br>
+[nicole.pileggi@temple.edu](mailto:nicole.pileggi@temple.edu)<br>
 
 ## Faculty Sponsors for Collaborative Research
 
 ### Description of project(s) on which students might work:
 
-Name: Dr. Lauren Alloy
-Office: 762 Weiss Hall
-Telephone: [(215) 204-7326](tel:2152047326)
-Email: [lauren.alloy@temple.edu](mailto:lauren.alloy@temple.edu)
+Name: Dr. Lauren Alloy<br>
+Office: 762 Weiss Hall<br>
+Telephone: [(215) 204-7326](tel:2152047326)<br>
+Email: [lauren.alloy@temple.edu](mailto:lauren.alloy@temple.edu)<br>
 
 **“Depression Surge in Adolescence & Gender Differences:  Biocognitive Mechanisms” (Project ACE)**
 
@@ -110,10 +110,10 @@ At Time 1, we will comprehensively assess these Ps’ BAS (and BIS) sensitivity 
 - Minimum of 1 year (2 semesters) commitment to the lab
 - Dependable and reliable
 
-Lab:  Neuroendocrinology and Behavior Lab
-PI:  Debra Bangasser, Ph.D.
-Website:  [http://sites.temple.edu/bangasserlab/](http://sites.temple.edu/bangasserlab/)
-Contact Person: Debra Bangasser, Ph.D., [debra.bangasser@temple.edu](mailto:debra.bangasser@temple.edu)
+Lab:  Neuroendocrinology and Behavior Lab<br>
+PI:  Debra Bangasser, Ph.D.<br>
+Website:  [http://sites.temple.edu/bangasserlab/](http://sites.temple.edu/bangasserlab/)<br>
+Contact Person: Debra Bangasser, Ph.D., [debra.bangasser@temple.edu](mailto:debra.bangasser@temple.edu)<br>
 
 ## Lab Focus:
 
@@ -139,10 +139,10 @@ Assisting in research in our lab is best suited for students who are interested 
 
 - **Headings/Tags/Keywords: stress, sex difference, attention, depression, post-traumatic stress disorder**
 
-Lab:  Behavioral Neurophysiology Lab
-PI:  Lisa Briand
-Website:  [http://www.briandlab.com/](http://www.briandlab.com/)
-Contact Person: Lisa Briand, [lbriand@temple.edu](mailto:lbriand@temple.edu)
+Lab:  Behavioral Neurophysiology Lab<br>
+PI:  Lisa Briand<br>
+Website:  [http://www.briandlab.com/](http://www.briandlab.com/)<br>
+Contact Person: Lisa Briand, [lbriand@temple.edu](mailto:lbriand@temple.edu)<br>
 
 ## Lab Focus:
 
@@ -166,10 +166,10 @@ Assisting in research in our lab is best suited for rising sophomores and junior
 
 - **Headings/Tags/Keywords: Neuroscience, Research with Animals, Addiction**
 
-Lab:  Neurocognition Lab
-PI:  Dr. Jason Chein
-Website: [http://www.cla.temple.edu/tunl/](http://www.cla.temple.edu/tunl/)
-Contact Person: Jamie Patrianakos, [jpatrianakos@gmail.com](mailto:jpatrianakos@gmail.com) or Morgan Botdorf, [mbotdorf2@gmail.com](mailto:mbotdorf2@gmail.com)
+Lab:  Neurocognition Lab<br>
+PI:  Dr. Jason Chein<br>
+Website: [http://www.cla.temple.edu/tunl/](http://www.cla.temple.edu/tunl/)<br>
+Contact Person: Jamie Patrianakos, [jpatrianakos@gmail.com](mailto:jpatrianakos@gmail.com) or Morgan Botdorf, [mbotdorf2@gmail.com](mailto:mbotdorf2@gmail.com)<br>
 
 ## Lab Focus:
 
@@ -190,10 +190,10 @@ Assisting in research in our lab is best suited for students who are interested 
 
 - **Headings/Tags/Keywords: cognitive, neuroscience, decision making, working memory, human subjects research**
 
-Lab: Temple Eating Disorders (TED)
-PI: Dr. Eunice Chen
-Website: [http://sites.temple.edu/tedp](http://sites.temple.edu/tedp)
-Contact Person: Susan Murray, [smurray1210@gmail.com](mailto:smurray1210@gmail.com), or Dr Chen, [Eunice.Chen@temple.edu](mailto:Eunice.Chen@temple.edu)
+Lab: Temple Eating Disorders (TED)<br>
+PI: Dr. Eunice Chen<br>
+Website: [http://sites.temple.edu/tedp](http://sites.temple.edu/tedp)<br>
+Contact Person: Susan Murray, [smurray1210@gmail.com](mailto:smurray1210@gmail.com), or Dr Chen, [Eunice.Chen@temple.edu](mailto:Eunice.Chen@temple.edu)<br>
 
 ## Lab Focus:
 
@@ -218,10 +218,10 @@ Assisting in research in our lab is best suited for undergraduate students and p
 
 - **Headings/Tags/Keywords: Clinical, Neuroscience, Research with Humans**
 
-Name: Dr. Lauren Ellman
-Office: 477 Weiss Hall
-Telephone: [(215) 204-1571](tel:2152041571)
-Email: [lauren.ellman@temple.edu](mailto:lauren.ellman@temple.edu)
+Name: Dr. Lauren Ellman<br>
+Office: 477 Weiss Hall<br>
+Telephone: [(215) 204-1571](tel:2152041571)<br>
+Email: [lauren.ellman@temple.edu](mailto:lauren.ellman@temple.edu)<br>
 
 ## Description of project(s) on which students might work:
 
@@ -233,10 +233,10 @@ I am conducting multiple studies investigating the causes of schizophrenia and r
 - Further, students must have at least a 3.5 GPA.
 - No research experience is required, but at least a year time commitment is expected.
 
-Lab: Cognitive Neuropsychology Lab
-PI: Tania Giovannetti, Ph.D.
-Website: [www.temple.edu/cogneurolab/](www.temple.edu/cogneurolab/)
-Contact Person: Emma Rhodes, [emma.rhodes@temple.edu](mailto:emma.rhodes@temple.edu)
+Lab: Cognitive Neuropsychology Lab<br>
+PI: Tania Giovannetti, Ph.D.<br>
+Website: [www.temple.edu/cogneurolab/](www.temple.edu/cogneurolab/)<br>
+Contact Person: Emma Rhodes, [emma.rhodes@temple.edu](mailto:emma.rhodes@temple.edu)<br>
 
 ## Lab Focus:
 
@@ -257,10 +257,10 @@ Our lab is best suited for students who are interested in neuropsychology, cogni
 
 - **Headings/Tags/Keywords: Neuropsychology, Cognition, Aging, Research with Humans**
 
-Name: Dr. Donald Hantula
-Office: 504 Weiss Hall
-Telephone: [(215) 204-5950](tel:2152045950)
-Email: [hantula@temple.edu](mailto:hantula@temple.edu)
+Name: Dr. Donald Hantula<br>
+Office: 504 Weiss Hall<br>
+Telephone: [(215) 204-5950](tel:2152045950)<br>
+Email: [hantula@temple.edu](mailto:hantula@temple.edu)<br>
 
 ## Description of project(s) on which students might work:
 
@@ -277,9 +277,9 @@ Generally the work falls into the domain of organizational psychology. The follo
 skills in art/graphic design
 - We especially interested in and give preference to students who either have skills in VisualBASIC, JAVA, JAVAScript, or who are willing to acquire these skills quickly.
 
-Lab Name: Adult Anxiety Clinic of Temple (AACT) 
-PI: Dr. Richard Heimberg 
-Contact Person: Michaela Swee, [michaela.swee@temple.edu](mailto:michaela.swee@temple.edu)
+Lab Name: Adult Anxiety Clinic of Temple (AACT) <br>
+PI: Dr. Richard Heimberg<br>
+Contact Person: Michaela Swee, [michaela.swee@temple.edu](mailto:michaela.swee@temple.edu)<br>
 
 ## Lab Focus:
 
@@ -307,10 +307,10 @@ Assisting in research in our lab is best suited for students who are interested 
 
 - **Tags: Clinical, anxiety disorders, treatment, social anxiety disorder, dental anxiety.**
 
-Name: Dr. Philip N. Hineline (Professor Emeritus)
-Office: 819 Weiss Hall
-Telephone: [(215) 204-1573](tel:2152041573)/1579
-Email: [hineline@temple.edu](mailto:hineline@temple.edu)
+Name: Dr. Philip N. Hineline (Professor Emeritus)<br>
+Office: 819 Weiss Hall<br>
+Telephone: [(215) 204-1573](tel:2152041573)/1579<br>
+Email: [hineline@temple.edu](mailto:hineline@temple.edu)<br>
 
 ## Description of project(s) on which students might work:
 
@@ -325,8 +325,8 @@ Email: [hineline@temple.edu](mailto:hineline@temple.edu)
 - A recommendation from the course instructor or relevant employer will be requested.
 - Collaborating students will be expected to do background reading for discussions at periodic meetings of the research group.
 
-Name: Dr. Kathy Hirsh-Pasek
-For contact information please see the TICL [website](http://www.temple.edu/infantlab/)
+Name: Dr. Kathy Hirsh-Pasek<br>
+For contact information please see the TICL [website](http://www.temple.edu/infantlab/)<br>
 
 ## Description of project(s) on which students might work:
 
@@ -340,10 +340,10 @@ The play and learning research focuses on the role that play has in enriching pa
 - PSY 2168 Inferential Methods, and a course in the 3000 series.
 - Admission only by permission of the instructor.
 
-Lab Name: Child and Adolescent Anxiety Disorders Clinic (CAADC)
-PI: Philip C. Kendall, Ph.D., ABPP
-Lab Website: [http://childanxiety.org/wps/]( http://childanxiety.org/wps/)
-Contact Person: Elana Kagan, [tuf07980@temple.edu](mailto:tuf07980@temple.edu)
+Lab Name: Child and Adolescent Anxiety Disorders Clinic (CAADC)<br>
+PI: Philip C. Kendall, Ph.D., ABPP<br>
+Lab Website: [http://childanxiety.org/wps/]( http://childanxiety.org/wps/)<br>
+Contact Person: Elana Kagan, [tuf07980@temple.edu](mailto:tuf07980@temple.edu)<br>
 
 ## Lab Focus:
 
@@ -368,10 +368,10 @@ Assisting in research in the CAADC is suited for students who are interested in 
 
 - **Headings/Tags/Keywords: Research in Clinical Psychology, Research with Humans, Anxiety, Children and Adolescents, Treatment** Evaluation
 
-Name: Dr. Peter Marshall
-Office: 569 Weiss Hall
-Telephone: [(215) 204-5744](tel:2152045744)
-Email: [pjmarsh@temple.edu](mailto:pjmarsh@temple.edu)
+Name: Dr. Peter Marshall<br>
+Office: 569 Weiss Hall<br>
+Telephone: [(215) 204-5744](tel:2152045744)<br>
+Email: [pjmarsh@temple.edu](mailto:pjmarsh@temple.edu)<br>
 
 ## Description of project(s) on which students might work:
 
@@ -387,10 +387,10 @@ For more details see the “For Students” section at: [http://www.temple.edu/d
 - Experience working with children and families is preferred.
 - Computer skills including Excel/SPSS/MATLAB is also preferable.
 
-Lab Name: Mechanisms of Affective Dysregulation (MAD) Laboratory
-PI:  Dr. Michael McCloskey
-Lab Website: [http://sites.temple.edu/madlab/](http://sites.temple.edu/madlab/)
-Contact Person: Anne Knorr, [anne.knorr@temple.edu](mailto:anne.knorr@temple.edu)
+Lab Name: Mechanisms of Affective Dysregulation (MAD) Laboratory<br>
+PI:  Dr. Michael McCloskey<br>
+Lab Website: [http://sites.temple.edu/madlab/](http://sites.temple.edu/madlab/)<br>
+Contact Person: Anne Knorr, [anne.knorr@temple.edu](mailto:anne.knorr@temple.edu)<br>
 
 ## Lab Focus:
 
@@ -412,10 +412,10 @@ Assisting in research in our lab is best suited for students who are interested 
 
 - **Headings/Tags/Keywords: Clinical, Affect Dysregulation, Aggression, Self-Injury, Intermittent Explosive Disorder**
 
-Lab Name: Research in Spatial Cognition
-PI: Dr. Nora Newcombe (shared with Dr. Thomas Shipley)
-Lab Website: [sites.temple.edu/risc](sites.temple.edu/risc)
-Contact Person: Kelly Bower [Kelly.bower@temple.edu](mailto: Kelly.bower@temple.edu)
+Lab Name: Research in Spatial Cognition<br>
+PI: Dr. Nora Newcombe (shared with Dr. Thomas Shipley)<br>
+Lab Website: [sites.temple.edu/risc](sites.temple.edu/risc)<br>
+Contact Person: Kelly Bower [Kelly.bower@temple.edu](mailto: Kelly.bower@temple.edu)<br>
 
 ## Lab Focus:
 
@@ -435,10 +435,10 @@ Assisting in research in our lab is best suited for students who are interested 
 
 - **Headings/Tags/Keywords: Cognitive, perception, science of learning,** 
 
-Lab Name: Temple Infant & Child Lab
-PI: Dr. Nora Newcombe (shared with Dr. Kathy Hirsh-Pasek)
-Lab Website: [temple.edu/infantlab](temple.edu/infantlab)
-Contact Person: Jelani Medford, [jelani.medford@temple.edu](mailto:jelani.medford@temple.edu) 
+Lab Name: Temple Infant & Child Lab<br>
+PI: Dr. Nora Newcombe (shared with Dr. Kathy Hirsh-Pasek)<br>
+Lab Website: [temple.edu/infantlab](temple.edu/infantlab)<br>
+Contact Person: Jelani Medford, [jelani.medford@temple.edu](mailto:jelani.medford@temple.edu)<br> 
 
 ## Lab Focus:
 
@@ -460,10 +460,10 @@ Assisting in research in our lab is best suited for students who are interested 
 
 - ** Headings/Tags/Keywords: Developmental, Research with Children, Research with Infants, Community Outreach**
 
-Lab Name: Child and Adolescent Development of Emotion, Personality, and Psychopathology
-PI: Thomas Olino, PhD
-Lab Website: In Development
-Contact Person: Christina Cerra [christina.cerra@temple.edu](mailto: christina.cerra@temple.edu)
+Lab Name: Child and Adolescent Development of Emotion, Personality, and Psychopathology<br>
+PI: Thomas Olino, PhD<br>
+Lab Website: In Development<br>
+Contact Person: Christina Cerra [christina.cerra@temple.edu](mailto: christina.cerra@temple.edu)<br>
 
 ## Lab Focus:
 
@@ -473,10 +473,10 @@ The lab studies processes related to the emergence of psychopathology in childre
 
 Students will need to make a commitment to work in the lab for a full year and have a minimum 3.35 GPA for consideration to be selected. Students must have flexible availability (i.e., evenings and weekends) to aid in participant recruitment and aid in data collection. Because studies will include child/adolescent participants, students will need to complete several background checks.
 
-Name: Dr. Ingrid Olson
-Office: 871 Weiss Hall
-Telephone: [(215) 204-7318](tel:2152047318)
-Email: [iolson@temple.edu](mailto:iolson@temple.edu)
+Name: Dr. Ingrid Olson<br>
+Office: 871 Weiss Hall<br>
+Telephone: [(215) 204-7318](tel:2152047318)<br>
+Email: [iolson@temple.edu](mailto:iolson@temple.edu)<br>
 
 ## Description of project(s) on which students might work:
 
@@ -486,10 +486,10 @@ Memory (episodic, autographical, short-term, implicit) visual perception (distan
 
 Proficient in Microsoft Excel; Introductory Psychology + one biological or cognitive-type psychology class.
 
-Name: Dr. Vinay Parikh
-Office: 872 Weiss Hall
-Telephone: [(215) 204-1572](tel:(215) 204-1572)
-Email: [parikh10@temple.edu](mailto:parikh10@temple.edu) 
+Name: Dr. Vinay Parikh<br>
+Office: 872 Weiss Hall<br>
+Telephone: [(215) 204-1572](tel:(215) 204-1572)<br>
+Email: [parikh10@temple.edu](mailto:parikh10@temple.edu)<br> 
 
 ## Description of project(s) on which students might work:
 
@@ -504,10 +504,10 @@ Techniques used in the lab: Stereotaxic animal surgeries, intracranial infusions
 - Highly motivated, self-driven students interested in Behavioral Neuroscience.
 - Familiarity with SPSS, Sigma Plot/Prism, MATLAB, Medstate Notation and Photoshop would be a plus.
 
-Name: Dr. Thomas F. Shipley 
-Office: 325 Weiss Hall
-Telephone: [(215) 204-7890](tel:2152047890)
-Email: [thomas.shipley@temple.edu](mailto:thomas.shipley@temple.edu)
+Name: Dr. Thomas F. Shipley<br> 
+Office: 325 Weiss Hall<br>
+Telephone: [(215) 204-7890](tel:2152047890)<br>
+Email: [thomas.shipley@temple.edu](mailto:thomas.shipley@temple.edu)<br>
 
 ## Description of project(s) on which students might work:
 
@@ -517,10 +517,10 @@ Students will assist in running experiments, creating stimuli, collecting data, 
 ## Qualifications students must meet (if any):
 
 Students should be familiar with basic computer operations (we use MACS & PCs) and be familiar with library and internet searches.
-Lab: Juvenile Justice – Crossroads Study
-PI: Laurence Steinberg, Ph.D.
-Website: [http://crossroads.soceco.uci.edu/home.asp](http://crossroads.soceco.uci.edu/home.asp)
-Contact Person: Michelle Harmon, Project Coordinator, [mlharmon@temple.edu](mailto:mlharmon@temple.edu)
+Lab: Juvenile Justice – Crossroads Study<br>
+PI: Laurence Steinberg, Ph.D.<br>
+Website: [http://crossroads.soceco.uci.edu/home.asp](http://crossroads.soceco.uci.edu/home.asp)<br>
+Contact Person: Michelle Harmon, Project Coordinator, [mlharmon@temple.edu](mailto:mlharmon@temple.edu)<br>
 
 ## Lab Focus:
 
@@ -548,10 +548,10 @@ Assisting in research in our lab is best suited for students who are interested 
 
 - **Headings/Tags/Keywords: Developmental Psychology, Adolescence, Criminal Justice** 
 
-Name: Dr. Marsha Weinraub
-Office: 657 Weiss Hall
-Telephone: [(215) 204-7360](tel:2152047360)
-Email: [mweinrau@temple.edu](mailto:mweinrau@temple.edu)
+Name: Dr. Marsha Weinraub<br>
+Office: 657 Weiss Hall<br>
+Telephone: [(215) 204-7360](tel:2152047360)<br>
+Email: [mweinrau@temple.edu](mailto:mweinrau@temple.edu)<br>
 
 ## Description of project(s) on which students might work:
 
@@ -565,10 +565,10 @@ Email: [mweinrau@temple.edu](mailto:mweinrau@temple.edu)
 - Advanced undergraduate with 3+ GPA
 - Sincere desire to do research and some time to do it
 
-Name: Dr. Hongling Xie
-Office: 519 Weiss Hall
-Telephone: [(215) 204-1554](tel:2152041554)
-Email: [hxie@temple.edu](mailto:hxie@temple.edu)
+Name: Dr. Hongling Xie<br>
+Office: 519 Weiss Hall<br>
+Telephone: [(215) 204-1554](tel:2152041554)<br><br>
+Email: [hxie@temple.edu](mailto:hxie@temple.edu)<br>
 
 ## Description of project(s) on which students might work:
 
