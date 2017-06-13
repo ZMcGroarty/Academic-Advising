@@ -31,6 +31,12 @@ After graduation, our students pursue a diverse range of careers, such as:
 - Neuropsychology (PhD)
 - Medical School (MD, DO)
 
+## Careers
+
+An undergraduate degree in Psychology affords many opportunities for careers and further study at the graduate level, because the knowledge and skills learned through the major (e.g., critical thinking, human behavior) are important to many disciplines. Psychology majors are often employed in management positions, real estate, sales, marketing, social services, and labor relations. Many psychology majors also go on to graduate study in psychology or other fields, including law, medicine, and business school.
+
+Temple Psychology students are informed of career options and advised of career decisions through a formal course, called Careers in Psychology. This course is designed to encourage students to begin to prepare for their career early during their undergraduate training so that they may maximally benefit from their undergraduate education.
+
 ## Make Your Declaration
 
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.
