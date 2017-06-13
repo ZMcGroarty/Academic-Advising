@@ -31,14 +31,12 @@ The Honors Psychology program has several main goals. First, students may expect
 
 Students who are psychology majors with a 3.5 GPA (or higher) may receive an invitation to attend an informational session during the spring semester of their second year of study at Temple. The informational session is an opportunity to learn more about the program. Upon entering the honors program, students must maintain at least a 3.5 GPA throughout the duration of the honors program.
 
-Download the syllabus for: [Honors Psychology](http://www.cla.temple.edu/psychology/files/2016/02/Psychology-Honors-Syllabus-Fall-2015.pdf) (Fall 2015) (.pdf)
-
 For more information please contact:
 
-Ms. Nicole Pileggi
-Undergraduate Advisor
-616 Weiss Hall 
-[nicole.pileggi@temple.edu](nicole.pileggi@temple.edu)
+Ms. Nicole Pileggi<br>
+Undergraduate Advisor<br>
+616 Weiss Hall<br> 
+[nicole.pileggi@temple.edu](nicole.pileggi@temple.edu)<br>
 
 ## Psychology Internship and Practicum
 
