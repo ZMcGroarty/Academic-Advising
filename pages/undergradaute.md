@@ -29,13 +29,6 @@ sidebar-content:
     <a href="tel:2152043102">(215) 204-3102</a><br/>
     <a href="mailto:andykarp@temple.edu">andykarp@temple.edu</a><br/>
       &nbsp;<br/>
-      
-     <b>Graduate Chair:</b><br/>
-    Deborah Drabick, Ph.D., Director, Graduate Studies<br/>
-    822 Weiss Hall<br/>
-    <a href="tel:2152040957">(215) 204-0957</a><br/>
-    <a href="mailto:deborah.drabick@temple.edu">deborah.drabick@temple.edu</a><br/>
-      &nbsp;<br/>
 
     <b>Administrator:</b><br/>
     Laura Dean<br/>
@@ -68,12 +61,6 @@ sidebar-content:
     651 Weiss Hall<br/>
     <a href="tel:2152045998">(215) 204-5998</a><br/>
     <a href="mailto:kia.little@temple.edu">kia.little@temple.edu</a><br/>
-      &nbsp;<br/>
-     
-    Vanessa Allen-Smith, Graduate Coordinator<br/>
-    653 Weiss Hall<br/>
-    <a href="tel:2152047667">(215) 204-7667</a><br/>
-    <a href="mailto:vallens@temple.edu">vallens@temple.edu</a><br/>
       &nbsp;<br/>
       
      <b>Senior Academic Advisor:</b><br/>
