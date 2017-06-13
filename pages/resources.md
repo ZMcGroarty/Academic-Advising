@@ -73,10 +73,10 @@ A final paper centered on your work internship experience. Separate guidelines f
 
 Your grade will be determined by your work evaluation (50%), your journal entries (15%), semester meetings with Dr. James (totaling 10%) and your final paper (25%).
 
-Peter James, Ph.D.
-Associate Chair, Psychology Department
-617 Weiss Hall
-[pjames@temple.edu](mailto:pjames@temple.edu)
+Peter James, Ph.D.<br>
+Associate Chair, Psychology Department<br>
+617 Weiss Hall<br>
+[pjames@temple.edu](mailto:pjames@temple.edu)<br>
 
 ## Research Opportunities
 
@@ -180,20 +180,6 @@ Magda Abozeed is currently a junior in the college of liberal arts. She is a psy
 
 **ShaeLynn Trapp – Promotions Coordinator**
 ShaeLynn is a junior Psychology major, serving as the Promotions Officer for Psi Chi. She is a research assistant in the Temple University Infant and Child Lab, working on the Urban Thinkscape project. When she is not studying psychology, she can be found working at the front office of James S. White Hall or at home reading crime fiction. She plans on pursuing a career in school psychology.
-
-## Careers
-
-An undergraduate degree in Psychology affords many opportunities for careers and further study at the graduate level, because the knowledge and skills learned through the major (e.g., critical thinking, human behavior) are important to many disciplines. Psychology majors are often employed in management positions, real estate, sales, marketing, social services, and labor relations. Many psychology majors also go on to graduate study in psychology or other fields, including law, medicine, and business school.
-
-Temple Psychology students are informed of career options and advised of career decisions through a formal course, called Careers in Psychology. This course is designed to encourage students to begin to prepare for their career early during their undergraduate training so that they may maximally benefit from their undergraduate education.
-
-## Information on Careers and Graduate Study in Psychology
-
-- [Information on Careers in Psychology](http://www.apa.org/careers/resources/guides/careers.aspx)
-- [Basic Guide to Graduate School in Psychology](http://www.cla.temple.edu/psychology/files/2013/09/Basic_Guide_to_Graduate_School_in_Psych.pdf) (.pdf)
-- [Clinical Psychology Graduate School Fact Sheet](http://www.cla.temple.edu/psychology/files/2013/09/Clinical_Psychology_Grad_School_Fact_Sheet_1210a.pdf) (.pdf)
-- [Information on Graduate School](http://www.apa.org/education/grad/index.aspx)
-- [Preparing for Post Graduation Employment](http://www.cla.temple.edu/psychology/files/2013/09/How_You_Can_Prepare_NOW_for_Post_Graduation_Employment-_4_10_12_.pdf) (.pdf)
 
 ## Support the Department of Psychology
 
