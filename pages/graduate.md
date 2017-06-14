@@ -1,6 +1,6 @@
 ---
 title: Graduate
-meta-keywords: 3 or 4 unique for this page
+meta-keywords: graduate, phd, students, Psychology program
 permalink: /graduate/
 layout: page
 published: true
