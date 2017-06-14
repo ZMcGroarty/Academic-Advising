@@ -5,73 +5,80 @@ permalink: /graduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: 
-    <div class="course-box">
-        <b>Contact:</b>
-        <ul>
-        <b>Chair:</b><br/>
-          Peter Marshall, Ph.D<br/>
-    656 Weiss Hall<br/>
-    <a href="tel:2152047360">(215) 204-7360</a><br/>
-    <a href="mailto:Pjmarsh@temple.edu">Pjmarsh@temple.edu</a><br/>
-    &nbsp;<br/> 
-    
-    <b>Associate Chair:</b><br/>
-          Peter James, Ph.D<br/>
-    606 Weiss Hall<br/>
-    <a href="tel:2152043409">(215) 204-3409</a><br/>
-    <a href="mailto:pjames@temple.edu">pjames@temple.edu</a><br/>
-    &nbsp;<br/> 
-      
-     <b>Graduate Chair:</b><br/>
-    Deborah Drabick, Ph.D., Director, Graduate Studies<br/>
-    822 Weiss Hall<br/>
-    <a href="tel:2152040957">(215) 204-0957</a><br/>
-    <a href="mailto:deborah.drabick@temple.edu">deborah.drabick@temple.edu</a><br/>
-      &nbsp;<br/>
+sidebar-content: > #
+  ### Contact Us
 
-    <b>Administrator:</b><br/>
-    Laura Dean<br/>
-    654 Weiss Hall<br/>
-    <a href="tel:2152042644">(215) 204-2644</a><br/>
-    <a href="mailto:ldean@temple.edu">ldean@temple.edu</a><br/>
-      &nbsp;<br/>
-      
-     <b>Assistant Administrator:</b><br/>
-    Michelle Bonilla<br/>
-    657 Weiss Hall<br/>
-    <a href="tel:2152047317">(215) 204-7317</a><br/>
-    <a href="mailto:mbonilla@temple.edu">mbonilla@temple.edu</a><br/>
-      &nbsp;<br/>
+  <hr>
 
-    <b>Coordinators:</b><br/>
-    Lauren McDuffie<br/>
-    659 Weiss Hall<br/>
-    <a href="tel:2152047321">(215) 204-7321</a><br/>
-    <a href="mailto:LMcD@temple.edu">LMcD@temple.edu</a><br/>
-      &nbsp;<br/>
+  **Chair:** <br/>
+  Peter Marshall, Ph.D<br/>
+  656 Weiss Hall<br/>
+  [(215) 204-7360](tel:2152047360)<br/>
+  [Pjmarsh@temple.edu](mailto:Pjmarsh@temple.edu)<br/>
 
-    Sarah McLaughlin, Neuroscience Student Services Specialist/Coordinator<br/>
-    638 Weiss Hall<br/>
-    <a href="tel:2152043441">(215) 204-3441</a><br/>
-    <a href="mailto:smclaughlin@temple.edu">smclaughlin@temple.edu</a><br/>
-      &nbsp;<br/>
-     
-    Vanessa Allen-Smith, Graduate Coordinator<br/>
-    653 Weiss Hall<br/>
-    <a href="tel:2152047667">(215) 204-7667</a><br/>
-    <a href="mailto:vallens@temple.edu">vallens@temple.edu</a><br/>
-      &nbsp;<br/>
-      
-     <b>Senior Academic Advisor:</b><br/>
-    Nicole Pileggi, M.Ed.<br/>
-    616 Weiss Hall<br/>
-    <a href="tel:2152043403">(215) 204-3403</a><br/>
-    <a href="mailto:nicole.pileggi@temple.edu">nicole.pileggi@temple.edu</a><br/>
-      &nbsp;<br/>
-      </ul>
-      </div>
+  <hr>
+
+  **Associate Chair:**<br/>
+  Peter James, Ph.D<br/>
+  606 Weiss Hall<br/>
+  [(215) 204-3409](tel:2152043409)<br/>
+  [pjames@temple.edu](mailto:pjames@temple.edu)<br/>
+
+  <hr>
+
+  **Graduate Chair:**<br/>
+  Deborah Drabick, Ph.D., Director, Graduate Studies<br/>
+  822 Weiss Hall<br/>
+  [(215) 204-0957](tel:2152040957)<br/>
+  [deborah.drabick@temple.edu](mailto:deborah.drabick@temple.edu)<br/>
+  
+  <hr>
+
+  **Administrator:**<br/>
+  Laura Dean<br/>
+  654 Weiss Hall<br/>
+  [(215) 204-2644](tel:2152042644)<br/>
+  [ldean@temple.edu](mailto:ldean@temple.edu)<br/>
+  
+  <hr>
+
+  **Assistant Administrator:** <br/>
+  Michelle Bonilla<br/>
+  657 Weiss Hall<br/>
+  [(215) 204-7317](tel:2152047317)<br/>
+  [mbonilla@temple.edu](mailto:mbonilla@temple.edu)<br/>
+  
+  <hr>
+
+  **Coordinators:** <br/>
+  Lauren McDuffie<br/>
+  659 Weiss Hall<br/>
+  [(215) 204-7321](tel:2152047321)<br/>
+  [LMcD@temple.edu](mailto:LMcD@temple.edu)<br/>
+  
+  <hr>
+  
+  Sarah McLaughlin, Neuroscience Student Services Specialist/Coordinator<br/>
+  638 Weiss Hall<br/>
+  [(215) 204-3441](tel:2152043441)<br/>
+  [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu) <br/>
+  
+ <hr>
+   
+  Vanessa Allen-Smith, Graduate Coordinator<br/>
+  653 Weiss Hall<br/>
+  [(215) 204-7667](tel:2152047667)<br/>
+  [vallens@temple.edu](mailto:vallens@temple.edu)<br/>
+  
+  <hr>
+   
+  **Senior Academic Advisor:**<br/>
+  Nicole Pileggi, M.Ed.<br/>
+  616 Weiss Hall<br/>
+  [(215) 204-3403](tel:2152043403)<br/>
+  [nicole.pileggi@temple.edu](mailto:nicole.pileggi@temple.edu)<br/> 
 ---
+
 ## Program Overview
 
 The largest doctoral program in the College of Liberal Arts, the Psychology Department offers concentrations in Clinical Psychology, Developmental Psychology, Brain and Cognitive Sciences, and Social Psychology.  Graduate students have the opportunity to participate in an interdisciplinary program in Developmental Psychopathology and an interdisciplinary certificate program in Neuroscience.
