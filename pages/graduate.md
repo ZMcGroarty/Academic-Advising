@@ -63,7 +63,7 @@ sidebar-content: > #
   [(215) 204-3441](tel:2152043441)<br/>
   [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu) <br/>
   
- <hr>
+  <hr>
    
   Vanessa Allen-Smith, Graduate Coordinator<br/>
   653 Weiss Hall<br/>
