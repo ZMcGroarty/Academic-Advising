@@ -63,7 +63,7 @@ sidebar-content: > #
   [(215) 204-3441](tel:2152043441)<br/>
   [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu) <br/>
   
- <hr>
+  <hr>
    
   Kia Lavender Little, Undergraduate Coordinator<br/>
   651 Weiss Hall<br/>
