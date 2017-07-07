@@ -6,77 +6,68 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: > #
-  ### Contact Us
-
-  <hr>
-
-  **Chair:** <br/>
-  Peter Marshall, Ph.D<br/>
-  656 Weiss Hall<br/>
-  [(215) 204-7360](tel:2152047360)<br/>
-  [Pjmarsh@temple.edu](mailto:Pjmarsh@temple.edu)<br/>
-
-  <hr>
-
-  **Associate Chair:**<br/>
-  Peter James, Ph.D<br/>
-  606 Weiss Hall<br/>
-  [(215) 204-3409](tel:2152043409)<br/>
-  [pjames@temple.edu](mailto:pjames@temple.edu)<br/>
-
-  <hr>
-
-  **Graduate Chair:**<br/>
-  Deborah Drabick, Ph.D., Director, Graduate Studies<br/>
-  822 Weiss Hall<br/>
-  [(215) 204-0957](tel:2152040957)<br/>
-  [deborah.drabick@temple.edu](mailto:deborah.drabick@temple.edu)<br/>
-  
-  <hr>
-
-  **Administrator:**<br/>
-  Laura Dean<br/>
-  654 Weiss Hall<br/>
-  [(215) 204-2644](tel:2152042644)<br/>
-  [ldean@temple.edu](mailto:ldean@temple.edu)<br/>
-  
-  <hr>
-
-  **Assistant Administrator:** <br/>
-  Michelle Bonilla<br/>
-  657 Weiss Hall<br/>
-  [(215) 204-7317](tel:2152047317)<br/>
-  [mbonilla@temple.edu](mailto:mbonilla@temple.edu)<br/>
-  
-  <hr>
-
-  **Coordinators:** <br/>
-  Lauren McDuffie<br/>
-  659 Weiss Hall<br/>
-  [(215) 204-7321](tel:2152047321)<br/>
-  [LMcD@temple.edu](mailto:LMcD@temple.edu)<br/>
-  
-  <hr>
-  
-  Sarah McLaughlin, Neuroscience Student Services Specialist/Coordinator<br/>
-  638 Weiss Hall<br/>
-  [(215) 204-3441](tel:2152043441)<br/>
-  [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu) <br/>
-  
-  <hr>
+  **Chair:**  
+   Peter Marshall, Ph.D  
+   656 Weiss Hall  
+   [(215) 204-7360](tel:2152047360)  
+   [Pjmarsh@temple.edu](mailto:Pjmarsh@temple.edu)  
    
-  Vanessa Allen-Smith, Graduate Coordinator<br/>
-  653 Weiss Hall<br/>
-  [(215) 204-7667](tel:2152047667)<br/>
-  [vallens@temple.edu](mailto:vallens@temple.edu)<br/>
-  
-  <hr>
+   ___
    
-  **Senior Academic Advisor:**<br/>
-  Nicole Pileggi, M.Ed.<br/>
-  616 Weiss Hall<br/>
-  [(215) 204-3403](tel:2152043403)<br/>
-  [nicole.pileggi@temple.edu](mailto:nicole.pileggi@temple.edu)<br/> 
+  **Associate Chair:**  
+   Peter James, Ph.D  
+   606 Weiss Hall  
+   [(215) 204-3409](tel:2152043409)  
+   [pjames@temple.edu](mailto:pjames@temple.edu)  
+   
+    ___
+   
+   **Director of Graduate Studies:**  
+   Deborah Drabick, Ph.D.     
+   822 Weiss Hall  
+   [(215) 204-0957](tel:2152040957)  
+   [deborah.drabick@temple.edu](mailto:deborah.drabick@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Laura Dean  
+   654 Weiss Hall   
+   [(215) 204-2644](tel:2152042644)  
+   [ldean@temple.edu](mailto:ldean@temple.edu)  
+   
+   ___
+   
+   **Assistant Administrator:**  
+   Michelle Bonilla  
+   657 Weiss Hall   
+   [(215) 204-7317](tel:2152047317)  
+   [mbonilla@temple.edu](mailto:mbonilla@temple.edu)  
+   
+    ___
+
+   **Coordinators:**  
+   Lauren McDuffie  
+   659 Weiss Hall    
+   [(215) 204-7321](tel:2152047321)   
+   [LMcD@temple.edu](mailto:LMcD@temple.edu)  
+
+   Sarah McLaughlin, Neuroscience Student Services Specialist/Coordinator  
+   638 Weiss Hall    
+   [(215) 204-3441](tel:2152043441)  
+   [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)
+   
+   Vanessa Allen-Smith, Graduate Coordinator  
+   653 Weiss Hall    
+   [(215) 204-7667](tel:2152047667)   
+   [vallens@temple.edu](mailto:vallens@temple.edu)  
+   
+   **Senior Academic Advisor:**
+   
+   Nicole Pileggi, M.Ed.  
+   616 Weiss Hall    
+   [(215) 204-3403](tel:2152043403)   
+   [nicole.pileggi@temple.edu](mailto:nicole.pileggi@temple.edu)  
 ---
 
 ## Program Overview
