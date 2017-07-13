@@ -217,7 +217,7 @@ Yes.
 
 Faculty and students in the Brain and Cognitive Sciences Program are working on a wide range of research questions across the domains of cognition, perception, and neuroscience. Students in this program are presented with a unique opportunity for integrative work across a variety of perspectives. A list of faculty working in the BCS Program is given below, along with a brief indication of their research interests.
 
-In addition to pursuing a Ph.D. in the Psychology Department, graduate students with neuroscience interests can also receive a [Specialization in Neuroscience](http://www.cla.temple.edu/neuroscience/graduate-specialization/) through the interdisciplinary Neuroscience@Temple Program, which includes faculty from the Biology, Pharmacology, Physical Therapy, and Psychology Departments.
+In addition to pursuing a Ph.D. in the Psychology Department, graduate students with neuroscience interests can also receive a [Specialization in Neuroscience](http://www.cla.temple.edu/neuroscience#phd-specialization-in-neuroscience/) through the interdisciplinary Neuroscience@Temple Program, which includes faculty from the Biology, Pharmacology, Physical Therapy, and Psychology Departments.
 
 For further information or questions concerning the Doctoral Program in Brain and Cognitive Sciences, contact:
 
