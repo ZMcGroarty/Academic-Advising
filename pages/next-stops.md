@@ -48,8 +48,6 @@ For a complete list of our academic offerings visit [liberalarts.temple.edu](lib
 The Office of Admissions offers tours daily. To register for a tour, please go to temple.edu/visit
 If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit opportunities we have throughout the year, including the Liberal Arts Preview Day.
 
-For more information, please go to: [liberalarts.temple.edu/admissions/visit](liberalarts.temple.edu/admissions/visit)
-
 ## Thinking Of Transferring?
 
 The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible.
@@ -58,7 +56,7 @@ To learn more about transferring to Temple, please visit [temple.edu/transfer](t
 
 ## Apply
 
-When you are ready to apply, submit your application online at [admissions.temple.edu/app](http://admissions.temple.edu/apply)
+When you are ready to apply, submit your application online at [admissions.temple.edu/app](admissions.temple.edu/app)
 
 ## Deadlines
 
