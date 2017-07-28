@@ -1,6 +1,6 @@
 ---
 title: Next Stops
-meta-keywords: transfer, apply, visit, College of Liberal Arts, Psychology, careers
+meta-keywords: 'transfer, apply, visit, College of Liberal Arts, Psychology, careers'
 permalink: /next-stops/
 layout: page
 published: true
@@ -58,7 +58,7 @@ To learn more about transferring to Temple, please visit [temple.edu/transfer](t
 
 ## Apply
 
-When you are ready to apply, submit your application online at [admissions.temple.edu/app](admissions.temple.edu/app)
+When you are ready to apply, submit your application online at [admissions.temple.edu/app](http://admissions.temple.edu/apply)
 
 ## Deadlines
 
