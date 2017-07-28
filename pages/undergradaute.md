@@ -1,11 +1,11 @@
 ---
 title: Undergraduate
-meta-keywords: psychology, undergraduate, research, lab, Temple 
+meta-keywords: 'psychology, undergraduate, research, lab, Temple'
 permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Chair:**  
    Peter Marshall, Ph.D  
    656 Weiss Hall  
@@ -67,7 +67,7 @@ sidebar-content: > #
    Nicole Pileggi, M.Ed.  
    616 Weiss Hall    
    [(215) 204-3403](tel:2152043403)   
-   [nicole.pileggi@temple.edu](mailto:nicole.pileggi@temple.edu)  
+   [nicole.pileggi@temple.edu](mailto:nicole.pileggi@temple.edu)
 ---
 
 ## Leaders In Our Field
@@ -85,6 +85,8 @@ The Department of Psychology has a strong commitment to scholarly and scientific
 The Temple University Undergraduate Psychology program provides a modern curriculum covering a breadth of content, ranging from biological bases of cognition and behavior to sociocultural influences on human interactions and psychological disorders. The curriculum is designed to develop students’ critical thinking skills through emphasis of the scientific basis of Psychology and courses in statistics and research methodology. The program also emphasizes the integration and synthesis of information across courses and activities through the stepwise progression of the curriculum from the introductory, foundational, and advanced classes up to the final capstone course that is taken in the senior year.
 
 Students are strongly encouraged to develop applied skills through rigorous and highly focused experiential learning in research laboratories and community–based internships. The curriculum is designed to be sufficiently flexible to satisfy the diversity of needs among undergraduates. As such an individually tailored curriculum may be selected for the purpose of preparing students for employment or further study in psychology, neuroscience, medicine, law, business, or other fields.
+
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
 
 ## Academic Offerings
 
