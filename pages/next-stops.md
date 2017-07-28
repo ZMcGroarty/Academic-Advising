@@ -56,7 +56,7 @@ To learn more about transferring to Temple, please visit [temple.edu/transfer](t
 
 ## Apply
 
-When you are ready to apply, submit your application online at [admissions.temple.edu/app](admissions.temple.edu/app)
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
 
 ## Deadlines
 
