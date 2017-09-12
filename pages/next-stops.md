@@ -1,6 +1,6 @@
 ---
 title: Next Stops
-meta-keywords: 'transfer, apply, visit, College of Liberal Arts, Psychology, careers'
+meta-keywords: 
 permalink: /next-stops/
 layout: page
 published: true
@@ -8,34 +8,7 @@ published: true
 
 ## Next Stops:
 
-Students may receive course credit for internship and research experiences outside the classroom. Our program offers a wide range of internships that allow students to apply their learning to real-life situations while gaining work experience and building a professional network.
 
-Examples of internship settings include:
-
-- Abington Memorial Hospital
-- Children’s Crisis Treatment Center
-- Children’s Hospital of Philadelphia
-- Kidsville Learning Center
-- PeopleShare
-- The Social Enrichment Center
-- Tuttleman Counseling Services
-
-After graduation, our students pursue a diverse range of careers, such as:
-
-- Research Coordinator (BA)
-- Clinical Case Manager (BA)
-- Human Resources (BA)
-- Speech Pathology (MS)
-- Law School (JD)
-- Psychology (PhD)
-- Neuropsychology (PhD)
-- Medical School (MD, DO)
-
-## Careers
-
-An undergraduate degree in Psychology affords many opportunities for careers and further study at the graduate level, because the knowledge and skills learned through the major (e.g., critical thinking, human behavior) are important to many disciplines. Psychology majors are often employed in management positions, real estate, sales, marketing, social services, and labor relations. Many psychology majors also go on to graduate study in psychology or other fields, including law, medicine, and business school.
-
-Temple Psychology students are informed of career options and advised of career decisions through a formal course, called Careers in Psychology. This course is designed to encourage students to begin to prepare for their career early during their undergraduate training so that they may maximally benefit from their undergraduate education.
 
 ## Make Your Declaration
 
