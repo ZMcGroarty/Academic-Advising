@@ -65,9 +65,9 @@ google_analytics:
 google_tag_manager: GTM-58ZL5B
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
-events-feed: https://liberalarts.temple.edu/events/csv
-news-feed: https://liberalarts.temple.edu/news/csv
-faculty-feed: https://liberalarts.temple.edu/profiles/csv
+events-feed: https://liberalarts.temple.edu/events/pre-law/csv
+news-feed: https://liberalarts.temple.edu/news/pre-law/csv
+faculty-feed: https://liberalarts.temple.edu/profiles/pre-law/csv
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
