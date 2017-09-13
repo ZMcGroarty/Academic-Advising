@@ -8,6 +8,21 @@ published: true
 
 ## Next Stops:
 
+While traditional pre-law majors include political science, economics, history, English, and philosophy, students from all our majors have been very successful in law school admissions. The following are some of the nationally and locally renowned law schools that our graduates have been admitted to in the last three years:
+
+- Yale University
+- Harvard University
+- New York University
+- University of Pennsylvania
+- University of Chicago
+- Northwestern University
+- Georgetown University
+- Emory University
+- Tulane University
+- Temple University
+- Drexel University
+- Villanova University
+- Rutgers University
 
 
 ## Make Your Declaration
