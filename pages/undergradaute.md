@@ -6,21 +6,28 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: |
-  **Pre-LAw Director:**  
+  **Pre-Law Director:**  
    Paul Crowe     
    [(215) 204-8591](tel:2152048591)  
    [pcrowe@temple.edu](mailto:pcrowe@temple.edu)  
 ---
 
-## 
+## Internships & Professional Development
 
-Our 38 full-time faculty members have won many national and international awards and are experienced leaders in their fields. Their research teams are addressing questions at the forefront of psychological science.
+Law schools desire applicants who have the proven ability to work in the high-paced professional environment of law and understand the realities of legal practice. The College of Liberal Arts Center for Advising and Professional Development, as well as individual departments, organize internships for pre-law students. Recently, our students have secured coveted internships with:
 
-## 
+- Philadelphia District Attorney’s Office
+- Philadelphia Defenders Office
+- Temple Law’s Innocence Project
+- The ACLU
+- The Women’s Law Project
+- The US Attorney’s Office
+- The Office of the Attorney General of Pennsylvania
+- The Criminal Justice Department’s renowned Inside-Out program
+- The Political Science Department’s Capital Semester program in
+- Harrisburg and Washington, D.C.
+- Countless Philadelphia law firms, both large and small
 
-The dedicated academic advisor for Psychology is available to meet with students to provide guidance on course selection, acquiring an internship or research experience, career options, and applying to graduate school.
-
-## 
-
+Increasingly, law schools are looking for applicants with postgraduate work experience and here too CLA’s [Office of Professional Development](https://liberalarts.temple.edu/advising/professional-development), and undergraduate advisors in every department, are a great resource for connecting you with just such opportunities.
 
 When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
