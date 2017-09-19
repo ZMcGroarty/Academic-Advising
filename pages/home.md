@@ -1,12 +1,12 @@
 ---
 title: Home
 permalink: /
+layout: home
 description: >-
   Unlike other colleges where pre-law is offered as a major,
 keywords: 'law school'
-layout: home
 published: true
-feature: false
+feature: true
 feature-title: Your Path to Law School Begins Here
 feature-image: null
 feature-body: >-
