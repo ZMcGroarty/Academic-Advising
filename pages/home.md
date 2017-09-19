@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: /
-layout: home
+layout: home2
 description: >-
   Unlike other colleges where pre-law is offered as a major,
 keywords: 'law school'
