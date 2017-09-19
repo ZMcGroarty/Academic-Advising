@@ -1,18 +1,18 @@
 ---
 title: Home
-meta-description: 100 or so words
-meta-keywords: 
 permalink: /
+description: >-
+keywords: ''
 layout: home
+published: true
 feature: false
 feature-title: Your Path to Law School Begins Here
-feature-body:  >-
+feature-image: null
+feature-body: >-
   Unlike other colleges where pre-law is offered as a major,
   our students take advantage of unparalleled advising, professional
   development and extracurricular offerings designed to help chart a 
   path to law school that works for them.
-feature-image: 
-published: true
 ---
 Pre-law students in the College of Liberal Arts may select any of our 35 majors as their plan of study, and many opt to enhance their undergraduate career with a second major or a minor. This flexibility to build an impressive and eclectic undergraduate résumé in the humanities, social
 sciences — and beyond — can make all the difference in the law school application process. 
