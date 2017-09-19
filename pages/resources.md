@@ -1,8 +1,9 @@
 ---
 title: Resources
-meta-keywords: 
 permalink: /resources/
 layout: page
+meta-keywords: ''
+description: >-
 published: true
 ---
 ## Student Run Activities 

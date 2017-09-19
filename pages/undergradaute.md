@@ -1,8 +1,9 @@
 ---
 title: Undergraduate
-meta-keywords: 
 permalink: /undergraduate/
 layout: page
+keywords: ''
+description: >-
 published: true
 sidebar: true
 sidebar-content: |
