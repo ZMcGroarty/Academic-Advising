@@ -1,11 +1,11 @@
 ---
 title: Next Stops
-meta-keywords: 
 permalink: /next-stops/
 layout: page
+keywords: ''
+description: >-
 published: true
 ---
-
 ## Next Stops:
 
 While traditional pre-law majors include political science, economics, history, English, and philosophy, students from all our majors have been very successful in law school admissions. The following are some of the nationally and locally renowned law schools that our graduates have been admitted to in the last three years:
