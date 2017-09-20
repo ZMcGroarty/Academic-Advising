@@ -19,17 +19,25 @@ feature-body: >-
 Law Schools do not favor any particular major, but rather, look for students with critical thinking, analytical reading comprehension and argumentative writing skills. All departments and programs in the College of Liberal Arts excel in teaching these skills, which are integral to getting a good score on the LSAT exam — the most crucial factor in law school admissions. You can select any of our 35 majors and enhance it with a second major or minor. The flexibility to build an impressive and eclectic undergraduate résumé in the humanities and social sciences is a huge bonus when it comes to applying to law school.
 
 <div class="row row-wide">
-  <div class="col s1 m6 l6">{% include cards/card2-basic.html
+  <div class="col s1 m4">{% include cards/card2-basic.html
     title="Pre-Law Advising"
     content="A very important part of success in law school admissions is exceptional advising and mentoring. While there are many paths to prepare for law school, you need good advisors and mentors to help you build your own personal academic and experiential path, and to know how to present your achievements to law schools in the best light."
     button-link="[https://liberalarts.temple.edu/advising/academic-advising](https://liberalarts.temple.edu/advising/academic-advising)"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col s1 m6 l6">{% include cards/card2-basic.html
+    <div class="col s1 m4">{% include cards/card2-basic.html
       title="A Powerful Alumni Network"
       content="Our network of alums who have graduated from law school, or who are in law school now, are ready and willing to mentor our current crop of CLA pre-laws. All you have to do is ask us to make the connection."
       button-link="[https://liberalarts.temple.edu/our-alumni](https://liberalarts.temple.edu/our-alumni)"
       button-text="Learn More" %}
     </div>
+</div>
+<div class="row row-wide">
+  <div class="col s1 m4">{% include cards/card2-basic.html
+    title="A Powerful Alumni Network"
+    content="Our network of alums who have graduated from law school, or who are in law school now, are ready and willing to mentor our current crop of CLA pre-laws. All you have to do is ask us to make the connection."
+    button-link="[https://liberalarts.temple.edu/our-alumni](https://liberalarts.temple.edu/our-alumni)"
+    button-text="Learn More" %}
+  </div>
 </div>
