@@ -1,10 +1,12 @@
 ---
 title: Next Stops
 permalink: /next-stops/
+description: >-
+  Pre-law students at Temple contine on to the best law schools in America. They include Beasley School of Law, NYU, Yale, Harvard and     Northwestern University.  
+keywords: 'getting into law school, Beasley School of Law, law school admissions, good score on lsat, pre-law degree, College of Liberal Arts'
 layout: page
 published: true
 ---
-
 ## Beasley School of Law
 The Temple University James E. Beasley School of Law (also known as Temple Law School or Temple Law) is an excellent choice for pre-law students. A Philadelphia institution, Beasley School of Law offers both full-time and part-time law programs. Temple Law School offers well-regarded trial advocacy and legal writing programs; we are ranked 2nd best for trial advocacy training by _US News & World Report_. We are dedicated to making law school accessible to talented students who might encounter barriers due to race, creed, gender, disability, sexual orientation, gender identity, age or socioeconomic background. Admission is highly competitive. 
 
