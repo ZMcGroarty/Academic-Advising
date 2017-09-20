@@ -3,7 +3,9 @@ title: Home
 permalink: /
 layout: home2
 description: 'Unlike other colleges where pre-law is offered as a major,'
-keywords: law school
+keywords: >-
+  law school, best majors for law school, pre-law major, good score on lsat,
+  pre-law degree
 published: true
 feature: true
 feature-title: Your Path to Law School Begins Here
@@ -15,10 +17,7 @@ feature-body: >-
   works for them.
 ---
 ## What do Pre-Law Students Major In?
-Law Schools do not favor any particular major, but rather, look for students with a breadth of learning and excellent academic skills — especially critical thinking, analytical reading comprehension, and argumentative writing. All departments and programs in the College of Liberal Arts excel in teaching these skills, which are integral to performing optimally on the LSAT exam — the most crucial factor in law school admissions. 
-
-Pre-law students in the College of Liberal Arts may select any of our 35 majors as their plan of study, and many opt to enhance their undergraduate career with a second major or a minor. This flexibility to build an impressive and eclectic undergraduate résumé in the humanities, social
-sciences — and beyond — can make all the difference in the law school application process.
+Law Schools do not favor any particular major, but rather, look for students with critical thinking, analytical reading comprehension and argumentative writing skills. All departments and programs in the College of Liberal Arts excel in teaching these skills, which are integral to getting a good score on the LSAT exam — the most crucial factor in law school admissions. You can select any of our 35 majors and enhance it with a second major or minor. The flexibility to build an impressive and eclectic undergraduate résumé in the humanities and social sciences is a huge bonus when it comes to applying to law school. 
 
 <div class="row row-wide">
   <div class="col s1 m6 l6">{% include cards/card2-basic.html
