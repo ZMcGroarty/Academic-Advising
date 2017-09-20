@@ -10,7 +10,7 @@ The Temple University James E. Beasley School of Law (also known as Temple Law S
 
 [Learn More about Beasley School of Law](https://www.law.temple.edu/)
 
-## Law School Admission
+## Top Law Schools
 Undergraduates from the College of Liberal Arts who don't attend Temple Law continue on to top law schools that include
 
 - Yale University
