@@ -2,10 +2,9 @@
 title: Home
 permalink: /
 layout: home2
-description: 'Unlike other colleges where pre-law is offered as a major,'
-keywords: >-
-  law school, best majors for law school, pre-law major, good score on lsat,
-  pre-law degree
+description: >-
+  The best majors for law school are in the humanities and social sciences. All programs in the College of Liberal Arts prepare students   for the LSAT. 
+keywords: 'law school, best majors for law school, pre-law major, good score on lsat, pre-law degree'
 published: true
 feature: true
 feature-title: Your Path to Law School Begins Here
