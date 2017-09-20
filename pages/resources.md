@@ -2,26 +2,25 @@
 title: Resources
 permalink: /resources/
 layout: page
-meta-keywords: ''
-description: >-
 published: true
 ---
-## Student Run Activities 
+## Pre-Law Student Organizations
 
-The College offers a range of student-run activities that will be of interest to pre-law students, including:
+### Temple University Pre-Law Society
+Our [Pre-Law Society](https://temple.campuslabs.com/engage/organization/prelaw_society) is open to all majors and organizes guest lectures, workshops, LSAT prep and law school information sessions. The society also organizes visits to law schools and law school fairs and LSAT practice exams. If you want to meet other pre-law students and enhance your knowledge of the legal field, the Pre-Law Society is an essential addition to your academic coursework.
 
-## Temple University Mock Trial Team
+### Temple University Mock Trial Team
+Fake court, REAL smart. That's [Temple Mock Trial](https://temple.campuslabs.com/engage/organization/tumocktrial). Our members play either attorneys or witnesses and create an entire legal case out of the facts and case materials given to us by the American Mock Trial Association. We dress up in suits and take that case to tournaments across the East Coast, playing other top-notch universities including NYU, Princeton, Yale and University of Maryland. No prior experience is needed, we will train you in the ways of the majestic mock trial.
 
-The College of Liberal Arts has supported a successful [mock trial team](https://temple.campuslabs.com/engage/organization/tumocktrial) for many years. Every year, two teams from Temple enter the national American Mock Trial Association Competition and compete against teams from the region. Temple teams have regularly competed against (and defeated) teams from Yale Princeton, NYU, University of Maryland, and Villanova, among others. The team’s two coaches are both practicing lawyers and alums of Temple University’s Beasley School of Law’s nationally ranked Trial Advocacy Program.
+### Temple University Debate Team
+The [Temple Debate Society](https://temple.campuslabs.com/engage/organization/templedebate) encourages logical analysis and quick thinking; university teams compete against one another in a contest of argument, wit and rhetoric. First made famous at Oxford University, this debate style simulates debate in the House of Parliament. Grow your knowledge of political, philosophical, economic and social issues in a rigorous but enjoyable way. 
 
-## Temple University Debate Team
+### Temple University Black Law Students Association
+The [Black Law Student Association (Pre-Law Division)](https://www.law.temple.edu/academics/intellectual-life/student-organizations/) (BLSA) focuses on increasing minority membership in the legal profession, enhancing the quality and perspective of the minority Bar, and establishing relationships with surrounding community organizations.
 
-The [Temple Debate Society](https://temple.campuslabs.com/engage/organization/templedebate) competes on the most popular circuit in the United States, the American Parliamentary Debate Association, (APDA) but we encourage all types of public discourse, both competitive and non-competitive. The purpose of this organization is to develop speech and debating skills both among its members and the local community. The team provides access for its members to compete and/ or participate in debate, speech, and forensics tournaments, including those held on a national and international level.
-
-## Temple University Black Law Students Association
-
-The [Black Law Student Association (Pre-Law Division)](https://www.law.temple.edu/academics/intellectual-life/student-organizations/) is a student organization dedicated to making pre-law students more competitive law school applicants. The organization confronts the high racial disparity in the legal field by preparing pre-law students to attend law school.
-
-## Pre-Law Society
-
-[Pre-Law Society](https://temple.campuslabs.com/engage/organization/prelaw_society) meets regularly throughout the semester and is open to all majors. Apart from social events, the society hosts speakers such as law school admissions officers, LSAT prep organizations, and CLA alumni lawyers and law students. The Society also organizes visits to law schools and law school fairs in the area, as well as LSAT practice exams and study-groups. Pre-law Society is a great way to meet other pre-law students in the College.
+### Undergraduate Resources
+- [The Center for Academic Advising and Professional Development](https://liberalarts.temple.edu/advising)
+- [Changing your major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp)
+- [Graduation Application process](http://www.temple.edu/registrar/students/graduation)
+- [Undergraduate Funding](http://sfs.temple.edu/)
+- [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
