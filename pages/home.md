@@ -3,8 +3,11 @@ title: Home
 permalink: /
 layout: home
 description: >-
-  The best majors for law school are in the humanities and social sciences. All programs in the College of Liberal Arts prepare students   for the LSAT.
-keywords: 'law school, best majors for law school, pre-law major, good score on lsat, pre-law degree'
+  The best majors for law school are in the humanities and social sciences. All
+  programs in the College of Liberal Arts prepare students   for the LSAT.
+keywords: >-
+  law school, best majors for law school, pre-law major, good score on lsat,
+  pre-law degree
 published: true
 feature: true
 feature-title: Your Path to Law School Begins Here
@@ -21,19 +24,19 @@ Law Schools do not favor any particular major, but rather, look for students wit
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-basic.html
     title="Pre-Law Advising"
-    content="A very important part of success in law school admissions is exceptional advising and mentoring. While there are many paths to prepare for law school, you need good advisors and mentors to help you build your own personal academic and experiential path, and to know how to present your achievements to law schools in the best light."
+    content="If you want to get into law school, you'll need advising and mentoring. We're dedicated to supporting your academic and personal success to present your acheivements in the best light to top schools"
     button-link="[https://liberalarts.temple.edu/advising/academic-advising](https://liberalarts.temple.edu/advising/academic-advising)"
     button-text="Learn More" %}
   </div>
   <div class="col m12 l4">{% include cards/card2-basic.html
     title="A Powerful Alumni Network"
-    content="Our network of alums who have graduated from law school, or who are in law school now, are ready and willing to mentor our current crop of CLA pre-laws. All you have to do is ask us to make the connection."
+    content="Our network of alums in the legal field are ready and willing to mentor our current crop of CLA pre-laws. All you have to do is ask us to make the connection." 
     button-link="[https://liberalarts.temple.edu/our-alumni](https://liberalarts.temple.edu/our-alumni)"
     button-text="Learn More" %}
     </div>
     <div class="col m12 l4">{% include cards/card2-basic.html
-      title="A Powerful Alumni Network"
-      content="Our network of alums who have graduated from law school, or who are in law school now, are ready and willing to mentor our current crop of CLA pre-laws. All you have to do is ask us to make the connection."
+      title="Beasley Law School"
+      content="A Philadelphia institution, Beasley School of Law offers both full-time and part-time law programs. We are ranked 2nd best for trial advocacy training by US News & World Report."
       button-link="[https://liberalarts.temple.edu/our-alumni](https://liberalarts.temple.edu/our-alumni)"
       button-text="Learn More" %}
     </div>
