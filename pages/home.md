@@ -30,14 +30,14 @@ Law Schools do not favor any particular major, but rather, look for students wit
   </div>
   <div class="col m12 l4">{% include cards/card2-basic.html
     title="A Powerful Alumni Network"
-    content="Our network of alums in the legal field are ready and willing to mentor our current crop of CLA pre-laws. All you have to do is ask us to make the connection." 
+    content="Our network of alums in the legal field are ready and willing to mentor our current crop of CLA pre-law students. All you have to do is ask us to make the connection." 
     button-link="[https://liberalarts.temple.edu/our-alumni](https://liberalarts.temple.edu/our-alumni)"
     button-text="Learn More" %}
     </div>
     <div class="col m12 l4">{% include cards/card2-basic.html
       title="Beasley Law School"
       content="A Philadelphia institution, Beasley School of Law offers both full-time and part-time law programs. We are ranked 2nd best for trial advocacy training by US News & World Report."
-      button-link="[https://liberalarts.temple.edu/our-alumni](https://liberalarts.temple.edu/our-alumni)"
+      button-link="[https://www.law.temple.edu/](https://www.law.temple.edu/)"
       button-text="Learn More" %}
     </div>
 </div>
