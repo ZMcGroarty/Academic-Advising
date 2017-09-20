@@ -36,6 +36,5 @@ Law Schools do not favor any particular major, but rather, look for students wit
       content="Our network of alums who have graduated from law school, or who are in law school now, are ready and willing to mentor our current crop of CLA pre-laws. All you have to do is ask us to make the connection."
       button-link="[https://liberalarts.temple.edu/our-alumni](https://liberalarts.temple.edu/our-alumni)"
       button-text="Learn More" %}
-      </div>
     </div>
 </div>
