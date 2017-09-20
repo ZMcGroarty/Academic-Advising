@@ -15,12 +15,12 @@ sidebar-content: |
    [pcrowe@temple.edu](mailto:pcrowe@temple.edu)
 ---
 ## Preparing for Law School
-Successful law students come from all walks of life and undergraduate backgrounds. Just like Temple's College of Liberal Arts, law schools value the different perspectives that students bring to the classroom. The American Bar Association (ABA) does not recommend specific undergraduate majors or types of classes, but encourages you to develop sharp research, critical thinking and writing skills. Choose a major you are passionate about, whether it is English or political science, and take courses that challenge you. 
+Successful law students come from all walks of life and undergraduate backgrounds. Just like Temple’s College of Liberal Arts, law schools value the different perspectives that students bring to the classroom. The American Bar Association (ABA) does not recommend specific undergraduate majors or types of classes, but encourages you to develop sharp research, critical thinking and writing skills. Choose a major you are passionate about, whether it is English or political science, and take courses that challenge you.
 
 [Explore Our Academic Offerings at the College of Liberal Arts](https://liberalarts.temple.edu/) 
 
 ## Academic Advising and Professional Development
-Our award-winning advising staff will assist you in developing a personalized academic plan that ensures you  graduate on time. We work closely with you to take full advantage of the College of Liberal Art's flexible curriculum by complementing your academic work with study abroad programs, internships and experiential learning opportunities. Law schools desire applicants with a proven ability to work in a high-paced professional law environment; many pre-law students demonstrate this this by interning. 
+Our award-winning advising staff assist you in developing a personalized academic plan that ensures you graduate on time. We work closely with you to take full advantage of the College of Liberal Art’s flexible curriculum by complementing your academic work with study abroad programs, internships and experiential learning opportunities. Law schools desire applicants with a proven ability to work in a high-paced professional law environment; many pre-law students demonstrate this this by interning.
 
 Our students have secured  internships with
 
