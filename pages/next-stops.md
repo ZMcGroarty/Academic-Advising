@@ -4,9 +4,14 @@ permalink: /next-stops/
 layout: page
 published: true
 ---
-## Next Stops:
 
-While traditional pre-law majors include political science, economics, history, English, and philosophy, students from all our majors have been very successful in law school admissions. The following are some of the nationally and locally renowned law schools that our graduates have been admitted to in the last three years:
+## Beasley School of Law
+The Temple University James E. Beasley School of Law (also known as Temple Law School or Temple Law) is an excellent choice for pre-law students. A Philadelphia institution, Beasley School of Law offers both full-time and part-time law programs. Temple Law School offers well-regarded trial advocacy and legal writing programs; we are ranked 2nd best for trial advocacy training by _US News & World Report_. We are dedicated to making law school accessible to talented students who might encounter barriers due to race, creed, gender, disability, sexual orientation, gender identity, age or socioeconomic background. Admission is highly competitive. 
+
+[Learn More about Beasley School of Law](https://www.law.temple.edu/)
+
+## Law School Admission
+Undergraduates from the College of Liberal Arts who don't attend Temple Law continue on to top law schools that include
 
 - Yale University
 - Harvard University
@@ -17,7 +22,6 @@ While traditional pre-law majors include political science, economics, history, 
 - Georgetown University
 - Emory University
 - Tulane University
-- Temple University
 - Drexel University
 - Villanova University
 - Rutgers University
