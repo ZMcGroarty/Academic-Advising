@@ -10,10 +10,10 @@ published: true
 ## Pre-Law Student Organizations
 
 ### Temple University Pre-Law Society
-Our [Pre-Law Society](https://temple.campuslabs.com/engage/organization/prelaw_society) is open to all majors and organizes guest lectures, workshops, LSAT prep and law school information sessions. The society also organizes visits to law schools and law school fairs and LSAT practice exams. If you want to meet other pre-law students and enhance your knowledge of the legal field, the Pre-Law Society is an essential addition to your academic coursework.
+Our [Pre-Law Society](https://temple.campuslabs.com/engage/organization/prelaw_society) is open to all majors and organizes guest lectures, workshops, LSAT prep, LSAT practice exams and visits to law schools. If you want to meet other pre-law students and enhance your knowledge of the legal field, the Pre-Law Society is an essential addition to your academic coursework.
 
 ### Temple University Mock Trial Team
-Fake court, REAL smart. That's [Temple Mock Trial](https://temple.campuslabs.com/engage/organization/tumocktrial). Our members play either attorneys or witnesses and create an entire legal case out of the facts and case materials given to us by the American Mock Trial Association. We dress up in suits and take that case to tournaments across the East Coast, playing other top-notch universities including NYU, Princeton, Yale and University of Maryland. You don't need prior experience, we will train you in the ways of the majestic mock trial.
+Fake court, real smart. That's [Temple Mock Trial](https://temple.campuslabs.com/engage/organization/tumocktrial). Our members play either attorneys or witnesses and create an entire legal case out of facts and case materials given to us by the American Mock Trial Association. We dress up in suits and take that case to tournaments across the East Coast, playing other top-notch universities including NYU, Princeton, Yale and University of Maryland. No prior experience is needed, we will train you in the ways of the majestic mock trial.
 
 ### Temple University Debate Team
 The [Temple Debate Society](https://temple.campuslabs.com/engage/organization/templedebate) encourages logical analysis and quick thinking; university teams compete against one another in a contest of argument, wit and rhetoric. First made famous at Oxford University, this debate style simulates debate in the House of Parliament. Grow your knowledge of political, philosophical, economic and social issues in a rigorous but enjoyable way. 
