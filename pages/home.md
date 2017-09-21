@@ -4,17 +4,14 @@ permalink: /
 layout: home
 description: >-
   The best majors for law school are in the humanities and social sciences. All
-  programs in the College of Liberal Arts prepare students for law school. 
+  programs in the College of Liberal Arts prepare pre-law students for law school. 
 keywords: 'law school, best majors for law school, pre-law major, good score on lsat, pre-law degree'
 published: true
 feature: true
 feature-title: Your Path to Law School Begins Here
 feature-image: null
 feature-body: >-
-  Unlike other colleges where pre-law is offered as a major, our students take
-  advantage of unparalleled advising, professional development and
-  extracurricular offerings designed to help chart a path to law school that
-  works for them.
+  The College of Liberal Arts prepares students for success in law school. All of our 28 departments and programs offer a solid           education that emphasizes critical thinking, research and argumentative writing - skills imperative for 
 ---
 ## What do Pre-Law Students Major In?
 Law Schools do not favor any particular major, but rather, look for students with critical thinking, analytical reading comprehension and argumentative writing skills. All departments and programs in the College of Liberal Arts excel in teaching these skills, which are integral to getting a good score on the LSAT exam — the most crucial factor in law school admissions. You can select any of our 35 majors and enhance it with a second major or minor. The flexibility to build an impressive and eclectic undergraduate résumé in the humanities and social sciences is a huge bonus when it comes to applying to law school.
