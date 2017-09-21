@@ -20,9 +20,9 @@ Successful law students come from all walks of life and undergraduate background
 [Explore Our Academic Offerings at the College of Liberal Arts](https://liberalarts.temple.edu/) 
 
 ## Academic Advising and Professional Development
-Our award-winning advising staff assist you in developing a personalized academic plan that ensures you graduate on time. We work closely with you to take full advantage of the College of Liberal Art’s flexible curriculum by complementing your academic work with study abroad programs, internships and experiential learning opportunities. Law schools desire applicants with a proven ability to work in a high-paced professional law environment; many pre-law students demonstrate this this by interning.
+Our award-winning advising staff assists you in developing a personalized academic plan that ensures you graduate on time. We work closely with you to take full advantage of the College of Liberal Art’s flexible curriculum by complementing your academic work with study abroad programs, internships and experiential learning opportunities. Law schools desire applicants with a proven ability to work in a high-paced professional law environment; internships are the best way to demonstrate this. 
 
-Our students have secured  internships with
+Our students have secured internships with
 
 - Philadelphia District Attorney’s Office
 - Philadelphia Defenders Office
