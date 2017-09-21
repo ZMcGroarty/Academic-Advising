@@ -25,7 +25,7 @@ Law Schools do not favor any particular major, but rather, look for students wit
   </div>
   <div class="col m12 l4">{% include cards/card2-basic.html
     title="A Powerful Alumni Network"
-    content="Our network of alums in the legal field are ready and willing to mentor our current crop of CLA pre-law students. All you have to do is ask us to make the connection." 
+    content="Our network of alums in the legal field are ready and willing to mentor our current crop of CLA pre-law students. Find out     more." 
     button-link="[https://liberalarts.temple.edu/our-alumni](https://liberalarts.temple.edu/our-alumni)"
     button-text="Learn More" %}
     </div>
