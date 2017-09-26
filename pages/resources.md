@@ -6,6 +6,12 @@ keywords: 'pre-law major, temple debate team, pre-law degree, temple university 
 permalink: /resources/ 
 layout: page
 published: true
+sidebar: true
+sidebar-content: |
+  **Pre-Law Director:**  
+   Paul Crowe     
+   [(215) 204-8591](tel:2152048591)  
+   [pcrowe@temple.edu](mailto:pcrowe@temple.edu)
 ---
 ## Pre-Law Student Organizations
 
