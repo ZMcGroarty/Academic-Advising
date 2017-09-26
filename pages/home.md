@@ -9,7 +9,7 @@ keywords: 'law school, best majors for law school, pre-law major, good score on 
 published: true
 feature: true
 feature-title: Your Path to Law School Begins Here
-feature-image: null
+feature-image: hero_prelaw.bg.png
 feature-body: >-
   The College of Liberal Arts prepares students for success in law school. All of our 28 departments and programs offer a solid           education that emphasizes the skills needed for scoring well on the LSAT.
 ---
