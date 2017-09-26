@@ -13,6 +13,7 @@ feature-image: hero_prelaw.bg.png
 feature-body: >- 
   The College of Liberal Arts prepares students for success in law school. All of our 28 departments and programs offer a solid           education that emphasizes the skills needed for scoring well on the LSAT.
 ---
+
 ## What do Pre-Law Students Major In?
 Law Schools do not favor any particular major, but rather, look for students with critical thinking, analytical reading comprehension and argumentative writing skills. All departments and programs in the College of Liberal Arts excel in teaching these competencies, which are integral to getting a good score on the LSAT exam — the most crucial factor in law school admissions. Select any of our 35 majors and enhance it with legal internships, study abroad programs and extracurriculars for an undergraduate résumé that stands out to the best law schools. 
 
