@@ -20,7 +20,7 @@ Successful law students come from all walks of life and undergraduate background
 [Explore Our Academic Offerings at the College of Liberal Arts](https://liberalarts.temple.edu/) 
 
 ## Academic Advising and Professional Development
-Our award-winning advising staff assists you in developing a personalized academic plan that ensures you graduate on time. We work closely with you to take full advantage of the College of Liberal Art’s flexible curriculum by complementing your academic work with study abroad programs, internships and experiential learning opportunities. Law schools desire applicants with a proven ability to work in a high-paced professional law environment; internships are the best way to demonstrate this. 
+Take full advantage of the College of Liberal Arts’ flexible curriculum with the help of our award-winning advisors. We will help you develop a personalized academic plan that lets you graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing academic work with study abroad programs, internships and other experiential learning opportunities. Law schools desire applicants with a proven ability to work in a high-paced professional law environment; internships are the best way to demonstrate this. 
 
 Our students have secured internships with
 
@@ -43,7 +43,7 @@ If you need help paying for college, you aren’t alone. Most college students r
 [Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
 ## Fly in Four
-Take charge of your future and limit your debt. The Fly in 4 partnership allows you to complete your degree on time — or Temple will pay for your remaining course work. Graduating on time means your path to success starts sooner. For our part, we provide you with the resources you need to graduate in four years, like academic advising and classes offered when you need them. You commit to doing what it takes to blaze your career path in four years.
+Take charge of your future and limit your debt. The Fly in 4 partnership allows you to complete your degree on time — or Temple will pay for your remaining course work. Graduating on time means your path to success starts sooner. We provide you with the resources you need to graduate in four years, like academic advising and classes offered when you need them. You commit to doing what it takes to blaze your career path in four years.
 
 [Learn How to Fly in Four](http://fly.temple.edu/)
 
