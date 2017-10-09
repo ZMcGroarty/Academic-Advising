@@ -2,8 +2,11 @@
 title: Next Stops
 permalink: /next-stops/
 description: >-
-  Pre-law students at Temple contine on to the best law schools in the US. They include Temple Law, NYU, Yale, Harvard and Northwestern   University.       
-keywords: 'getting into law school, Beasley School of Law, law school admissions, good score on LSAT, pre-law degree, College of Liberal Arts, Ivy League law schools'
+  Pre-law students at Temple contine on to the best law schools in the US. They
+  include Temple Law, NYU, Yale, Harvard and Northwestern   University.       
+keywords: >-
+  getting into law school, Beasley School of Law, law school admissions, good
+  score on LSAT, pre-law degree, College of Liberal Arts, Ivy League law schools
 layout: page
 published: true
 ---
@@ -22,8 +25,6 @@ Undergraduates from the College of Liberal Arts who don't attend our top-ranked 
 - University of Chicago
 - Northwestern University
 - Georgetown University
-- Emory University
-- Tulane University
 - Drexel University
 - Villanova University
 - Rutgers University
@@ -41,7 +42,7 @@ Temple students can study abroad in almost any country through our programs, exc
 ## Visit Us!
 To know what Temple is really about, you have to experience it firsthand. Our Main Campus in Philadelphia is an energetic community of students, faculty and local culture. And the opportunities don’t stop there. For Temple students, Philadelphia is a place to learn and branch out. Undergraduate Admissions offers tours daily. If you would like to experience the College of Liberal Arts in person, get in touch with us.
 
-[Learn More](http://admissions.temple.edu/visit)
+[Arrange a Visit Today](http://admissions.temple.edu/visit)
 
 ## Thinking Of Transferring?
 Almost half of incoming Temple students transfer from other colleges and universities. If you’ve taken 15 or more college-level credits after high school graduation, you can apply for admission as a transfer student.  If you're thinking about transferring, consider attending a [Transfer Tuesday](http://admissions.temple.edu/visit/transfer-tuesday) general information session.
@@ -49,11 +50,10 @@ Almost half of incoming Temple students transfer from other colleges and univers
 [Learn More about Transferring to Temple](http://admissions.temple.edu/apply/transfer-applicant)
 
 ## Apply
-When you are ready to apply, [submit your application online](http://admissions.temple.edu/apply).
+Ready to apply? [submit your application online](http://admissions.temple.edu/apply).
 
 ## Deadlines
 - **February 1**: Freshman Application Deadline for Fall Semester
 - **March 1**: FAFSA Financial Aid Application Deadline
 - **November 1**: Transfer Deadline for Spring Semester
 - **June 1**: Transfer Deadline for Fall Semester
-
