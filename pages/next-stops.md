@@ -32,7 +32,7 @@ Undergraduates from the College of Liberal Arts who don't attend our top-ranked 
 ## Make Your Declaration
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests, from the humanities and social sciences to business and the media arts. The College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are civic-minded, globally conscious creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer a solid liberal arts education at a premier urban, research university.
 
-[View Our Complete List of Academic Offerings](http://www.liberalarts.temple.edu)
+[Explore the Complete List of Academic Offerings at CLA](http://www.liberalarts.temple.edu)
 
 ## Study Abroad Programs
 Temple students can study abroad in almost any country through our programs, exchanges and partnerships with organizations around the world. The benefits of studying abroad are immense; the decision to study abroad will change your life more than any other part of your college experience. This is your opportunity to live, study and intern in another country for college credit. Where will Temple take you? 
@@ -50,7 +50,7 @@ Almost half of incoming Temple students transfer from other colleges and univers
 [Learn More about Transferring to Temple](http://admissions.temple.edu/apply/transfer-applicant)
 
 ## Apply
-Ready to apply? [submit your application online](http://admissions.temple.edu/apply).
+Ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
 
 ## Deadlines
 - **February 1**: Freshman Application Deadline for Fall Semester
