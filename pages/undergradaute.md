@@ -4,7 +4,9 @@ permalink: /undergraduate/
 description: >-
   The best majors for law school are in the humanities and social sciences. All
   programs in the College of Liberal Arts prepare students for law school. 
-keywords: 'law school, best majors for law school, pre-law major, good score on lsat, pre-law degree' 
+keywords: >-
+  law school, best majors for law school, pre-law major, good score on lsat,
+  pre-law degree
 layout: page
 published: true
 sidebar: true
@@ -15,9 +17,9 @@ sidebar-content: |
    [pcrowe@temple.edu](mailto:pcrowe@temple.edu)
 ---
 ## Preparing for Law School
-Successful law students come from all walks of life and undergraduate backgrounds. Just like Temple’s College of Liberal Arts, law schools value the different perspectives that students bring to the classroom. The American Bar Association (ABA) does not recommend specific undergraduate majors or types of classes, but encourages you to develop sharp research, critical thinking and writing skills. Choose a major you are passionate about, whether it is English or political science, and take courses that challenge you.
+Successful law students come from all walks of life and undergraduate backgrounds. Just like Temple’s College of Liberal Arts, law schools value the different perspectives that students bring to the classroom. The American Bar Association (ABA) does not recommend specific undergraduate majors or types of classes, but encourages you to develop sharp research, critical thinking and writing skills. Choose a major you are passionate about, whether it is philosophy or political science and take courses that challenge you.
 
-[Explore Our Academic Offerings at the College of Liberal Arts](https://liberalarts.temple.edu/) 
+[Explore the Complete List of Academic Offerings at CLA](https://liberalarts.temple.edu/) 
 
 ## Academic Advising and Professional Development
 Take full advantage of the College of Liberal Arts’ flexible curriculum with the help of our award-winning advisors. We will help you develop a personalized academic plan that lets you graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing academic work with study abroad programs, internships and other experiential learning opportunities. Law schools desire applicants with a proven ability to work in a high-paced professional law environment; internships are the best way to demonstrate this. 
@@ -25,20 +27,18 @@ Take full advantage of the College of Liberal Arts’ flexible curriculum with t
 Our students have secured internships with
 
 - Philadelphia District Attorney’s Office
-- Philadelphia Defenders Office
 - Temple Law’s Innocence Project
 - The ACLU
 - The Women’s Law Project
 - The US Attorney’s Office
 - The Office of the Attorney General of Pennsylvania
 - The Criminal Justice Department’s renowned Inside-Out program
-- The Political Science Department’s Capital Semester program in Harrisburg and Washington, D.C.
 - Countless Philadelphia law firms, both large and small
 
-[Learn More](https://liberalarts.temple.edu/advising)
+[Learn More about Temple's Award-Winning Advisors](https://liberalarts.temple.edu/advising)
 
 ## Financial Aid and Scholarships
-If you need help paying for college, you aren’t alone. Most college students receive some form of financial aid to fund their education. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University uses to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. Learn more about getting financial aid at the Student Financial Services. 
+At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, sate, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience.
 
 [Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
@@ -53,5 +53,4 @@ For more than 125 years, we have focused on providing a world-class education at
 [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
 
 ## Apply to Temple
-Are you ready to apply? [Submit your application online.](http://admissions.temple.edu/apply)
-
+Ready to apply? [Submit your application online.](http://admissions.temple.edu/apply)
