@@ -38,7 +38,7 @@ Law Schools do not favor any particular major, but rather, look for students wit
     <div class="col m12 l4">{% include cards/card2-basic.html
       title="Beasley Law School"
       content="A Philadelphia institution, Beasley School of Law offers both full-time and part-time law programs. We are ranked 2nd best for trial advocacy training by US News & World Report."
-      button-link="[https://www.law.temple.edu/](https://www.law.temple.edu/)"
+      button-link="https://www.law.temple.edu/"
       button-text="Learn More" %}
     </div>
 </div>
