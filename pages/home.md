@@ -31,7 +31,7 @@ Law Schools do not favor any particular major, but rather, look for students wit
   </div>
   <div class="col m12 l4">{% include cards/card2-basic.html
     title="Temple Debate Society"
-    content="The Temple Debate Society competes on the most popular circuit in the United States, the American Parliamentary Debate Association, (APDA) but we encourage competitive and non-competitive public discourse."
+    content="The Temple Debate Society competes on the most popular circuit in the United State but we encourage competitive and non-competitive public discourse."
     button-link="https://temple.campuslabs.com/engage/organization/templedebate"
     button-text="Learn More" %}
     </div>
