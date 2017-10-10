@@ -26,7 +26,7 @@ Law Schools do not favor any particular major, but rather, look for students wit
   <div class="col m12 l4">{% include cards/card2-basic.html
     title="Pre-Law Advising"
     content="If you want to get into law school, you'll need advising and mentoring. We're dedicated to supporting your academic and personal success to present your acheivements in the best light to top schools"
-    button-link="[https://liberalarts.temple.edu/advising/academic-advising](https://liberalarts.temple.edu/advising/academic-advising)"
+    button-link="https://liberalarts.temple.edu/advising/academic-advising"
     button-text="Learn More" %}
   </div>
   <div class="col m12 l4">{% include cards/card2-basic.html
