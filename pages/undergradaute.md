@@ -19,8 +19,25 @@ Successful law students come from all walks of life and undergraduate background
 
 [Explore the Complete List of Academic Offerings at CLA](https://liberalarts.temple.edu/)
 
-## Academic Advising and Professional Development
-Take full advantage of the College of Liberal Arts’ flexible curriculum with the help of our award-winning advisors. We will help you develop a personalized academic plan that lets you graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing academic work with study abroad programs, internships and other experiential learning opportunities. Law schools desire applicants with a proven ability to work in a high-paced professional law environment; internships are the best way to demonstrate this.
+## Internships & Professional Development
+Law schools desire applicants who have the proven ability to work in the high-paced professional environment of law and understand the realities of legal practice.
+The College of Liberal Arts Center for Advising and Professional Development, as well as individual departments, organize internships for pre-law students. Recently, our students have secured coveted internships with
+
+–– Philadelphia District Attorney’s Office
+–– Philadelphia Defenders Office
+–– Temple Law’s Innocence Project
+–– The ACLU
+–– The Women’s Law Project
+–– The US Attorney’s Office
+–– The Office of the Attorney General of Pennsylvania
+–– The Criminal Justice Department’s renowned Inside-Out program
+–– The Political Science Department’s Capital Semester program in
+Harrisburg and Washington, D.C.
+–– Countless Philadelphia law firms, both large and small
+
+## Pre-Law Advising
+A very important part of success in law school admissions is exceptional advising and mentoring. While there are many paths to prepare for law school, you need good advisors
+and mentors to help you build your own personal academic and experiential path, and to know how to present your achievements to law schools in the best light. To find out more about pre-law in the [College of Liberal Arts](https://liberalarts.temple.edu/), you can contact [CLA academic advising](https://liberalarts.temple.edu/advising) or the Director of Pre-Law in the College of Liberal Arts, [Professor Paul Crowe] (mailto:pcrowe@temple.edu).
 
 Our students have secured law internships with
 
@@ -34,6 +51,9 @@ Our students have secured law internships with
 - Countless Philadelphia law firms, both large and small
 
 [Learn More about Temple's Award-Winning Advisors](https://liberalarts.temple.edu/advising)
+
+## A Powerful Alumni Network
+Our network of alums who have graduated from law school, or who are in law school now, are ready and willing to mentor our current crop of CLA pre-laws. All you have to do is ask us to make the connection.
 
 ## Financial Aid and Scholarships
 At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, sate, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience.

@@ -9,7 +9,7 @@ layout: page
 published: true
 ---
 ## Beasley School of Law
-The James E. Beasley School of Law (also known as Temple Law School or Temple Law) offers both full-time and part-time law programs in Philadelphia, the birthplace of American democracy. Ranked 2nd best for trial advocacy training by _US News & World Report_ , Temple Law School also offers well-regarded public interest law and legal writing programs. Dedicated to making law school accessible to all talented students, our longstanding tradition of accessibility and diversity increases excellence in higher education and equal justice under the law. Admission is highly competitive.
+The James E. Beasley School of Law (also known as Temple Law School or Temple Law) offers both full-time and part-time law programs in Philadelphia, the birthplace of American democracy. Ranked 2nd best for trial advocacy training by _US News & World Report_ , Temple Law School also offers well-regarded public interest law and legal writing programs. Dedicated to making law school accessible to all talented students, our longstanding tradition of accessibility and diversity increases excellence in higher education and equal justice under the law. Admission is highly competitive. 
 
 [Learn More about the Beasley School of Law](https://www.law.temple.edu/)
 
