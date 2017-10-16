@@ -2,11 +2,9 @@
 title: Next Stops
 permalink: /next-stops/
 description: >-
-  Pre-law students at Temple contine on to the best law schools in the US. They
-  include Temple Law, NYU, Yale, Harvard and Northwestern   University.       
+  Pre-law students at Temple contine on to the best law schools in the US. They include Temple Law, NYU, Yale, Harvard and Northwestern University.       
 keywords: >-
-  getting into law school, Beasley School of Law, law school admissions, good
-  score on LSAT, pre-law degree, College of Liberal Arts, Ivy League law schools
+  Beasley School of Law, law school admissions, good score on LSAT, pre-law degree, Ivy League law schools
 layout: page
 published: true
 ---
@@ -16,7 +14,7 @@ The James E. Beasley School of Law (also known as Temple Law School or Temple La
 [Learn More about the Beasley School of Law](https://www.law.temple.edu/)
 
 ## Top Law Schools
-Undergraduates from the College of Liberal Arts who don't attend our top-ranked Temple Law School continue on Ivy League law schools and other excellent law programs including 
+Undergraduates from the College of Liberal Arts who don't attend our top-ranked Temple Law School continue on Ivy League law schools and other excellent law programs including
 
 - Yale University
 - Harvard University
@@ -35,7 +33,7 @@ The College of Liberal Arts has the largest selection of academic offerings at T
 [Explore the Complete List of Academic Offerings at CLA](http://www.liberalarts.temple.edu)
 
 ## Study Abroad Programs
-Temple students can study abroad in almost any country through our programs, exchanges and partnerships with organizations around the world. The benefits of studying abroad are immense; the decision to study abroad will change your life more than any other part of your college experience. This is your opportunity to live, study and intern in another country for college credit. Where will Temple take you? 
+Temple students can study abroad in almost any country through our programs, exchanges and partnerships with organizations around the world. The benefits of studying abroad are immense; the decision to study abroad will change your life more than any other part of your college experience. This is your opportunity to live, study and intern in another country for college credit. Where will Temple take you?
 
 [Learn More about Studying Abroad](https://studyabroad.temple.edu/)
 
