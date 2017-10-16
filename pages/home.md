@@ -3,24 +3,21 @@ title: Home
 permalink: /
 layout: home
 description: >-
-  The best majors for law school are in the humanities and social sciences. All
-  programs in the College of Liberal Arts prepare pre-law students for law
-  school. 
+  The best majors for law school are in the humanities and social sciences. All programs in the College of Liberal Arts prepare pre-law students for law school.
 keywords: >-
-  law school, best majors for law school, pre-law major, good score on lsat,
-  pre-law degree
+  law school, best majors for law school, pre-law major, good score on LSAT, pre-law degree
 published: true
 feature: true
 feature-title: Your Path to Law School Begins Here
 feature-image: hero_prelaw.bg.png
 feature-body: >-
-  The College of Liberal Arts prepares students for success in law school. All
-  of our 28 departments and programs offer a solid           education that
-  emphasizes the skills needed for scoring well on the LSAT.
+  In the last three years our graduates have been admitted to top law schools including Yale University, Harvard University, New York University, UPenn, University of Chicago and Northwestern University. 
 ---
-
 ## What do Pre-Law Students Major In?
-Law Schools do not favor any particular major, but rather, look for students with critical thinking, analytical reading comprehension and argumentative writing skills. All departments and programs in the [College of Liberal Arts](https://liberalarts.temple.edu/) excel in teaching these competencies, which are integral to getting a good score on the LSAT exam — the most crucial factor in law school admissions. Select any of our 35 majors and enhance it with legal internships, study abroad programs and extracurriculars for an undergraduate résumé that stands out to the best law schools. 
+Law Schools do not favor any particular major, but rather, look for students with critical thinking, analytical reading comprehension and argumentative writing skills. All departments and programs in the [College of Liberal Arts](https://liberalarts.temple.edu/) excel in teaching these competencies, which are integral to getting a good score on the LSAT exam — the most crucial factor in law school admissions. Select any of our 35 majors and enhance it with legal internships, study abroad programs and extracurriculars for an undergraduate résumé that stands out to the best law schools. While traditional pre-law majors include political science, economics, history, English, and philosophy, students from all our majors have been very successful in law school admissions.
+
+## Apply to Temple
+Ready to Apply? [Submit your application online](http://admissions.temple.edu/apply).
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-basic.html
