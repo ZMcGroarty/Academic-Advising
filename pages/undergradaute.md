@@ -2,9 +2,11 @@
 title: Undergraduate
 permalink: /undergraduate/
 description: >-
-  The best majors for law school are in the humanities and social sciences. All programs in the College of Liberal Arts prepare students for law school.
+  The best majors for law school are in the humanities and social sciences. All
+  programs in the College of Liberal Arts prepare students for law school.
 keywords: >-
-  law school, best majors for law school, pre-law major, good score on LSAT, pre-law degree
+  law school, best majors for law school, pre-law major, good score on LSAT,
+  pre-law degree
 layout: page
 published: true
 sidebar: true
@@ -23,17 +25,17 @@ Successful law students come from all walks of life and undergraduate background
 Law schools desire applicants who have the proven ability to work in the high-paced professional environment of law and understand the realities of legal practice.
 The College of Liberal Arts Center for Advising and Professional Development, as well as individual departments, organize internships for pre-law students. Recently, our students have secured coveted internships with
 
-–– Philadelphia District Attorney’s Office
-–– Philadelphia Defenders Office
-–– Temple Law’s Innocence Project
-–– The ACLU
-–– The Women’s Law Project
-–– The US Attorney’s Office
-–– The Office of the Attorney General of Pennsylvania
-–– The Criminal Justice Department’s renowned Inside-Out program
-–– The Political Science Department’s Capital Semester program in
-Harrisburg and Washington, D.C.
-–– Countless Philadelphia law firms, both large and small
+- Philadelphia District Attorney’s Office
+-  Philadelphia Defenders Office
+-  Temple Law’s Innocence Project
+-  The ACLU
+-  The Women’s Law Project
+-  The US Attorney’s Office
+-  The Office of the Attorney General of Pennsylvania
+-  The Criminal Justice Department’s renowned Inside-Out program
+-  The Political Science Department’s Capital Semester program in
+-  Harrisburg and Washington, D.C.
+-  Countless Philadelphia law firms, both large and small
 
 ## Pre-Law Advising
 A very important part of success in law school admissions is exceptional advising and mentoring. While there are many paths to prepare for law school, you need good advisors
