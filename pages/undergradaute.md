@@ -2,11 +2,9 @@
 title: Undergraduate
 permalink: /undergraduate/
 description: >-
-  The best majors for law school are in the humanities and social sciences. All
-  programs in the College of Liberal Arts prepare students for law school. 
+  The best majors for law school are in the humanities and social sciences. All programs in the College of Liberal Arts prepare students for law school.
 keywords: >-
-  law school, best majors for law school, pre-law major, good score on lsat,
-  pre-law degree
+  law school, best majors for law school, pre-law major, good score on LSAT, pre-law degree
 layout: page
 published: true
 sidebar: true
@@ -19,12 +17,12 @@ sidebar-content: |
 ## Preparing for Law School
 Successful law students come from all walks of life and undergraduate backgrounds. Just like Temple’s College of Liberal Arts, law schools value the different perspectives that students bring to the classroom. The American Bar Association (ABA) does not recommend specific undergraduate majors or types of classes, but encourages you to develop sharp research, critical thinking and writing skills. Choose a major you are passionate about, whether it is philosophy or political science and take courses that challenge you.
 
-[Explore the Complete List of Academic Offerings at CLA](https://liberalarts.temple.edu/) 
+[Explore the Complete List of Academic Offerings at CLA](https://liberalarts.temple.edu/)
 
 ## Academic Advising and Professional Development
-Take full advantage of the College of Liberal Arts’ flexible curriculum with the help of our award-winning advisors. We will help you develop a personalized academic plan that lets you graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing academic work with study abroad programs, internships and other experiential learning opportunities. Law schools desire applicants with a proven ability to work in a high-paced professional law environment; internships are the best way to demonstrate this. 
+Take full advantage of the College of Liberal Arts’ flexible curriculum with the help of our award-winning advisors. We will help you develop a personalized academic plan that lets you graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing academic work with study abroad programs, internships and other experiential learning opportunities. Law schools desire applicants with a proven ability to work in a high-paced professional law environment; internships are the best way to demonstrate this.
 
-Our students have secured internships with
+Our students have secured law internships with
 
 - Philadelphia District Attorney’s Office
 - Temple Law’s Innocence Project
