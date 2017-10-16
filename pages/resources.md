@@ -1,11 +1,9 @@
 ---
 title: Resources
 description: >-
-  Pre-law student organizations at Temple University prepare undergraduates for
-  law school admissions at top-ranked schools. 
+  Pre-law student organizations at Temple University prepare undergraduates for law school admissions at top-ranked schools.
 keywords: >-
-  pre-law major, temple debate team, pre-law degree, temple university pre-law
-  society, mock trial team, American Parliamentary Debate Association
+  temple debate team, pre-law degree, temple university pre-law society, mock trial team
 permalink: /resources/
 layout: page
 published: true
@@ -25,7 +23,7 @@ Our [Pre-Law Society](https://temple.campuslabs.com/engage/organization/prelaw_s
 Fake court, real smart. That's [Temple Mock Trial](https://temple.campuslabs.com/engage/organization/tumocktrial). Our members play either attorneys or witnesses and create an entire legal case out of facts and case materials given to us by the American Mock Trial Association. We dress up in suits and take that case to tournaments across the East Coast, playing other top-notch universities including NYU, Princeton, Yale and University of Maryland. No prior experience is needed, we train you in the ways of the majestic mock trial.
 
 ## Temple University Debate Team
-The [Temple Debate Society](https://temple.campuslabs.com/engage/organization/templedebate) encourages logical analysis and quick thinking; university teams compete against one another in a contest of argument, wit and rhetoric. First made famous at Oxford University, this debate style simulates debate in the House of Parliament. Grow your knowledge of political, philosophical, economic and social issues in a rigorous but enjoyable way. 
+The [Temple Debate Society](https://temple.campuslabs.com/engage/organization/templedebate) encourages logical analysis and quick thinking; university teams compete against one another in a contest of argument, wit and rhetoric. First made famous at Oxford University, this debate style simulates debate in the House of Parliament. Grow your knowledge of political, philosophical, economic and social issues in a rigorous but enjoyable way.
 
 ## Temple University Black Law Students Association
 The [Black Law Student Association - Pre-Law Division](https://www.law.temple.edu/academics/intellectual-life/student-organizations/) (BLSA) focuses on increasing minority membership in the legal profession, enhancing the quality and perspective of the minority Bar, and establishing relationships with surrounding community organizations.
