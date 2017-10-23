@@ -2,33 +2,35 @@
 title: Next Stops
 permalink: /next-stops/
 description: >-
-  Pre-law students at Temple contine on to the best law schools in the US. They include Temple Law, NYU, Yale, Harvard and Northwestern University.       
+  Pre-law students at Temple contine on to the best law schools in the US. They
+  include Temple Law, NYU, Yale, Harvard and Northwestern University.       
 keywords: >-
-  Beasley School of Law, law school admissions, good score on LSAT, pre-law degree, Ivy League law schools
+  Beasley School of Law, law school admissions, good score on LSAT, pre-law
+  degree, Ivy League law schools
 layout: page
 published: true
 ---
 ## Beasley School of Law
-The James E. Beasley School of Law (also known as Temple Law School or Temple Law) offers both full-time and part-time law programs in Philadelphia, the birthplace of American democracy. Ranked 2nd best for trial advocacy training by _US News & World Report_ , Temple Law School also offers well-regarded public interest law and legal writing programs. Dedicated to making law school accessible to all talented students, our longstanding tradition of accessibility and diversity increases excellence in higher education and equal justice under the law. Admission is highly competitive. 
+The James E. Beasley School of Law (also known as Temple Law School or Temple Law) offers both full-time and part-time law programs in Philadelphia, the birthplace of American democracy. Ranked 2nd best for trial advocacy training by _US News & World Report_ , Temple's Law School also offers well-regarded public interest law and legal writing programs. Dedicated to making law school accessible to all talented students, our longstanding tradition of accessibility and diversity increases excellence in higher education and equal justice under the law. Admission is highly competitive. 
 
 [Learn More about the Beasley School of Law](https://www.law.temple.edu/)
 
 ## Top Law Schools
-Undergraduates from the College of Liberal Arts who don't attend our top-ranked Temple Law School continue on Ivy League law schools and other excellent law programs including
+Undergraduates from the College of Liberal Arts who don't attend our top-ranked Temple Law School continue on Ivy League law schools and other excellent law programs that include
 
-- Yale University
+- Drexel University
+- Georgetown University
 - Harvard University
 - New York University
+- Northwestern University
+- Rutgers University
 - University of Pennsylvania
 - University of Chicago
-- Northwestern University
-- Georgetown University
-- Drexel University
 - Villanova University
-- Rutgers University
+- Yale University
 
 ## Make Your Declaration
-The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests, from the humanities and social sciences to business and the media arts. The College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are civic-minded, globally conscious creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer a solid liberal arts education at a premier urban, research university.
+The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests, from the humanities and social sciences to business and the media arts. The College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer a solid liberal arts education at a premier urban, research university.
 
 [Explore the Complete List of Academic Offerings at CLA](http://www.liberalarts.temple.edu)
 
