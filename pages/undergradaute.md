@@ -37,7 +37,7 @@ Law schools desire applicants who have the proven ability to work in the high-pa
 -  The Women’s Law Project
 
 ## Pre-Law Advising
-A very important part of success in law school admissions is exceptional advising and mentoring. While there are many paths to prepare for law school, you need good advisors and mentors to help you build your own personal academic and experiential path, and to know how to present your achievements to law schools in the best light. To find out more about Pre-Law in the [College of Liberal Arts](https://liberalarts.temple.edu/), you can contact [CLA academic advising](https://liberalarts.temple.edu/advising) or the Director of Pre-Law in the College of Liberal Arts, [Professor Paul Crowe] (mailto:pcrowe@temple.edu).
+A very important part of success in law school admissions is exceptional advising and mentoring. While there are many paths to prepare for law school, you need good advisors and mentors to help you build your own personal academic and experiential path, and to know how to present your achievements to law schools in the best light. To find out more about Pre-Law in the [College of Liberal Arts](https://liberalarts.temple.edu/), you can contact [CLA academic advising](https://liberalarts.temple.edu/advising) or the Director of Pre-Law in the College of Liberal Arts, [Professor Paul Crowe](mailto:pcrowe@temple.edu).
 
 [Learn More about Temple's Award-Winning Advisors](https://liberalarts.temple.edu/advising)
 
