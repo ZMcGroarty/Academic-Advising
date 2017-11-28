@@ -32,9 +32,9 @@ Ready to Apply? [Submit your application online](http://admissions.temple.edu/ap
     button-text="Learn More" %}
   </div>
   <div class="col m12 l4">{% include cards/card2-basic.html
-    title="Temple Debate Society"
-    content="The Temple Debate Society competes on the most popular circuit in the United State but we encourage competitive and non-competitive public discourse."
-    button-link="https://temple.campuslabs.com/engage/organization/templedebate"
+    title="Philosophy with a Pre-Law Emphasis"
+    content="If you plan on going to law school, our department offers a BA in Philosophy with a Pre-Law Emphasis. Philosophy majors have higher rates of admission to law school than other majors and also earn some of the [best LSAT scores]."
+    button-link="http://bulletin.temple.edu/undergraduate/liberal-arts/philosophy/ba-philosophy/#academicplanstext"
     button-text="Learn More" %}
     </div>
     <div class="col m12 l4">{% include cards/card2-basic.html
