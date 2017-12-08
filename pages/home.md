@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: /
-layout: home
+layout: home3
 description: >-
   The best majors for law school are in the humanities and social sciences. All
   programs in the College of Liberal Arts prepare pre-law students for law
