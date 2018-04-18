@@ -5,7 +5,8 @@ title: Pre-Law
 baseurl: /pre-law
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
-
+# url spits sitemap
+url: https://www.cla.temple.edu/pre-law
 
 # Program Information
 # Short tagline for tweets (<100 characters)
@@ -58,7 +59,7 @@ college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
 program_news: https://liberalarts.temple.edu/news/pre-law
-program_events: https://events.temple.edu/department/pre-law 
+program_events: https://events.temple.edu/department/pre-law
 
 
 # Google Tag Manager OR Google Analytics
