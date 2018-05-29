@@ -1,7 +1,10 @@
 ---
-title: Home
+# global predefined variables
+layout: tla_home
 permalink: /
-layout: home3
+published: true
+# meta-data variables
+title: Home
 description: >-
   The best majors for law school are in the humanities and social sciences. All
   programs in the College of Liberal Arts prepare pre-law students for law
@@ -9,7 +12,7 @@ description: >-
 keywords: >-
   law school, best majors for law school, pre-law major, good score on LSAT,
   pre-law degree
-published: true
+# custom variables
 feature: true
 feature-title: Your Path to Law School Begins Here
 feature-image: hero_prelaw.bg.png
