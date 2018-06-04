@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Resources
 description: >-
-  Pre-law student organizations at Temple University prepare undergraduates for
-  law school admissions at top-ranked schools.
+   Pre-Law at Temple University offers students a Pre-Law Society, Mock Trial, Debate Society,
+   Black Law Students Association, and more undergraduate resources through the College of Liberal Arts.
 keywords: >-
   temple debate team, pre-law degree, temple university pre-law society, mock
   trial team
