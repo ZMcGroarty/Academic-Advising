@@ -6,8 +6,9 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
-  Pre-law students at Temple contine on to the best law schools in the US. They
-  include Temple Law, NYU, Yale, Harvard and Northwestern University.       
+  See what Temple University’s Beasley School of Law has to offer, or explore other top law schools.
+  Make your declaration, find out about study abroad, visit us, know your transfer options and deadlines, 
+  and apply! See where Temple University’s College of Liberal Arts can take you.       
 keywords: >-
   Beasley School of Law, law school admissions, good score on LSAT, pre-law
   degree, Ivy League law schools
