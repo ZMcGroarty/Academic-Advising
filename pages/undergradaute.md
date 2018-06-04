@@ -6,8 +6,7 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
-  The best majors for law school are in the humanities and social sciences. All
-  programs in the College of Liberal Arts prepare students for law school.
+   Choose a major, intern, and make use of Temple University’s resources for Pre-Law students such as Pre-Law advising, professional development, and a powerful alumni network. Learn more about financial aid and scholarships, fly in four, and tuition and fees at the College of Liberal Arts.
 keywords: >-
   law school, best majors for law school, pre-law major, good score on LSAT,
   pre-law degree
