@@ -1,6 +1,8 @@
-- text: Undergraduate
-  url: /undergraduate/
-- text: Resources
-  url : /resources/
-- text: Next Stops
-  url : /next-stops/
+- text: Policies and Procedures
+  url: /policies-and-procedures/
+- text: New Student FAQ
+  url : /new-student-faq/
+- text: Graduation
+  url : /graduation/
+- text: Staff
+  url: /staff/
