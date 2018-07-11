@@ -35,19 +35,19 @@ Before your academic advising appointment, please check your DARS to review comp
   <div class="col m12 l4">{% include cards/card2-basic.html
     title="FAQ"
     content="New to the College of Liberal Arts and have questions? Visit or New Student FAQ page!"
-    button-link="/advising#new-student-faq/"
+    button-link="/academic-advising#new-student-faq/"
     button-text="Learn More" %}
   </div>
   <div class="col m12 l4">{% include cards/card2-basic.html
     title="Policies and Procedures"
     content="NEED CONTENT"
-    button-link="/advising#policies-and-procedures/"
+    button-link="/academic-advising#policies-and-procedures/"
     button-text="Learn More" %}
     </div>
     <div class="col m12 l4">{% include cards/card2-basic.html
       title="Ready for Graduation?"
       content="Visit our graduation page to get all of the details you need to ensure you are on track for graduation."
-      button-link="/advising#graduation/"
+      button-link="/academic-advising#graduation/"
       button-text="Learn More" %}
     </div>
 </div>
