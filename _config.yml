@@ -2,7 +2,7 @@
 # Program/Department Title
 title: Academic Advising
 # Subdirectory (with / at only at beginning)
-baseurl: /advising
+baseurl: /academic-advising
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
 # url spits sitemap

@@ -1,8 +1,8 @@
-# Pre-Law
+# Academic Advising
 
 [![Build Status][travis-img]][travis]
 
-Pre-Law is statically generated with [Jekyll](https://jekyllrb.com) and hosted by [The College of Liberal Arts](https://liberalarts.temple.edu) at [Temple University](https://temple.edu).
+Acadmic-Advising is statically generated with [Jekyll](https://jekyllrb.com) and hosted by [The College of Liberal Arts](https://liberalarts.temple.edu) at [Temple University](https://temple.edu).
 
 | Links |  |
 | --- | --- |
@@ -26,10 +26,10 @@ If you discover typographic errors, bugs, or have problems navigating this site 
 [Pull requests][pr] are also welcome if you would like to contribute or edit page content. [Prose.io][prose] is a quick and convenient way to edit content in [Markdown][md].
 
 
-[travis]: https://travis-ci.org/TULiberalArts/Pre-Law
-[travis-img]: https://travis-ci.org/TULiberalArts/Pre-Law.svg?branch=master
+[travis]: https://travis-ci.org/TULiberalArts/Academic-Advising
+[travis-img]: https://travis-ci.org/TULiberalArts/Academic-Advising.svg?branch=master
 [jekyll]: https://https://jekyllrb.com
-[issue]: https://github.com/TULiberalArts/Pre-Law/issues
+[issue]: https://github.com/TULiberalArts/Academic-Advising/issues
 [pr]: https://help.github.com/articles/about-pull-requests/
-[prose]: https://prose.io/#TULiberalArts/Pre-Law
+[prose]: https://prose.io/#TULiberalArts/Academic-Advising
 [md]: http://whatismarkdown.com/
