@@ -12,9 +12,12 @@ install:
 - bundle install
 script:
 - 'wget -O ./_data/news.csv $(bundle exec yaml get news-feed -F=_config.yml) || :'
-- 'wget -O ./_data/events.csv $(bundle exec yaml get events-feed -F=_config.yml) || :'
-- 'wget -O ./_data/profiles.csv $(bundle exec yaml get faculty-feed -F=_config.yml) || :'
-- 'wget -O ./_data/media-mentions.csv $(bundle exec yaml get media-mentions-feed -F=_config.yml) || :'
+- 'wget -O ./_data/events.csv $(bundle exec yaml get events-feed -F=_config.yml) ||
+  :'
+- 'wget -O ./_data/profiles.csv $(bundle exec yaml get faculty-feed -F=_config.yml)
+  || :'
+- 'wget -O ./_data/media-mentions.csv $(bundle exec yaml get media-mentions-feed -F=_config.yml)
+  || :'
 - bundle exec jekyll build
 - bundle exec htmlproofer ./_site --check-html --check-favicon --allow-hash-href --external_only
   --only-4xx --http-status-ignore 429
@@ -22,5 +25,5 @@ after_success: s3_website push
 notifications:
   slack:
     rooms:
-      secure: qgR33NlpMqXKfI8XYVEJUM6+OWwUBrvMK5Qo1PRsUp0AlQnmsY/Hasa2QkZ08viyePr0tlez6GjoxT0qNKKKTUpw7wW+yQVmEM4J3ZaRQYemTbxDtBAktrNwJCKzUzA8u41KV+l2vmHZXr4fklHT1+0kDsbP9PB3sEgLLgQmCdLY/uZIoSegls6xQKJg/863t0ocuQpmvbey6Raakg06iZWHnTiUahDbs0vXvQZClVO7dmmryZ6Y8TsV1GK5x3ySAUbTSn61SKXrD3SqfX1pYeZbCMaPd9d+hd3NRoPmXx/uS4rxF/OzeX8hbOW5lEFLS23+trT95cKgHKPnLZu+sk/3/4K9r5cYwPi20JmAvEQ3Vk2IH1UA4sg+QyrtH2CYcClcR689LpGK9Pj2I74938sM47021jla1ttiiyOPWz3P19FviqxfQeSxKMDH+JPCNgtkfB7M+gzEuih/Z2DIdAM2ZbZv5xuPcfzpopR2fd2ZMwwMYx9zzqvf//iCw0I9dz5MKqy8q0a/IflTZCr4QynolGRi/ixbCIEjHOSzSBcsrewhcRnx4Flac3Mct3XCAI64d3LhmOfp1FoM/jgV5lmJvHI/N5b3f7sob6hlJxjCbdK3TEJI722IgldggU89OTkxG9WFuVNMMBl6arMO3zQzdZhBeptjj5swff1IkL0=
+      secure: qP6h7zgBZDd26y6x+4HtpYfXHXaNMjm/JYyKThaKSeDNcZ4x9o/TpIIHUnilmKFuMkNP6DJ6u8xNd7Cf6jRAJDAvG1SZ7pVJ+irOEjs3hS+d0nIoJz+gMgFmXKjwWvl4SgGuPLikEatFholnb0EWLJsc7tAiNUH7ABkNNWZTepTiHFOOhtEy9VuVbHOWYswBMomHA6I+OCmEzR3/NdggHzJ29cf1FOYle4CS9VmtVcTvJWOj+SyFflOmIYHEoAIPPcI/QgZaMZk9qsMtj1UVqJi6tISBGndnZTNh8ADnv5CA98PJUmXzcdDUsISH4Zl07f6hq9MWGw3FJ9wCNehcGVHOqKgjJefZdFiiRSBd2uyHBfIJKfeCzxnX+3vRL99gFvdA1iwSZYLk5RS00tQ9q8fgZzFpBJI+OizuPAYuS3vvrg6atDNpmWMIysrjZaFrLBMzybrSHep3A0+/vtZek0tSmcenJSHgt5Ze2PY4EDDQUm6hn0cZWC4jq8jvvhfuJTwuuuZ5HiNaxW0fHgjv3RiN5twKyv7S/eA6HcMMkaAJ+uxspgU/8GlHX5kMW0iUDmqoC7oRjOYiGZnF80k6CQwevp4HqvCs4AZoP7Zp+u5VvIb5RWQuwHcrrVOMAqcC7akgbI7u6Xplpl2zVFoWJuPWsgJ6YcnPz0dr72jNd1k=
     on_success: always
