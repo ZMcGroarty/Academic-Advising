@@ -11,29 +11,25 @@ keywords: 'advising, faq, current students'
 sidebar: false
 ---
 ## New Student FAQ
-**When will I be assigned an advisor?**
-You will meet with an academic advisor from the College of Liberal Arts when you attend your on-campus orientation session before the start of the semester. You are not assigned a specific advisor, and any member of the advising staff will be able to assist you. However, you are welcome to meet with the same advisor throughout the year, if that is your preference.
+Is your first semester at college fast approaching? If so, this is one of the most exciting times of your life! But it might also mean you’ve got a lot of questions. Don’t worry—that’s normal. At Temple University’s College of Liberal Arts, you’ll be able to [choose your academic advisor](#who-will-be-my-academic-advisor), get [your questions answered](#i-have-so-many-questions), get continued help throughout your academic career and have someone to turn to even when you have [questions that go beyond academics](#what-if-i-have-an-issue-beyond-academics). 
 
-**When will I get to pick my classes?**
-You will have the opportunity to meet with an academic advisor and make your schedule when you attend an on-campus orientation. New transfer students must first complete an online orientation before coming to campus. Check your TUportal account for more information and to sign up for an orientation.
+Once you complete new student orientation, please drop us a line at 215-204-7971 or [claaac@temple.edu](mailto:claaac@temple.edu) to get started.
 
-**When will I get my final credit evaluation from AP classes or a previous institution?**
-Admissions will process and post your transfer credits upon receipt of your final, official transcript. You will learn about how your transfer credits satisfy degree requirements at New Student Orientation. Please follow-up with your academic advisor in the fall regarding any additional transfer credits, and be sure to send all final, official AP/IB/college transcripts to Temple as soon as they become available.
+## Who Will Be My Academic Advisor?
+Your personal academic path won’t be exactly the same as anyone else’s. That’s because it’ll be tailored to what you want to get out of college and how you want your education to empower you in your life and career ahead. To do that most effectively, we pair you with the advisor who makes the most sense for you. How do we know your advisor is best for you? Easy. We let you pick him or her!
+The College of Liberal Arts has a diverse team of advisors. Some of them grew up here in Philadelphia, while others are from around the country and even overseas, and they have varied backgrounds and educational experiences. That means you’re sure to find the friendly face of someone you can relate to.
 
-**When should I start thinking about study abroad, and whom should I meet with?**
-The sooner you start thinking about studying abroad, the easier it will be help you plan for your trip while still ensuring you are on track to graduate on time. You can speak to your academic advisor as early as your first semester at Temple and they will help you explore your options.
+As a new student, you’ll be able to [choose the advisor](https://liberalarts.temple.edu/content/academic-advising) who’s the best fit for you.
 
-**Are there any required general education classes I have to take, and how do I pick them?**
-Yes. Your GenEd curriculum and course options will be reviewed at New Student Orientation.
+## I Have So Many Questions!
+What courses should you be taking? How do you register for those courses? What sort of academic goals should you set for yourself? Where are the important resources around campus? What are my options for studying abroad? Most of all, just what exactly is being a student on Temple’s Main Campus going to be like? 
 
-**How do I change my major, or add a second major or minor?**
-If you would like to change your major to a different major within the College of Liberal Arts, you can speak to an advisor when you come for orientation. Once the semester starts, you can meet with an advisor to discuss your options for a double major and minor to ensure you are making progress toward a timely graduation.
+If these sort of questions are on your mind, know that you’ll get an advisor to give you the answers you’re looking for. The move from high school to college is a big one, and we want to make sure you enjoy the experience while getting the most out of it academically. The College of Liberal Arts has an incredibly diverse curriculum of courses for you to choose from, many avenues for supporting your academic progress and a variety of choices for how, where and when you learn. All you have to do is contact your advisor.
 
-**How do I find out about internships, and what is the earliest I can apply?**
-You will be introduced to our Professional Development staff at Orientation. We encourage you to speak with them about your interests and take advantage of our 1-credit [Career Seminar course](http://liberalarts.temple.edu/advising/professional-development/career-seminar).
+## How Can My Advisor Help Me After I Register and Settle into College?
+One of the first things you’ll need to do once you enroll at the College of Liberal Arts is register for courses, and you’ll of course have to do so every semester. Your advisor will guide you through registration, but he or she will also be here to help you with so much more.
 
-**How often should I see an advisor?**
-You should aim to meet with your advisor at least once per semester to remain in the Fly in 4 program, but you can meet with an academic advisor as often as you’d like.
+Some students know exactly what they want to major in. Others don’t. Either way, they always have an advisor to help them stay on track and find their way. That’s because picking a major isn’t something everyone does once and never changes. Around half of Temple students change their major at least once. So whether you’re undeclared, have second thoughts about your major or want to add a minor or another major, your advisor will help you pair your interests with an academic plan that fits them. And if and when the time comes to change that plan, they’ll help you make the best choice to study what excites you most.
 
-**I am thinking about Pre-Law – is there a special advisor for that?**
-While you can major in any subject and apply to graduate school, we recommend you meet with one of our Pre-Law advisors during your first semester to learn more. You can contact [Dr. Paul Crowe](mailto:pcrowe@temple.edu). 
+## What If I Have an Issue Beyond Academics?
+It’s a clichéd saying that success isn’t a straight path, but that doesn’t make it untrue. No one goes through life or school unchallenged. When you encounter a problem, we want to be there to get you through it. If you run into some trouble as a student with your academics, financials, campus life or anything related to college, you’ll always have someone to turn to for help in your advisor. He or she will either have a solution ready for you or will get you to the person who does. 
