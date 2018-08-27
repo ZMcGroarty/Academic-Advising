@@ -10,12 +10,22 @@ description: >-
 # custom variables
 sidebar: false
 ---
-## Declare or Change your Major, Minor or Certificate
-- Want to change your major into the College of Liberal Arts? View the following [Change of Program Procedures](https://liberalarts.temple.edu/sites/liberalarts/files/Change%20of%20Program%20Procedures.pdf) pdf to see the necessary steps.
+## Change of Program Procedures
+### To Be Completed in Canvas:
+**Step One:** You must confirm that you have a cumulative 2.0 GPA in order to be eligible for a Change of Program. If you do not have a cumulative 2.0 GPA, you will not be able to transfer to the College of Liberal Arts. If you do not have a 2.0 GPA at this time, you should meet with an advisor in your college to create an academic plan to improve your GPA prior to your transfer. You must visit the advising center to be added to the Canvas course. 
 
-- To declare a new major, minor or certificate in the College of Liberal Arts, you must submit a Change of Program Form from the Center for Academic Advising and Professional Development.
+**Step Two:** Watch a brief College of Liberal Arts Change of Program video, which covers important information about academic advising and collegial requirements. Please pay close attention as you will be required to answer a brief quiz and answer all questions correctly prior to completing your Change of Program application.
 
-- College of Liberal Arts students who wish to declare a second major, minor or certificate outside of the college must contact the academic advising center of that school or college.
+**Step Three:** Complete a brief quiz which will test your knowledge of the college requirements covered in the video. You must answer each question correctly in order to complete the process. You can take the test more than once.
+
+**Step Four:** After receiving a verification email with further instructions, you will need to visit the Center for Academic Advising and Professional Development, located on the third floor of 1810 Liacouras Walk, to submit the form you will receive in your email. Your change of program will not be complete until you submit this form. Please note that this form is not available online. After submitting the form, you will then be able to make an appointment with your advisor if you need to register/revise your schedule for the upcoming semester.
+
+After completing the Canvas course, you will visit the Center for Academic Advising and Professional Development, located on the first floor of Paley Library, Suite 160.
+
+## What happens after I submit the form?
+Your request to transfer to the College of Liberal Arts will then be reviewed to ensure that you are eligible for transfer. If you have completed all the steps above and have a 2.0 GPA, your request will be forwarded to the Office of the University Registrar for processing and may take 5 to 7 business days to be finalized. You will receive e-mail notification from the Office of the University Registrar once your Change of Program is complete.
+
+Please note that your Change of Program is effective for the semester after you apply. If you submit a Change of Program in the fall semester, you will be a College of Liberal Arts student in the spring semester. However, you will still be able to register for College of Liberal Arts courses while the Change of Program is being processed.
 
 ## Re-Enroll in Classes
 If you have been out of school for one fall or spring term, you must complete an [Undergraduate Request to Re-enroll form](https://liberalarts.temple.edu/sites/liberalarts/files/request_to_reenroll.pdf) to be admitted back into the College of Liberal Arts. Re-enrollment forms are accepted until August 1 for the fall term, December 1 for the spring term and April 1 for summer sessions.
