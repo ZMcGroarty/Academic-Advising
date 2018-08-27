@@ -22,14 +22,14 @@ description:
 keywords: highered, college, university, philadelphia, Temple
 
 # Address
-address: 1210 Polett Walk
+address:
   building: Paley Library
   room: Suite 160
-  street: 
+  street: 1210 Polett Walk
   city: Philadelphia
   email: claaac@temple.edu
-  phone: 
-  
+  phone:
+
 # University & College Information
 university:
   name: Temple University
