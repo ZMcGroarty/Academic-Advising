@@ -12,6 +12,8 @@ sidebar: false
 ---
 Our knowledgeable and dedicated team of academic advisors will be with you from the moment you arrive on campus for orientation through your graduation day.
 
+___
+
 ![Tiffany Galloway]({{site.baseurl}}/media/Tiffany Galloway.jpg){:.img-right}
 **[Tiffany Galloway](mailto:tiffanygalloway@temple.edu)**<br> 
 **B.A. Temple University, English - Creative Writing**<br> 
