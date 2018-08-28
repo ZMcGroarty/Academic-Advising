@@ -10,7 +10,7 @@ keywords: 'advising, dars, appointments, professional development'
 # custom variables
 feature: true
 feature-title: Welcome to the Center for Academic Advising!
-feature-image: media/resizedstudents.jpg
+feature-image: media/advisinghero.png
 feature-body: >-
 promotion-table: true
 ---
