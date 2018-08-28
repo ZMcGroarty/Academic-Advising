@@ -12,13 +12,13 @@ sidebar: false
 ---
 ## Change of Program Procedures
 ### To Be Completed in Canvas:
-**Step One:** You must confirm that you have a cumulative 2.0 GPA in order to be eligible for a Change of Program. If you do not have a cumulative 2.0 GPA, you will not be able to transfer to the College of Liberal Arts. If you do not have a 2.0 GPA at this time, you should meet with an advisor in your college to create an academic plan to improve your GPA prior to your transfer. You must visit the advising center to be added to the Canvas course. 
+**Step One:** You must confirm that you have a cumulative 2.0 GPA in order to be eligible for a Change of Program. If you do not have a cumulative 2.0 GPA, you will not be able to transfer to the College of Liberal Arts. If you do not have a 2.0 GPA at this time, you should meet with an advisor in your college to create an academic plan to improve your GPA prior to your transfer. **You must visit the advising center to be added to the Canvas course.** 
 
 **Step Two:** Watch a brief College of Liberal Arts Change of Program video, which covers important information about academic advising and collegial requirements. Please pay close attention as you will be required to answer a brief quiz and answer all questions correctly prior to completing your Change of Program application.
 
 **Step Three:** Complete a brief quiz which will test your knowledge of the college requirements covered in the video. You must answer each question correctly in order to complete the process. You can take the test more than once.
 
-**Step Four:** After receiving a verification email with further instructions, you will need to visit the Center for Academic Advising and Professional Development, located on the third floor of 1810 Liacouras Walk, to submit the form you will receive in your email. Your change of program will not be complete until you submit this form. Please note that this form is not available online. After submitting the form, you will then be able to make an appointment with your advisor if you need to register/revise your schedule for the upcoming semester.
+**Step Four:** After receiving a verification email with further instructions, you will need to visit the [Center for Academic Advising and Professional Development](https://liberalarts.temple.edu/advising), located on the third floor of 1810 Liacouras Walk, to submit the form you will receive in your email. Your change of program will not be complete until you submit this form. Please note that this form is not available online. After submitting the form, you will then be able to make an appointment with your advisor if you need to register/revise your schedule for the upcoming semester.
 
 After completing the Canvas course, you will visit the Center for Academic Advising and Professional Development, located on the first floor of Paley Library, Suite 160.
 
