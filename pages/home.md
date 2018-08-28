@@ -41,8 +41,8 @@ Before your academic advising appointment, please check your DARS to review comp
   </div>
   <div class="col m12 l4">{% include cards/card2-basic.html
     title="Meet or Academic and Peer Advisors!"
-    content="NEED CONTENT"
-    button-link="/academic-advising#staff/"
+    content="Need Content"
+    button-link="/academic-advising#advising-staff/"
     button-text="Learn More" %}
     </div>
     <div class="col m12 l4">{% include cards/card2-basic.html
