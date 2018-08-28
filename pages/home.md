@@ -9,9 +9,10 @@ description: >-
 keywords: 'advising, dars, appointments, professional development'
 # custom variables
 feature: true
-feature-title: Welcome to the Center for Academic Advising! 
-feature-image: 
+feature-title: Welcome to the Center for Academic Advising!
+feature-image:
 feature-body: >-
+promotion-table: true
 ---
 The Center for Academic Advising and Professional Development counsels students on issues relating to both classroom and career. We can help you navigate your curriculum, choose a major, explore career opportunities and determine your post-graduation plans.
 
@@ -25,7 +26,7 @@ We also offer academic advising at the Ambler and Center City (TUCC) campuses. P
 ## Be Prepared
 Before your academic advising appointment, please check your DARS to review completed and unfulfilled requirements:
 
-- Go to: [dars.temple.edu](http://dars.temple.edu/) 
+- Go to: [dars.temple.edu](http://dars.temple.edu/)
 - Log in, using your TU username and password
 - Click “Run Audit”
 - A history of previous DARS Audits will appear, select the most recent one (the one on top) by clicking “View Audit”
