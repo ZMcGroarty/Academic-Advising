@@ -4,7 +4,7 @@ layout: tla_faculty
 permalink: /advising-staff/
 published: true
 # meta-data variables
-title: Faculty
+title: Advising Staff
 keywords: 'advising, staff, academics'
 description: >-
 # custom variables
