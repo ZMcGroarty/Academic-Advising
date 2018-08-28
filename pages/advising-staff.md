@@ -107,16 +107,6 @@ Andy grew up just outside of the city in Havertown, PA. She attended Temple Univ
 
 ___
 
-![Tiffany Galloway]({{site.baseurl}}/media/cropped 160919_KimberlyGoyette-30.jpg){:.img-right}
-**[Tiffany Galloway](maito:tiffanygalloway@temple.edu)**<br> 
-**B.A. Temple University, English - Creative Writing**<br> 
-
-Tiffany was raised in Fort Washington, Maryland and is a graduate from Temple University’s College of Liberal Arts. She earned her BA in English with a Concentration in Creative Writing. She is thrilled to come back to CLA as an Academic Advisor. While a student, Tiffany was an Owl Ambassador, a Peer Advisor for CLA, and studied abroad at the university’s campus in Rome, Italy. She still raves about the amazing culture, pasta, and gelato she enjoyed while there. Currently, Tiffany is in the Masters of Social Work program at Temple, with a clinical concentration focusing on mental health. In her spare time, Tiffany enjoys exploring brunch spots in the city and checking out different literary readings downtown.
-
-**Favorite Books:** _On Beauty by Zadie Smith, Boy, Snow, Bird by Helen Oyeyemi, and The Mothers by Brit Bennett_
-
-___
-
 ![Liz Truitt]({{site.baseurl}}/media/cropped Liz Truitt.jpg){:.img-right}
 **[Liz Truitt](mailto:elizabeth.truitt@temple.edu)**<br> 
 **B.A., Boston College, Communication**<br> 
