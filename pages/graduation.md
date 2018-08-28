@@ -13,9 +13,9 @@ keywords: >-
 ## Apply for your degree
 If you are planning to graduate in August 2018 you must apply for graduation through Self Service Banner. You can apply to graduate by following the steps below:
 
-1. In TUPortal, select the Student Tools Tab</br>
-2. Under Records right hand side select Apply to Graduate</br>
-3. Continue the application process until you come to the application submission confirmation</br>
+1. In TUPortal, select the Student Tools Tab<br>
+2. Under Records right hand side select Apply to Graduate<br>
+3. Continue the application process until you come to the application submission confirmation<br>
 
 _**If you are also earning a certificate, you must apply separately for your certificate. This does not apply to minors or double majors.**_
 
