@@ -32,6 +32,8 @@ Before your academic advising appointment, please check your DARS to review comp
 - A history of previous DARS Audits will appear, select the most recent one (the one on top) by clicking “View Audit”
 - Your current DARS Audit will appear
 
+___
+
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-basic.html
     title="FAQ's"
