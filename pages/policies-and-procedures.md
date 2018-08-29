@@ -10,7 +10,7 @@ description: >-
 # custom variables
 sidebar: false
 ---
-![ETD]({{site.baseurl}}/media/resizedstudents.jpg){:.img-center}
+![ETD]({{site.baseurl}}/media/resized2students.jpg){:.img-center}
 ## Change of Program Procedures
 ### To Be Completed in Canvas:
 **Step One:** You must confirm that you have a cumulative 2.0 GPA in order to be eligible for a Change of Program. If you do not have a cumulative 2.0 GPA, you will not be able to transfer to the College of Liberal Arts. If you do not have a 2.0 GPA at this time, you should meet with an advisor in your college to create an academic plan to improve your GPA prior to your transfer. **You must visit the advising center to be added to the Canvas course.** 
