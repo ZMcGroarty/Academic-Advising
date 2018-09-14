@@ -9,9 +9,9 @@ description: >-
 keywords: 'advising, dars, appointments, professional development'
 # custom variables
 feature: true
-feature-title: Welcome to the Center for Academic Advising!
+feature-title: false
 feature-image: media/advisinghero.png
-feature-body: >-
+feature-body: false
 promotion-table: true
 ---
 The Center for Academic Advising and Professional Development counsels students on issues relating to both classroom and career. We can help you navigate your curriculum, choose a major, explore career opportunities and determine your post-graduation plans.
