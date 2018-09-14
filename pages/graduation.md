@@ -5,9 +5,8 @@ permalink: /graduation/
 published: true
 # meta-data variables
 title: Graduation
-description: >-     
-keywords: >-
 # custom variables
+sidebar: false
 ---
 ![CLA Graduation]({{site.baseurl}}/media/resized AdvisingGraduation.png){:.img-right}
 ## Apply for your degree

@@ -73,9 +73,7 @@ social:
   # Slack - Paste the FULL URL below
   slack:
   # Google Tag Manager OR Google Analytics
-  google_analytics:
   google_tag_manager: GTM-58ZL5B
-
 
 # Global Site Config
 # DO NOT edit below unless if you know what you're doing!
