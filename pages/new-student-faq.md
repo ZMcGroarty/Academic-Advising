@@ -5,7 +5,6 @@ permalink: /new-student-faq/
 published: true
 # meta-data variables
 title: New Student FAQ
-description: >-
 keywords: 'advising, faq, current students'
 # custom variables
 sidebar: false

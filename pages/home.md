@@ -5,7 +5,6 @@ permalink: /
 published: true
 # meta-data variables
 title: Home
-description: >-
 keywords: 'advising, dars, appointments, professional development'
 # custom variables
 feature: true
