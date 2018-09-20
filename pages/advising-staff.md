@@ -12,7 +12,7 @@ sidebar: false
 Our knowledgeable and dedicated team of academic advisors will be with you from the moment you arrive on campus for orientation through your graduation day.
 ___
 
-![Tiffany Galloway]({{site.baseurl}}/media/Tiffany Galloway.jpg){:.img-right}
+![Tiffany Galloway]({{site.baseurl}}/media/Tiffany Galloway.jpg){:.responsive-img .img-right}
 **[Tiffany Galloway](mailto:tiffanygalloway@temple.edu)**<br>
 **B.A. Temple University, English - Creative Writing**<br>
 
@@ -22,7 +22,7 @@ Tiffany was raised in Fort Washington, Maryland and is a graduate from Temple Un
 
 ___
 
-![Xiomara I. Gonzalez]({{site.baseurl}}/media/Xiomara Gonzalez.jpg){:.img-right}
+![Xiomara I. Gonzalez]({{site.baseurl}}/media/Xiomara Gonzalez.jpg){:.responsive-img .img-right}
 **[Xiomara I. Gonzalez](mailto:xiomara.gonzalez@temple.edu)**<br>
 **B.A., Rowan University**<br>
 **History M.A., Counseling in Educational Settings- Higher Education Track**<br>
@@ -44,7 +44,7 @@ Nia was born in Los Angeles, California, grew up in Philadelphia, Pennsylvania a
 
 ___
 
-![Beth Lawson]({{site.baseurl}}/media/Beth Lawson.jpg){:.img-right}
+![Beth Lawson]({{site.baseurl}}/media/Beth Lawson.jpg){:.responsive-img .img-right}
 **[Beth Lawson](mailto:evlawson@temple.edu)**<br>
 **B.A. with Honors, University of Georgia, Athens, Anthropology**<br>
 **M.A., University of Georgia, Athens, Religion**<br>
@@ -55,7 +55,7 @@ Beth was raised Alpharetta, GA. Growing up, she had many experiences traveling a
 
 ___
 
-![Christopher McClain]({{site.baseurl}}/media/Christopher Mclain.jpg){:.img-right}
+![Christopher McClain]({{site.baseurl}}/media/Christopher Mclain.jpg){:.responsive-img .img-right}
 **[Christopher McClain](mailto:chrismcclain@temple.edu)**<br>
 **B.A., Bloomsburg University, Communication Studies- Interpersonal Relationship Management**<br>
 **M.Ed., Bloomsburg University, Guidance Counseling and College Student Affairs**<br>
@@ -68,7 +68,7 @@ Chris is excited to be a part of the CLA Advisement Team and looks forward to co
 
 ___
 
-![Hannah McEwen]({{site.baseurl}}/media/Hannah McEwen .jpg){:.img-right}
+![Hannah McEwen]({{site.baseurl}}/media/Hannah McEwen .jpg){:.responsive-img .img-right}
 **[Hannah McEwen](mailto:hannah.mcewen@temple.edu)**<br>
 **B.S., St. John’s University, Education, English Concentration**<br>
 **M.S., Buffalo State College, Multidisciplinary Studies, Educational Leadership Concentration**<br>
@@ -81,7 +81,7 @@ Hannah grew up in Lancaster, PA, lived in NYC while she was an undergraduate stu
 
 ___
 
-![Vinnie Moulton]({{site.baseurl}}/media/Vincent Moulton.jpg){:.img-right}
+![Vinnie Moulton]({{site.baseurl}}/media/Vincent Moulton.jpg){:.responsive-img .img-right}
 **[Vinnie Moulton](mailto:Vincent.Moulton@temple.edu)**<br>
 **B.A. Temple University, History and Religion**<br>
 **M.A. Temple University, Religion**<br>
@@ -105,7 +105,7 @@ Andy grew up just outside of the city in Havertown, PA. She attended Temple Univ
 
 ___
 
-![Liz Truitt]({{site.baseurl}}/media/cropped Liz Truitt.jpg){:.img-right}
+![Liz Truitt]({{site.baseurl}}/media/cropped Liz Truitt.jpg){:.responsive-img .img-right}
 **[Liz Truitt](mailto:elizabeth.truitt@temple.edu)**<br>
 **B.A., Boston College, Communication**<br>
 **M.Ed., Harvard University, Higher Education Administration**<br>
@@ -118,7 +118,7 @@ A northern New Jersey native, Liz is new to the city of Philadelphia after havin
 
 ___
 
-![Dr. Mark Walker, Ph.D.]({{site.baseurl}}/media/Mark Walker.jpg){:.img-right}
+![Dr. Mark Walker, Ph.D.]({{site.baseurl}}/media/Mark Walker.jpg){:.responsive-img .img-right}
 **[Dr. Mark Walker, Ph.D.](mailto:mark.walker0002@temple.edu)**<br>
 **BA (Hons) History, University of Essex (2009)**<br>
 **MA History, Old Dominion University (2011)**<br>
