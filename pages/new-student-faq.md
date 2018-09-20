@@ -9,7 +9,7 @@ keywords: 'advising, faq, current students'
 # custom variables
 sidebar: false
 ---
-![Temple Fest]({{site.baseurl}}/media/resizedtemplefest147.jpg){:.img-right}
+![Temple Fest]({{site.baseurl}}/media/resizedtemplefest147.jpg){:.responsive-img .img-right}
 ## New Student FAQ
 Is your first semester at college fast approaching? If so, this is one of the most exciting times of your life! But it might also mean you’ve got a lot of questions. Don’t worry—that’s normal. At Temple University’s College of Liberal Arts, you’ll be able to [choose your academic advisor](#who-will-be-my-academic-advisor), get [your questions answered](#i-have-so-many-questions), get continued help throughout your academic career and have someone to turn to even when you have [questions that go beyond academics](#what-if-i-have-an-issue-beyond-academics).
 
