@@ -6,8 +6,6 @@ published: true
 # meta-data variables
 title: Transfer Students
 # custom variables
-sidebar: false
-
 ---
 ![ETD Students]({{site.baseurl}}/media/resizedetdstudents.jpg){:.responsive-img .img-right}
 Ready to take the next step in your college career? Deciding where to transfer your existing college credits or associate degree might be easier than you think. About 40 percent of Temple University, students are transfers, so you’ll be among students with similar experiences and needs. And at Temple’s College of Liberal Arts, you’ll benefit from an academic advising team dedicated to helping you make the most of your credits and graduate as soon as possible. [Choose your academic advisor](#who-will-be-my-academic-advisor-when-i-transfer), get your [transfer questions answered](#i-have-so-many-questions), receive advice throughout your time at Temple and get help with issues beyond academics. [Contact us](#im-ready-to-transfer) now to get started!

@@ -5,9 +5,8 @@ permalink: /policies-and-procedures/
 published: true
 # meta-data variables
 title: Policies and Procedures
-keywords: 'policies and procedures, curtent students, advising'
+keywords: 'policies and procedures, current students, advising'
 # custom variables
-sidebar: false
 ---
 ![ETD]({{site.baseurl}}/media/resized2students.jpg){:.responsive-img .img-right}
 ## Change of Program Procedures

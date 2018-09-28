@@ -6,7 +6,6 @@ published: true
 # meta-data variables
 title: Graduation
 # custom variables
-sidebar: false
 ---
 ![CLA Graduation]({{site.baseurl}}/media/resized AdvisingGraduation.png){:.responsive-img .img-right}
 ## Apply for your degree

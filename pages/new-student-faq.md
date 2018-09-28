@@ -7,7 +7,6 @@ published: true
 title: New Student FAQ
 keywords: 'advising, faq, current students'
 # custom variables
-sidebar: false
 ---
 ![Temple Fest]({{site.baseurl}}/media/resizedtemplefest147.jpg){:.responsive-img .img-right}
 ## New Student FAQ
