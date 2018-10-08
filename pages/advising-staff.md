@@ -67,19 +67,6 @@ Chris is excited to be a part of the CLA Advisement Team and looks forward to co
 
 ___
 
-![Hannah McEwen]({{site.baseurl}}/media/Hannah McEwen .jpg){:.responsive-img .img-right}
-**[Hannah McEwen](mailto:hannah.mcewen@temple.edu)**<br>
-**B.S., St. John’s University, Education, English Concentration**<br>
-**M.S., Buffalo State College, Multidisciplinary Studies, Educational Leadership Concentration**<br>
-
-Hannah grew up in Lancaster, PA, lived in NYC while she was an undergraduate student, and worked in the Middle East for five years. Prior to joining the CLA Advising Team, she taught and advised high school students at an international school in Kuwait. During her time abroad, she traveled to 20+ countries. Some of her favorite places include Sri Lanka, Turkey, and the Netherlands. She also completed her graduate degree while she was abroad. Her graduate program involved collaborating with other educators and students from around the world. She is happy to be back at home and looks forward to building new connections with the students at Temple. When she is not working or traveling, Hannah enjoys reading, listening to music from her childhood, cooking, trying different restaurants, and exploring Philly.
-
-**Favorite Books:** _The Nightingale_ by Kristin Hannah, _Shanghai Girls_ by Lisa See, _Honor_ by Elif Shafak
-
-**Advising Interests:** International students, ROTC
-
-___
-
 ![Vinnie Moulton]({{site.baseurl}}/media/Vincent Moulton.jpg){:.responsive-img .img-right}
 **[Vinnie Moulton](mailto:Vincent.Moulton@temple.edu)**<br>
 **B.A. Temple University, History and Religion**<br>
