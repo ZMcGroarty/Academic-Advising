@@ -22,7 +22,7 @@ Once you transfer to Temple you’ll attend a transfer orientation event where y
 
 Every transfer student is unique in the credits each brings, the degree each is pursuing and the desired graduation timing. How to go from holding some credits to holding a bachelor’s degree might not seem intuitive right now, but our team is always available to make things as clear as possible and give you the right advice for meeting your educational goals.
 
-Want to see how your credits will transfer to Temple right now? Use our [Transfer Equivalency Tool](https://admissions.temple.edu/transfer-equivalency-tool).
+Want to see how your credits will transfer to Temple right now? Use our [Transfer Equivalency Tool](https://admissions.temple.edu/apply/transfer-students/transfer-equivalency-tool).
 
 ## How Can My Advisor Help Me After I Transfer to My New School?
 Once you’re accepted and your credit transfers are sorted out, you’ll register for courses during your transfer student orientation. Your advisor will walk you through registration, but he or she will also be here to help you with so much more.
