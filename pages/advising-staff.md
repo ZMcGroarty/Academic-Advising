@@ -7,6 +7,7 @@ published: true
 title: Advising Staff
 keywords: 'advising, staff, academics'
 # custom variables
+faculty: profiles/faculty.html
 ---
 Our knowledgeable and dedicated team of academic advisors will be with you from the moment you arrive on campus for orientation through your graduation day.
 ___
