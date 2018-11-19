@@ -7,7 +7,8 @@ published: true
 title: Graduation
 # custom variables
 ---
-![CLA Graduation]({{site.baseurl}}/media/resized AdvisingGraduation.png){:.responsive-img .img-right}*image_caption*
+![CLA Graduation]({{site.baseurl}}/media/resized AdvisingGraduation.png){:.responsive-img .img-right}
+*image_caption*
 
 ## Apply for your degree
 If you are planning to graduate in August 2018 you must apply for graduation through Self Service Banner. You can apply to graduate by following the steps below:
