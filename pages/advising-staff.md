@@ -10,6 +10,7 @@ keywords: 'advising, staff, academics'
 faculty: profiles/faculty.html
 ---
 Our knowledgeable and dedicated team of academic advisors will be with you from the moment you arrive on campus for orientation through your graduation day.
+
 ___
 
 ![Tiffany Galloway]({{site.baseurl}}/media/Tiffany Galloway.jpg){:.responsive-img .img-right}
