@@ -37,7 +37,7 @@ ___
   <div class="col m12 l4">{% include cards/card2-basic.html
     title="FAQ's"
     content="New to the College of Liberal Arts and have questions? Visit or New Student FAQ page!"
-    button-link="/academic-advising#new-student-faq/"
+    button-link="https://develop.cla.temple.edu/academic-advising/new-student-faq/"
     button-text="Learn More" %}
   </div>
   <div class="col m12 l4">{% include cards/card2-basic.html
