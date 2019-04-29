@@ -56,43 +56,6 @@ Beth was raised Alpharetta, GA. Growing up, she had many experiences traveling a
 
 ___
 
-![Christopher McClain]({{site.baseurl}}/media/Christopher Mclain.jpg){:.responsive-img .img-right}
-**[Christopher McClain](mailto:chrismcclain@temple.edu)**<br>
-**B.A., Bloomsburg University, Communication Studies- Interpersonal Relationship Management**<br>
-**M.Ed., Bloomsburg University, Guidance Counseling and College Student Affairs**<br>
-
-Chris is excited to be a part of the CLA Advisement Team and looks forward to connecting students’ passion and purpose with their studies here at Temple! A native to the “City of Brotherly Love,” Chris attended Central High School and is a proud member of the class of 266! Chris grew up with a love for playing sports, which continues today as he still plays in competitive tennis tournaments/leagues in the PA region. Previously at Bloomsburg University (BU), Chris worked in different capacities, such as Diversity & Retention, Student Orientation, and Residence Life.  During his time in higher education, Chris has been an advocate for multicultural and diversity initiatives as he values the holistic development that is associated with different cultural engagements and Study Abroad (studying abroad in Africa and China were amongst the most rewarding experiences of his life). Ambitious and supportive in nature, Chris assisted in establishing, and serving as president for 3 years for Men of Intelligence, Notability, and Desire (M.I.N.D), which is a student organization designed to develop successful inner city male students socially and academically as they transition to higher education. He also served as the founding charter member and treasurer for the Chi Sigma Alpha National Student Affairs Honor Society on BU’s campus.
-
-**Favorite Books:** _The Purist of Happyness_ by Chris Gardner; _The Pact_ by Sampson Davis, George Jenkins, and Rameck Hunt; _Letters to a Young Brother_, and _The Wealth Cure_ by Hill Harper
-
-**Advising Interests:** Student retention, mentoring, major/minor exploration, and study abroad
-
-___
-
-![Vinnie Moulton]({{site.baseurl}}/media/Vincent Moulton.jpg){:.responsive-img .img-right}
-**[Vinnie Moulton](mailto:Vincent.Moulton@temple.edu)**<br>
-**B.A. Temple University, History and Religion**<br>
-**M.A. Temple University, Religion**<br>
-
-Vinnie was born and raised in Philadelphia. He went to Temple for his Bachelor’s and Master’s degrees and seems unable to leave. His favorite experience, as a Temple student, was the semester that he studied abroad in Rome. If you plan to study there, he will gladly talk your ear off about all the things to experience. He has been teaching at Temple University for 8 years, and was naturally attracted to advising because of the opportunity to work closely with students and help them to achieve their goals. Vinnie likes to spend his spare time reading, gaming, biking, and other nerdy pursuits various and sundry.
-
-**Favorite Books:** _The Lord of the Rings_ by JRR Tolkien, _Harry Potter and the Half Blood Prince_ by JK Rowling, _The Name of the Wind_ by Patrick Rothfuss, _Good Omens_ by Neil Gaiman & Terry Pratchett, _Click, Clack, Moo_ by Doreen Cronin
-
-___
-
-**[Andriana “Andy” Mylonas](mailto:a.mylonas@temple.edu)**<br>
-**B.A., Temple University, Psychology**<br>
-**M.Phil.Ed., University of Pennsylvania, Counseling and Mental Health Services**<br>
-**M.S.Ed., University of Pennsylvania, Professional Counseling**<br>
-
-Andy grew up just outside of the city in Havertown, PA. She attended Temple University, where she completed her B.A. in Psychology. While at Temple, Andy studied abroad for a semester in Rome, Italy where she was able to experience the culture first hand as well as travel to many cities throughout Europe. After graduation, Andy attended the University of Pennsylvania where she completed her dual-master’s program in Counseling. Andy is a licensed school counselor and is also working towards her Licensed Professional Counseling (LPC) certification. Andy is a first-generation Greek-American college student and strives to make the college experience as accessible and enjoyable for all students. Outside of work, Andy teaches Greek Dance to Pre-K, 2nd, 3rd and 4th grade students. She has also helped create an organization that funds high school students SAT tutoring programs and connects students with young professionals in the working field. Some of Andy’s hobbies include hiking, yoga, going to the beach, and hanging out with her family, friends, and pup, Zoe.
-
-**Favorite Books:** _To Kill A Mockingbird_ by Harper Lee, _A Bend in the Road_ by Nicholas Sparks, _Charlie and the Chocolate Factory_ by Roald Dahl, and _Harry Potter and the Prisoner of Azkaban_ by J.K. Rowling
-
-**Favorite Quote:** _“Happiness can be found even in the darkest of times, if one only remembers to turn on the light.”_ –Albus Dumbledore
-
-___
-
 ![Liz Truitt]({{site.baseurl}}/media/cropped Liz Truitt.jpg){:.responsive-img .img-right}
 **[Liz Truitt](mailto:elizabeth.truitt@temple.edu)**<br>
 **B.A., Boston College, Communication**<br>
