@@ -119,3 +119,5 @@ Dr. Mark Walker is proud to be a gay immigrant to the US from Britain, born and 
 **Favorite Books:** _Hero_ by Perry Moore, _Simon vs. The Homo-Sapiens Agenda_ by Becky Albertalli
 
 **Advising Interests:** International students, History majors/minors, graduate school planning, academic careers, LGBT students
+
+___
