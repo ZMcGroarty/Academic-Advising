@@ -42,14 +42,14 @@ ___
   </div>
   <div class="col m12 l4">{% include cards/card2-basic.html
     title="Meet or Academic and Peer Advisors!"
-    content="Need Content"
-    button-link="/academic-advising#advising-staff/"
+    content=""
+    button-link="https://develop.cla.temple.edu/academic-advising/advising-staff/"
     button-text="Learn More" %}
     </div>
     <div class="col m12 l4">{% include cards/card2-basic.html
       title="Ready for Graduation?"
       content="Visit our graduation page to get all of the details you need to ensure you are on track for graduation."
-      button-link="/academic-advising#graduation/"
+      button-link=https://develop.cla.temple.edu/academic-advising/graduation/"
       button-text="Learn More" %}
     </div>
 </div>
