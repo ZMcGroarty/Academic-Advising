@@ -13,35 +13,20 @@ hero: hero/ppv-transfer.html
 ppv_form: forms/ppv-transfer.html
 sidebar: sidebars/ppv-transfer.html
 ---
-Enhance your community.
+Transfer to a New School with New Possibilities
 {:.fake-h2}
 
-Interested in boosting your career prospects with a versatile degree in geographic information systems (GIS)? Temple University’s professional science master degree and graduate certificate in geographic information systems produce GIS experts every year.
+If you’ve completed 15 or more college-level credits after graduating high school, you’re all set to become a Temple University transfer student. And if you transfer to Temple’s College of Liberal Arts, you won’t just transfer to a new school—you’ll transfer to a new world of possibilities.
 
-## Professional Science Master's in GIS
+Temple’s College of Liberal Arts will introduce you to a new global perspective and teach you to challenge what you’ve already learned. You may have realized that your first college wasn’t the best fit for solving your educational needs. Similarly, the world is realizing that its first choices for solving complex social, business, technology and other needs aren’t the best fits for it. Today’s global world needs global thinkers with research, communications and critical evaluation skills.
 
-Our geographic information system master degree program is a one-year, 30-credit professional degree that quickly teaches you the skills and knowledge you need to enter or quickly return to a thriving career. As a student, you’ll learn cutting-edge GIS techniques in spatial analysis, programming and design through courses like:
+It needs liberal arts graduates.
 
-+ Spatial Database Design
+## Your Options as a College of Liberal Arts Transfer Student
 
-+ Cartographic Design
+With 35 majors and 36 minors, College of Liberal Arts gives you more academic optionality than any other school at Temple, Philadelphia’s largest university. You’ll have the flexibility to build on the coursework you’ve already completed by studying anything from the humanities to the social sciences to business to media arts after transferring your credits here.
 
-+ GIS Application Development
+Transfer students receive thoughtful evaluations from our faculty, academic advisors and career counselors. You’ll get recommendations for the straightest path to completing your education and launching your career while leveraging the breadth of campus, community and global learning opportunities available to you here.   
 
-+ Geovisualization
+See for yourself by setting up a visit to explore your options for transferring to Temple University’s College of Liberal Arts.
 
-If you’re interested in GIS and have already completed a bachelor’s degree in any field, you’re eligible to enroll, so request info through the quick form above today.
-
-## GIS Graduate Certificate
-
-Looking to hone your skills and acquire a new credential in even less time? Temple’s GIS graduate certificate is a flexible, 12-credit program with all evening courses. That means you have the option to finish at your own pace while you’re employed. As a student, you’ll be trained in spatial thinking and modern GIS applications. You’ll also learn to collect, model, analyze and visualize data through courses like:
-
-+ Remote Sensing
-
-+ Advanced Statistics for Urban Applications
-
-+ Spatial Database Design
-
-+ Web Mapping and Map Servers
-
-The only thing you need to enroll is an undergraduate degree. Just request info to get started—no application required!
