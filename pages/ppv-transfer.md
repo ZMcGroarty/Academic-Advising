@@ -30,5 +30,6 @@ Transfer students receive thoughtful evaluations from our faculty, academic advi
 
 See for yourself by setting up a visit to explore your options for transferring to Temple University’s College of Liberal Arts.
 
+---
 
-*Temple generally accepts academic, college-level courses with a grade of C or better from regionally accredited schools. Transfer students must complete at least 45 of their final 60 credits at Temple to earn a Temple degree.
+* *Temple generally accepts academic, college-level courses with a grade of C or better from regionally accredited schools. Transfer students must complete at least 45 of their final 60 credits at Temple to earn a Temple degree.*
