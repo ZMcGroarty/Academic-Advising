@@ -32,4 +32,4 @@ See for yourself by setting up a visit to explore your options for transferring 
 
 ---
 
-* *Temple generally accepts academic, college-level courses with a grade of C or better from regionally accredited schools. Transfer students must complete at least 45 of their final 60 credits at Temple to earn a Temple degree.*
+<code>*</code>*Temple generally accepts academic, college-level courses with a grade of C or better from regionally accredited schools. Transfer students must complete at least 45 of their final 60 credits at Temple to earn a Temple degree.*
