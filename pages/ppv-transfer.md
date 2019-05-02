@@ -4,7 +4,7 @@ layout: tla_ppv_page
 permalink: /transfer/
 published: true
 # meta-data variables
-title: Academic Advising Transfer Students
+title: Transfer Students
 description: >-
   undergraduate transfer Students
 keywords: 'undergraduate, Transfer student'  
