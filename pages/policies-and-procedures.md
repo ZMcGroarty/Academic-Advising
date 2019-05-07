@@ -17,7 +17,7 @@ keywords: 'policies and procedures, current students, advising'
 
 **Step Three:** Complete a brief quiz which will test your knowledge of the college requirements covered in the video. You must answer each question correctly in order to complete the process. You can take the test more than once.
 
-**Step Four:** After receiving a verification email with further instructions, you will need to visit the [Center for Academic Advising and Professional Development](https://liberalarts.temple.edu/advising), located on the third floor of 1810 Liacouras Walk, to submit the form you will receive in your email. Your change of program will not be complete until you submit this form. Please note that this form is not available online. After submitting the form, you will then be able to make an appointment with your advisor if you need to register/revise your schedule for the upcoming semester.
+**Step Four:** After receiving a verification email with further instructions, you will need to visit the Center for Academic Advising and Professional Development, located on the third floor of 1810 Liacouras Walk, to submit the form you will receive in your email. Your change of program will not be complete until you submit this form. Please note that this form is not available online. After submitting the form, you will then be able to make an appointment with your advisor if you need to register/revise your schedule for the upcoming semester.
 
 After completing the Canvas course, you will visit the Center for Academic Advising and Professional Development, located on the first floor of Paley Library, Suite 160.
 
