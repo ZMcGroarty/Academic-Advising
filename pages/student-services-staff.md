@@ -10,7 +10,7 @@ keywords: 'advising, staff, academics'
 ---
 ___
 
-![Chris Wolfgang]({{site.baseurl}}/media/Advising_Wolfgang.jpg){:.responsive-img .img-right}
+![Chris Wolfgang]({{site.baseurl}}/media/advisingwolfgang.jpg){:.responsive-img .img-right}
 **[Chris Wolfgang, Director](mailto:cwolfgan@temple.edu)**<br>
 **B.A. The College of Wooster, Political Science**<br>
 **M.A. Adelphi University, Psychology**<br>
@@ -34,7 +34,7 @@ Anar was born in the bustling city of Mumbai, India, but she has spent most of h
 
 ___
 
-![Keesa Bond]({{site.baseurl}}/media/Advising_Bond.jpg){:.responsive-img .img-right}
+![Keesa Bond]({{site.baseurl}}/media/advisingbond.jpg){:.responsive-img .img-right}
 **[Keesa Bond, Assistant Director](mailto:keesa.bond@temple.edu)**<br>
 **B.A. University of Georgia, Art History**<br>
 **M.A. New York University, Arts Administration**<br>
