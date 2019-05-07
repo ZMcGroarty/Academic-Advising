@@ -17,7 +17,7 @@ ___
 
 Hailing from the same sleepy little town as Pulitzer Prize-winning author Conrad Richter, Chris spent the better part of his 20’s in an ‘89 Corolla, exploring 49 of the 50 states (Alaska and New Mexico are his favorites) before running out of gas in Des Moines, Iowa and remaining in town for a ten-month dose of Midwestern hospitality.  After brief stints living in California, Maryland and New York, Chris finally settled in Philadelphia, where he lives in the East Falls neighborhood with his wife Catie, a Ph.D. candidate in Temple’s Urban Education program.  He has enjoyed a variety of roles at Temple since joining the university in 2003, and in February, 2009, reunited with his first love, the CLA advising center, to serve as director.  Chris also serves as membership chair for Temple’s chapter of Phi Beta Kappa and is a proud member of the National Academic Advising Association.
 
-**Favorite Books:** _A Confederacy of Dunces_ by John Kennedy Toole, _High Fidelity_ by Nick Hornby, _Independence Day_ by Richard Ford, _The Tipping Point_ by Malcolm Gladwell,_Moneyball_by Michael Lewis and _Holidays on Ice_ by David Sedaris.<br>
+**Favorite Books:** _A Confederacy of Dunces_ by John Kennedy Toole, _High Fidelity_ by Nick Hornby, _Independence Day_ by Richard Ford, _The Tipping Point_ by Malcolm Gladwell, _Moneyball_ by Michael Lewis and _Holidays on Ice_ by David Sedaris.<br>
 **Advising Interests:** Retention, developmental advising, and student outreach initiatives.
 
 ___
@@ -55,6 +55,7 @@ Jocelyn was born and raised in Royersford PA, a suburb about forty-five minutes 
 
 **Favorite Books:** _The Glass Castle_ by Jeanette Walls, _When You Are Engulfed in Flames_ by David Sedaris<br>
 **Advising Interests:** Career Exploration and student athletes.
+
 ___
 
 ![Nicole Conley]({{site.baseurl}}/media/nicole.jpg){:.responsive-img .img-right}
@@ -64,7 +65,7 @@ ___
 
 Nicole grew up just outside of the city in Boyertown, PA. She ventured to western Pennsylvania, where she attended Indiana University of Pennsylvania (IUP) and earned her degree in Fine Arts. With a minor in Art History and major concentration in Ceramics, Nicole spent much of her time in Indiana seated at the potter’s wheel. While attending graduate school at West Chester University (WCU), Nicole worked in the WCU Career Development Center, as well as the Office of New Student Programs and Orientation. It was at WCU that she discovered her true passion: helping students navigate the exciting, yet challenging, road to college graduation. Nicole is very excited to be a part of the CLA Advising Team at Temple. When she isn’t on campus, you can find her spending time with family and friends, reading, cooking and exploring the city.
 
-**Favorite Books:** _Gone Girl_ by Gillian Flynn, _House Rules, The Storyteller, Nineteen Minutesand many more novels_ by Jodi Picoult, and _The Giver_ by Lois Lowry, _Tuesdays with Morrie_ by byMitch Albom and _The Giving Tree_ by Shel Silverstein<br>
+**Favorite Books:** _Gone Girl_ by Gillian Flynn, _House Rules, The Storyteller, Nineteen Minutesand many more novels_ by Jodi Picoult, and _The Giver_ by Lois Lowry, _Tuesdays with Morrie_ by Mitch Albom and _The Giving Tree_ by Shel Silverstein<br>
 **Advising Interests:** New Student Orientation, Major and Career Exploration, Study Abroad.
 
 ___
