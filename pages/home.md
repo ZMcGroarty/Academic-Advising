@@ -41,7 +41,7 @@ ___
     button-text="Learn More" %}
   </div>
   <div class="col m12 l4">{% include cards/card2-basic.html
-    title="Meet or Academic and Peer Advisors!"
+    title="Meet our Academic and Peer Advisors!"
     content=""
     button-link="https://develop.cla.temple.edu/academic-advising/advising-staff/"
     button-text="Learn More" %}
