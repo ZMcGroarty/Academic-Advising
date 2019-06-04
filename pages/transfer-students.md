@@ -33,4 +33,4 @@ You’ve already spent some time at college and probably have at least some idea
 As a transfer student, you have enough to worry about just with what’s happening with your existing credits and how close they bring you to graduation. So your academic advisor will also help you feel connected to the Temple and College of Liberal Arts communities, easing any other concerns that may come up. If you run into an issue with your academics, financials, campus life or anything related to college, you’ll always have someone to turn to for help in your advisor. He or she will either have a solution ready for you or will get you to the person who does.
 
 ## I’m Ready to Transfer!
-When you’re ready to transfer, please drop us a line at [215-204-7971](tel:2152047971) or [claaac@temple.edu](mailto:claaac@temple.edu) to get started.
+When you’re ready to transfer, please drop us a line at [215-204-7743](tel:2152047743) or [liberal-arts@temple.edu](mailto:liberal-arts@temple.edu) to get started.
