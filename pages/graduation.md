@@ -22,7 +22,7 @@ _**If you are also earning a certificate, you must apply separately for your cer
 August 2019 and December 2019 graduates are welcome to attend the CLA Winter Graduation Ceremony on Thursday, January 30, 2020. The ceremony will be held in the Temple Performing Arts Center at 3:00 p.m. Details and ticket information will be emailed to students in October. 
 
 ## Latin Honors
-To be eligible for Latin Honors, **at least 60 credits must be completed at Temple University** and the final cumulative GPA must meet the qualifying standards. The qualifying cumulative GPA standards for CLA students graduating in August 2019, December 2019, and May 2019 are as follows:
+To be eligible for Latin Honors, **at least 60 credits must be completed at Temple University** and the final cumulative GPA must meet the qualifying standards. The qualifying cumulative GPA standards for CLA students graduating in August 2020, December 2020, and May 2020 are as follows:
 
 - Summa Cum Laude = at least a 3.95 cumulative GPA
 - Magna Cum Laude = at least a 3.90 cumulative GPA
