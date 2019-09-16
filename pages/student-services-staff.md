@@ -46,15 +46,15 @@ Originally from Mt. Sterling, Kentucky, Keesa comes to Philadelphia by way of Oh
 
 ___
 
-![Jocelyn Tutrani Henssler]({{site.baseurl}}/media/Jocelyn Henssler (2).jpg){:.responsive-img .img-right}
-**[Jocelyn Tutrani Henssler, Assistant Director](mailto:jocelyn.tutrani@temple.edu)**<br>
-**B.A. Lock Haven University, , Journalism and Mass Communications**<br>
-**M.Ed. Widener University, Student Personnel Services & Counseling in Higher Education**<br>
+![Hannah McEwen]({{site.baseurl}}/media/Hannah McEwen.jpg){:.responsive-img .img-right}
+**[Hannah McEwen](mailto:)**<br>
+**B.S., St. John’s University, Education, English Concentration**<br>
+**M.S., SUNY Buffalo State College, Multidisciplinary Studies, Educational Leadership Concentration**<br>
 
-Jocelyn was born and raised in Royersford PA, a suburb about forty-five minutes outside of Philadelphia. Jocelyn attended Lock Haven University where she studied Journalism and Mass Communications and received a four year Athletic Scholarship as a member of the universities’ Division II Softball team. While attending graduate school at Widener University, Jocelyn also worked in Student Leadership & Activities at Saint Joseph’s University and completed a graduate internship at West Chester University in the Career Development Center. She then moved on to Cabrini College in Radnor, PA where she was an Academic Advisor and Career Counselor. After experiencing multiple facets of higher education, Jocelyn came to Temple to join the CLA Advising team. Jocelyn is excited to work with Temple’s diverse student population and finds great reward in assisting students with their career exploration and journey to graduation. In Jocelyn’s free time, she enjoys participating in intramural sports, spending time with friends and family, reading, and attending sporting events.
+Hannah is a native of Lancaster, PA. She began her professional career coordinating youth programs for two different non-profit organizations in her hometown. Prior to joining the CLA Advising Team, Hannah lived and worked in the Middle East where she taught and advised high school students. During her time abroad, she traveled to over 20 countries. Some of her favorite places include Sri Lanka, Turkey, and the Netherlands. She is happy to be back at home and looks forward to building connections with the students at Temple.
 
-**Favorite Books:** _The Glass Castle_ by Jeanette Walls, _When You Are Engulfed in Flames_ by David Sedaris<br>
-**Advising Interests:** Career Exploration and student athletes.
+**Favorite Books:** _Honour_ by Elif Shafak, _Shanghai Girls_ by Lisa See, _The Nightingale_ by Kristin Hannah<br>
+**Advising Interests:** International Students, Transfer Students, ROTC and Veterans, Study Abroad, Scholarships and Awards
 
 ___
 
