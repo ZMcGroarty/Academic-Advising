@@ -46,18 +46,6 @@ Originally from Mt. Sterling, Kentucky, Keesa comes to Philadelphia by way of Oh
 
 ___
 
-![Hannah McEwen]({{site.baseurl}}/media/Hannah McEwen.jpg){:.responsive-img .img-right}
-**[Hannah McEwen](mailto:)**<br>
-**B.S., St. John’s University, Education, English Concentration**<br>
-**M.S., SUNY Buffalo State College, Multidisciplinary Studies, Educational Leadership Concentration**<br>
-
-Hannah is a native of Lancaster, PA. She began her professional career coordinating youth programs for two different non-profit organizations in her hometown. Prior to joining the CLA Advising Team, Hannah lived and worked in the Middle East where she taught and advised high school students. During her time abroad, she traveled to over 20 countries. Some of her favorite places include Sri Lanka, Turkey, and the Netherlands. She is happy to be back at home and looks forward to building connections with the students at Temple.
-
-**Favorite Books:** _Honour_ by Elif Shafak, _Shanghai Girls_ by Lisa See, _The Nightingale_ by Kristin Hannah<br>
-**Advising Interests:** International Students, Transfer Students, ROTC and Veterans, Study Abroad, Scholarships and Awards
-
-___
-
 ![Nicole Conley]({{site.baseurl}}/media/nicole.jpg){:.responsive-img .img-right}
 **[Nicole Conley, Assistant Director for Transfer Services](mailto:nicole.conley@temple.edu)**<br>
 **B.A. Temple University, English - Creative Writing**<br>
