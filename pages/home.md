@@ -16,7 +16,7 @@ promotion-table: true
 The Center for Academic Advising and Professional Development counsels students on issues relating to both classroom and career. We can help you navigate your curriculum, choose a major, explore career opportunities and determine your post-graduation plans.
 
 ## Make an Appointment
-There are three ways for you to schedule an academic advising appointment if you are a Main campus student, see below for details:
+There are three ways for you to schedule an academic advising appointment if you are a **Main campus student**, see below for details:
 
 ### The Online Advising Appointment System
 - Go to TUPortal
