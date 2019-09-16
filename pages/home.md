@@ -16,20 +16,23 @@ promotion-table: true
 The Center for Academic Advising and Professional Development counsels students on issues relating to both classroom and career. We can help you navigate your curriculum, choose a major, explore career opportunities and determine your post-graduation plans.
 
 ## Make an Appointment
-If you would like to meet with an advisor, call [215-204-7971](tel:2152047971) to make an appointment.
+There are three ways for you to schedule an academic advising appointment if you are a Main campus student, see below for details:
 
-Same day academic appointments are available on a first-come, first-served basis on the main campus. At the beginning of the semester—during priority registration and new student orientations—many students utilize our services, so it pays to plan ahead. During non-peak times, you may schedule an appointment as much as five business days in advance.
+### The Online Advising Appointment System
+- Go to TUPortal
+- Click on your **Student Tools** tab
+- Scroll down the center column & select **"Schedule"** under the "Appointment System" box
+- Under the **"Appointment Type"** drop-down menu, select what type of appointment you are attempting to book;
+--To book a same day appointment, select **"Same Day."** The system will begin accepting Same Day appointment requests at 7:00 am. Appointments may begin as early as 8:30 am. 
+--To book a future appointment, select **"Future."** Future appointments maybe booked up to five business days in advance.
+- Follow the steps and make sure to click **"schedule appointment"**
+You will receive a confirmation email with the details of your appointment. 
 
-We also offer academic advising at the Ambler and Center City (TUCC) campuses. Please call [267-468-8200](tel:2674688200) to schedule an appointment at Ambler. If you wish to be advised at TUCC, please email [Paula Robison](mailto:Paula.Robison@temple.edu).
+### Calling the Advising Center
+You may call us at [215-204-7971](tel:2152047971) to schedule an academic advising appointment on the day you would like to meet with an academic advisor. 
 
-## Be Prepared
-Before your academic advising appointment, please check your DARS to review completed and unfulfilled requirements:
-
-- Go to: [dars.temple.edu](http://dars.temple.edu/)
-- Log in, using your TU username and password
-- Click “Run Audit”
-- A history of previous DARS Audits will appear, select the most recent one (the one on top) by clicking “View Audit”
-- Your current DARS Audit will appear
+### Stop by the Advising Center
+You may come in to see us to schedule an academic advising appointment on the day you would like to meet with an academic advisor. 
 
 ___
 
