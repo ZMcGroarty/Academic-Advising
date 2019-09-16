@@ -56,7 +56,7 @@ Beth was raised Alpharetta, GA. Growing up, she had many experiences traveling a
 
 ___
 
-![Hannah McEwen]({{site.baseurl}}/media/Hannah McEwen .jpg){:.responsive-img .img-right}
+![Hannah McEwen]({{site.baseurl}}/media/Hannah McEwen.jpg){:.responsive-img .img-right}
 **[Hannah McEwen](mailto:)**<br>
 **B.S., St. John’s University, Education, English Concentration**<br>
 **M.S., SUNY Buffalo State College, Multidisciplinary Studies, Educational Leadership Concentration**<br>
