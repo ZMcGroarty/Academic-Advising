@@ -23,8 +23,8 @@ There are three ways for you to schedule an academic advising appointment if you
 - Click on your **Student Tools** tab
 - Scroll down the center column & select **"Schedule"** under the "Appointment System" box
 - Under the **"Appointment Type"** drop-down menu, select what type of appointment you are attempting to book;<br>
- - To book a same day appointment, select **"Same Day."** The system will begin accepting Same Day appointment requests at 7:00 am. Appointments may begin as early as 8:30 am.<br> 
- - To book a future appointment, select **"Future."** Future appointments maybe booked up to five business days in advance.
+ -- To book a same day appointment, select **"Same Day."** The system will begin accepting Same Day appointment requests at 7:00 am. Appointments may begin as early as 8:30 am.<br> 
+ -- To book a future appointment, select **"Future."** Future appointments maybe booked up to five business days in advance.
 - Follow the steps and make sure to click **"schedule appointment"**
 You will receive a confirmation email with the details of your appointment. 
 
