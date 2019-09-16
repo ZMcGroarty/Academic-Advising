@@ -19,7 +19,7 @@ The Center for Academic Advising and Professional Development counsels students 
 There are three ways for you to schedule an academic advising appointment if you are a **Main campus student**, see below for details:
 
 ### The Online Advising Appointment System
-- Go to TUPortal
+- Go to [TUPortal](https://fim.temple.edu/idp/profile/cas/login;jsessionid=B615BC9901343362C6E4DCF7EB5F68A6?execution=e1s1)
 - Click on your **Student Tools** tab
 - Scroll down the center column & select **"Schedule"** under the "Appointment System" box
 - Under the **"Appointment Type"** drop-down menu, select what type of appointment you are attempting to book;
