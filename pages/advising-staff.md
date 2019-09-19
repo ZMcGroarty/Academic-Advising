@@ -96,7 +96,7 @@ ___
 
 Ramon is a native of the Pocono’s in Northeastern Pennsylvania. Prior to joining Temple University, Ramon worked at Elizabethtown College in the Office of Academic Advising to advise first-year, first-generation college students. Ramon is also the President and Founder of a non-profit based in Lancaster, Pennsylvania that helps first-generation college seeking students to apply and identify colleges and universities that best meet their needs. He is currently pursuing his doctorate in higher education at Temple University. When he is not at work or in the classroom, Ramon enjoys spending time with family, working-out, learning acro-yoga, and going to the beach. Ramon is excited to help students discover more about themselves and their full potential throughout their academic journey at Temple University.  
 
-**Favorite Books:** _The Great Gatsby_ by F. Scott Fitzgerald, _The Giver_ by Lois Lowry
+**Favorite Books:** _The Great Gatsby_ by F. Scott Fitzgerald, _The Giver_ by Lois Lowry<br>
 **Advising Interests:** First-generation student advising, ROTC and Veterans, Study Abroad affordability, and career exploration
 
 ___
