@@ -36,6 +36,27 @@ Xiomara is a native of Puerto Rico but was raised in South Jersey. Xiomara recei
 
 ___
 
+**Shelby Haverson**<br>
+**B.A., Wesleyan University, Art with a Film Studies concentration**<br>
+**M.S., International Institute for Restorative Practices**<br>
+**J.D., Georgetown University**<br>
+
+Shelby is a native of Philadelphia. She comes to academic advising after several decades of practicing law with a focus on employment and general business law. Throughout her first career, Shelby worked with non-profits and youth programs and worked as college advisor in a local public school. Shelby enjoys the chance to help students identify their strengths and meet life challenges. Outside of Temple, Shelby can be found watching movies, reading, doing yoga, spending time with her wonderful family and friends or just thinking quietly.
+
+**Favorite Books:** _Independent People_ by Halldor Laxness, _The Magician’s Assistant_ by Ann Patchett, _Wide Sargasso Sea_ by Jean Rhys<br>
+
+___
+
+**Mikel Houston **<br>
+**B.A., Millersville University, Communication Studies**<br>
+**M.S., West Chester University, Higher Education Policy in Student Affairs**<br>
+
+Mikel is a Philadelphia native who graduated from William L. Sayre High School.  He started his career journey in higher education as a peer mentor for the Millersville Scholars Program.  After completing his undergraduate degree in Communication Studies from Millersville University, Mikel spent a year serving as a youth advocate for young men on juvenile probation while also working as a direct support professional for adults with intellectual disabilities.  He then earned his Master’s degree in Higher Education Policy in Student Affairs from West Chester University. During his time at West Chester, Mikel worked as a graduate assistant.  In this role, he mentored student-athletes and realized this true passion for working in higher education.  In his spare time, Mikel enjoys working out at the gym, watching sports, and spending time with his loved ones. Mikel is excited to have the opportunity to advise students in the College of Liberal Arts at Temple University. 
+
+**Favorite Quote:** _"It always seems impossible until it is done_.” -Nelson Mandela<br>
+**Advising Interests:** First-generation college students, minority student success, academic support for student athletes, and holistic advising
+___
+
 **[Nia Bayete Jackson](mailto:nia.jackson@temple.edu)**<br>
 **B.A. Washington University, Psychology and African-American Studies**<br>
 
@@ -65,6 +86,17 @@ Hannah is a native of Lancaster, PA. She began her professional career coordinat
 
 **Favorite Books:** _Honour_ by Elif Shafak, _Shanghai Girls_ by Lisa See, _The Nightingale_ by Kristin Hannah<br>
 **Advising Interests:** International Students, Transfer Students, ROTC and Veterans, Study Abroad, Scholarships and Awards
+
+___
+
+**Ramon R. Rios III**<br>
+**B.S., Elizabethtown College, Social Studies Secondary Education**<br>
+**M.S.Ed., University of Pennsylvania, Higher Education**<br>
+
+Ramon is a native of the Pocono’s in Northeastern Pennsylvania. Prior to joining Temple University, Ramon worked at Elizabethtown College in the Office of Academic Advising to advise first-year, first-generation college students. Ramon is also the President and Founder of a non-profit based in Lancaster, Pennsylvania that helps first-generation college seeking students to apply and identify colleges and universities that best meet their needs. He is currently pursuing his doctorate in higher education at Temple University. When he is not at work or in the classroom, Ramon enjoys spending time with family, working-out, learning acro-yoga, and going to the beach. Ramon is excited to help students discover more about themselves and their full potential throughout their academic journey at Temple University.  
+
+**Favorite Books:** _The Great Gatsby_ by F. Scott Fitzgerald, _The Giver_ by Lois Lowry
+**Advising Interests:** First-generation student advising, ROTC and Veterans, Study Abroad affordability, and career exploration
 
 ___
 
