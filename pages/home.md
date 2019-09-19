@@ -29,7 +29,7 @@ There are three ways for you to schedule an academic advising appointment if you
 You will receive a confirmation email with the details of your appointment. 
 
 ### Calling the Advising Center
-You may call us at [215-204-7971](tel:2152047971) to schedule an academic advising appointment on the day you would like to meet with an academic advisor. 
+You may call us at [215-204-7971](tel:2152047971) to schedule an academic advising appointment on the day you would like to meet with an academic advisor. Ambler campus students can call [267-468-8200](tel:2674688200) to make an appointment. Visit the Ambler Campus [website](https://ambler.temple.edu/academics/advising-and-support/current-students) for more details. 
 
 ### Stop by the Advising Center
 You may come in to see us to schedule an academic advising appointment on the day you would like to meet with an academic advisor. 
