@@ -55,6 +55,7 @@ Mikel is a Philadelphia native who graduated from William L. Sayre High School. 
 
 **Favorite Quote:** _"It always seems impossible until it is done_.” -Nelson Mandela<br>
 **Advising Interests:** First-generation college students, minority student success, academic support for student athletes, and holistic advising
+
 ___
 
 **[Nia Bayete Jackson](mailto:nia.jackson@temple.edu)**<br>
