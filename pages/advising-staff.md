@@ -25,8 +25,8 @@ ___
 
 ![Xiomara I. Gonzalez]({{site.baseurl}}/media/Xiomara Gonzalez.jpg){:.responsive-img .img-right}
 **[Xiomara I. Gonzalez](mailto:xiomara.gonzalez@temple.edu)**<br>
-**B.A., Rowan University**<br>
-**History M.A., Counseling in Educational Settings- Higher Education Track**<br>
+**B.A., Rowan University, History**<br>
+**M.A., Counseling in Educational Settings- Higher Education Track**<br>
 
 Xiomara is a native of Puerto Rico but was raised in South Jersey. Xiomara received her Bachelor of Arts in History and Master of Arts in Counseling in Educational Settings from Rowan University. As a graduate student, Xiomara worked as a Graduate Assistant for the Academic Success Center, where she fell in love with higher education. Once Xiomara graduated with her Master’s degree, she joined the University Advising Center and the Rohrer College of Business as an Academic Advisor at Rowan University. Xiomara enjoys thrifting, going to the movies, and spending time with her loved ones. Xiomara is excited to have the opportunity to continue to help students succeed and grow academically through her role in the College of Liberal Arts.
 
