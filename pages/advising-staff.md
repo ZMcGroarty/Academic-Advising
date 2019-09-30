@@ -101,16 +101,16 @@ Ramon is a native of the Pocono’s in Northeastern Pennsylvania. Prior to joini
 
 ___
 
-![Liz Truitt]({{site.baseurl}}/media/cropped Liz Truitt.jpg){:.responsive-img .img-right}
+![Liz Truitt]({{site.baseurl}}/media/editedLiz.jpg){:.responsive-img .img-right}
 **[Liz Truitt](mailto:elizabeth.truitt@temple.edu)**<br>
 **B.A., Boston College, Communication**<br>
 **M.Ed., Harvard University, Higher Education Administration**<br>
 
-A northern New Jersey native, Liz is new to the city of Philadelphia after having lived in the Boston area for the last 11 years. Liz attended Boston College for her undergraduate degree in Communication. While at BC, Liz studied abroad in Madrid, Spain, which was one of the most memorable and formative experiences of her college years, and she loves helping students plan for study abroad opportunities. After graduating, she first worked in educational travel and then returned to campus life to work in undergraduate student affairs and student conduct at Harvard College. While at Harvard, Liz earned her M.Ed in Higher Education Administration at the Harvard Graduate School of Education. When Liz isn’t at work, you’ll likely find her spending time with family, indoor cycling, working on home-improvement projects, sneaking away to the Jersey shore, and exploring her new surroundings. Liz is thrilled to be a part of the Temple community and looks forward to helping students reflect on their academic and professional goals.
+A northern New Jersey native, Liz moved to Philadelphia after spending more than a decade in the Boston area. Liz attended Boston College for her undergraduate degree in Communication. While at BC, Liz studied abroad in Madrid, Spain, which was one of the most memorable and formative experiences of her college years, and she hopes all students will consider studying abroad. After graduating, she first worked in educational travel and then returned to campus life to work in undergraduate student affairs and student conduct at Harvard College. While at Harvard, Liz earned her M.Ed in Higher Education Administration at the Harvard Graduate School of Education. When Liz isn’t at work, you’ll likely find her spending time with family and working on home-improvement projects. Liz is thrilled to be a part of the Temple community and looks forward to helping students reflect on their academic and professional goals.
 
-**Favorite Books:** _College: What it Was, Is, and Should Be_ by Andrew Delbanco, _Pride and Prejudice_ by Jane Austen, _The Giver_ by Lois Lowry, _The Happiness Project_ by Gretchen Rubin
+**Favorite Books:** _Pride and Prejudice_ by Jane Austen, _The Giver_ by Lois Lowry, _The Happiness Project_ by Gretchen Rubin
 
-**Advising Interests:** Academic Planning and Goal Setting, Career Exploration and Professional Development for College Students, Developmental Advising, Study Abroad
+**Advising Interests:** Academic planning, goal setting, and career exploration
 
 ___
 
