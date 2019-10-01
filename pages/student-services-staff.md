@@ -22,7 +22,7 @@ Hailing from the same sleepy little town as Pulitzer Prize-winning author Conrad
 
 ___
 
-![Anar P. Khandvala]({{site.baseurl}}/media/anar.jpg){:.responsive-img .img-right}
+![Anar P. Khandvala]({{site.baseurl}}/media/resizedanar2019.jpg){:.responsive-img .img-right}
 **[Anar P. Khandvala, Associate Director](mailto:anar.khandvala@temple.edu)**<br>
 **B.A. Temple University, Psychology**<br>
 **M.Ed. Temple University, Educational Administration**<br>
