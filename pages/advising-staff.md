@@ -47,7 +47,8 @@ Shelby is a native of Philadelphia. She comes to academic advising after several
 
 ___
 
-**Mikel Houston**<br>
+![Mikel Houston]({{site.baseurl}}/media/resizedmikelhouston.jpg){:.responsive-img .img-right}
+**[Mikel Houston](mailto:mikel.houston@temple.edu)**<br>
 **B.A., Millersville University, Communication Studies**<br>
 **M.S., West Chester University, Higher Education Policy in Student Affairs**<br>
 
