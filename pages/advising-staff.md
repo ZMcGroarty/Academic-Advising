@@ -91,7 +91,8 @@ Hannah is a native of Lancaster, PA. She began her professional career coordinat
 
 ___
 
-**Ramon R. Rios III**<br>
+![Ramon R. Rios III]({{site.baseurl}}/media/resizedramonrios.jpg){:.responsive-img .img-right}
+**[Ramon R. Rios III](mailto:ramon.rios@temple.edu)**<br>
 **B.S., Elizabethtown College, Social Studies Secondary Education**<br>
 **M.S.Ed., University of Pennsylvania, Higher Education**<br>
 
