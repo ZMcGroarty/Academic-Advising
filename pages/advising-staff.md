@@ -91,7 +91,7 @@ Hannah is a native of Lancaster, PA. She began her professional career coordinat
 
 ___
 
-![Melanie Reichwald]({{site.baseurl}}/media/resizedmelanie.jpg){:.responsive-img .img-right}
+![Melanie Reichwald]({{site.baseurl}}/media/croppedmelanie.jpg){:.responsive-img .img-right}
 **[Melanie Reichwald](mailto:melanie.reichwald@temple.edu)**<br>
 **B.A., SUNY Purchase College, Literature & Journalism**<br>
 **M.A. / M.A.T., The University of Iowa, English / English Education**<br>
@@ -100,6 +100,7 @@ Melanie grew up in the humble city of Rochester, NY. She attended SUNY Purchase 
 
 **Favorite Books:** _Moby-Dick_ by Herman Melville, _Arcadia_ by Tom Stoppard, _Their Eyes Were Watching God_ by Zora Neale Hurston<br>
 **Advising Interests:** First-generation students, international students, study abroad, graduate school advising, ROTC
+
 ___
 
 ![Ramon R. Rios III]({{site.baseurl}}/media/resizedramonrios.jpg){:.responsive-img .img-right}
