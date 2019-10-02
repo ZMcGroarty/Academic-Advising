@@ -91,8 +91,8 @@ Hannah is a native of Lancaster, PA. She began her professional career coordinat
 
 ___
 
-![Melanie Reichwald]({{site.baseurl}}/media/){:.responsive-img .img-right}
-**[Melanie Reichwald](mailto:ramon.rios@temple.edu)**<br>
+![Melanie Reichwald]({{site.baseurl}}/media/resizedmelanie.jpg){:.responsive-img .img-right}
+**[Melanie Reichwald](mailto:melanie.reichwald@temple.edu)**<br>
 **B.A., SUNY Purchase College, Literature & Journalism**<br>
 **M.A. / M.A.T., The University of Iowa, English / English Education**<br>
 
