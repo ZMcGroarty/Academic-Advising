@@ -91,6 +91,17 @@ Hannah is a native of Lancaster, PA. She began her professional career coordinat
 
 ___
 
+![Melanie Reichwald]({{site.baseurl}}/media/){:.responsive-img .img-right}
+**[Melanie Reichwald](mailto:ramon.rios@temple.edu)**<br>
+**B.A., SUNY Purchase College, Literature & Journalism**<br>
+**M.A. / M.A.T., The University of Iowa, English / English Education**<br>
+
+Melanie grew up in the humble city of Rochester, NY. She attended SUNY Purchase College, outside of NYC, for her undergraduate studies, and her love for the written word pushed her to graduate with a double major in literature and journalism. Not long after graduation, she moved to Iowa City, IA to pursue graduate studies, and eventually left The University of Iowa with an MA in English literature and an MAT in English education. These degrees propelled Melanie to India, where she spent six years teaching high school English to students from all over the world at a small international school in the foothills of the Himalayas. Once she returned to the U.S., Melanie transitioned from the classroom to the advising office, where she has the pleasure of serving Temple’s lovely students.  
+
+**Favorite Books:** _Moby-Dick_ by Herman Melville, _Arcadia_ by Tom Stoppard, _Their Eyes Were Watching God_ by Zora Neale Hurston<br>
+**Advising Interests:** First-generation students, international students, study abroad, graduate school advising, ROTC
+___
+
 ![Ramon R. Rios III]({{site.baseurl}}/media/resizedramonrios.jpg){:.responsive-img .img-right}
 **[Ramon R. Rios III](mailto:ramon.rios@temple.edu)**<br>
 **B.S., Elizabethtown College, Social Studies Secondary Education**<br>
