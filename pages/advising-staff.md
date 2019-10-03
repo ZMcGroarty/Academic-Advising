@@ -32,7 +32,7 @@ Xiomara is a native of Puerto Rico but was raised in South Jersey. Xiomara recei
 
 **Favorite Quotes:** _“Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.” -Harriet Tubman "I've never been content with the status quo. To my mind, satisfaction has always been the enemy of progress." -Henry M. Rowan_
 
-**Advising Interests:** First generation students, athletes, and study abroad.
+**Advising Interests:** First-generation Students, Athletes, and Study Abroad
 
 ___
 
@@ -55,7 +55,7 @@ ___
 Mikel is a Philadelphia native who graduated from William L. Sayre High School. He started his career journey in higher education as a peer mentor for the Millersville Scholars Program. After completing his undergraduate degree in Communication Studies from Millersville University, Mikel spent a year serving as a youth advocate for young men on juvenile probation while also working as a direct support professional for adults with intellectual disabilities. He then earned his Master’s degree in Higher Education Policy in Student Affairs from West Chester University. During his time at West Chester, Mikel worked as a graduate assistant. In this role, he mentored student-athletes and realized his true passion for working in higher education. In his spare time, Mikel enjoys working out at the gym, watching sports, and spending time with his loved ones. Mikel is excited to have the opportunity to advise students in the College of Liberal Arts at Temple University.
 
 **Favorite Quote:** _"It always seems impossible until it is done_.” -Nelson Mandela<br>
-**Advising Interests:** First-generation college students, minority student success, academic support for student athletes, and holistic advising
+**Advising Interests:** First-generation College Students, Minority Student Success, Academic Support for Student Athletes, and Holistic Advising
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 Nia was born in Los Angeles, California, grew up in Philadelphia, Pennsylvania and obtained her Bachelor’s degree from Washington University in St. Louis, Missouri. She travelled abroad as a student to Turkey and Spain. She has worked in Advertising, Customer Service, for online search engines/retailers, in administrative support, as an Elementary School teacher and now as an Academic Advisor. Nia has truly maximized her Liberal Arts education and encourages students to explore all possible avenues that align with their professional and personal interests. She can often be heard telling students: _“It is ok to not yet know which career field you would like to enter. It is equally ok if you thought you knew what you wanted to do with your life, but then changed your mind. This experience is quite common. Discovering who you are and what you want are all a part of the college journey.”_
 
-**Advising Interests:** Freshman, Sophomore and Transfer students, non-traditional students and major/minor/career exploration
+**Advising Interests:** Freshman, Sophomore and Transfer students, Non-Traditional Students and Major/Minor/Career Exploration
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 Timothy’s goal as an Academic Advisor is to support students in realizing and fulfilling their own educational empowerment. As a first-generation and non-traditional student himself, he values and celebrates the unique path of each and every student. He is a strong advocate for a globalized education, having visited over 35 countries, and served as an International Student Advisor for several years before starting at Temple.  After living on the West Coast, Timothy is thrilled to be back in Philadelphia.  In this spare time he’s likely rock climbing, hiking, eating good food, or in a yoga class.
 
-**Advising Interests:** First-Generation Students, Non-traditional Students, Transfer Students, International Students
+**Advising Interests:** First-generation Students, Non-traditional Students, Transfer Students, International Students
 
 ___
 
@@ -110,7 +110,7 @@ ___
 Melanie grew up in the humble city of Rochester, NY. She attended SUNY Purchase College, outside of NYC, for her undergraduate studies, and her love for the written word pushed her to graduate with a double major in literature and journalism. Not long after graduation, she moved to Iowa City, IA to pursue graduate studies, and eventually left The University of Iowa with an MA in English literature and an MAT in English education. These degrees propelled Melanie to India, where she spent six years teaching high school English to students from all over the world at a small international school in the foothills of the Himalayas. Once she returned to the U.S., Melanie transitioned from the classroom to the advising office, where she has the pleasure of serving Temple’s lovely students.  
 
 **Favorite Books:** _Moby-Dick_ by Herman Melville, _Arcadia_ by Tom Stoppard, _Their Eyes Were Watching God_ by Zora Neale Hurston<br>
-**Advising Interests:** First-generation students, international students, study abroad, graduate school advising, ROTC
+**Advising Interests:** First-generation Students, International Students, Study Abroad, Graduate School Advising, ROTC
 
 ___
 
@@ -122,7 +122,7 @@ ___
 Ramon is a native of the Pocono’s in Northeastern Pennsylvania. Prior to joining Temple University, Ramon worked at Elizabethtown College in the Office of Academic Advising to advise first-year, first-generation college students. Ramon is also the President and Founder of a non-profit based in Lancaster, Pennsylvania that helps first-generation college seeking students to apply and identify colleges and universities that best meet their needs. He is currently pursuing his doctorate in higher education at Temple University. When he is not at work or in the classroom, Ramon enjoys spending time with family, working-out, learning acro-yoga, and going to the beach. Ramon is excited to help students discover more about themselves and their full potential throughout their academic journey at Temple University.  
 
 **Favorite Books:** _The Great Gatsby_ by F. Scott Fitzgerald, _The Giver_ by Lois Lowry<br>
-**Advising Interests:** First-generation student advising, ROTC and Veterans, Study Abroad affordability, and career exploration
+**Advising Interests:** First-generation Student Advising, ROTC and Veterans, Study Abroad affordability, and Career Exploration<br>
 
 ___
 
@@ -133,9 +133,8 @@ ___
 
 A northern New Jersey native, Liz moved to Philadelphia after spending more than a decade in the Boston area. Liz attended Boston College for her undergraduate degree in Communication. While at BC, Liz studied abroad in Madrid, Spain, which was one of the most memorable and formative experiences of her college years, and she hopes all students will consider studying abroad. After graduating, she first worked in educational travel and then returned to campus life to work in undergraduate student affairs and student conduct at Harvard College. While at Harvard, Liz earned her M.Ed in Higher Education Administration at the Harvard Graduate School of Education. When Liz isn’t at work, you’ll likely find her spending time with family and working on home-improvement projects. Liz is thrilled to be a part of the Temple community and looks forward to helping students reflect on their academic and professional goals.
 
-**Favorite Books:** _Pride and Prejudice_ by Jane Austen, _The Giver_ by Lois Lowry, _The Happiness Project_ by Gretchen Rubin
-
-**Advising Interests:** Academic planning, goal setting, and career exploration
+**Favorite Books:** _Pride and Prejudice_ by Jane Austen, _The Giver_ by Lois Lowry, _The Happiness Project_ by Gretchen Rubin<br>
+**Advising Interests:** Academic Planning, Goal Setting, and Career Exploration<br>
 
 ___
 
@@ -147,10 +146,8 @@ ___
 
 Dr. Mark Walker is proud to be a gay immigrant to the US from Britain, born and raised in East London. He had gone through three different visas (J-1, F-1 and K-1) before moving to the United States in March 2016. He credits Temple alum Edie Windsor for making it possible; her Supreme Court victory in 2013 allowed his now-husband to finally sponsor him for family immigration. A successful ‘Ph.D. survivor’, Mark spent five years doing all the usual doctoral student activities: reading more than he thought possible, researching at a range of archives and libraries handling documents that were hundreds of years old and sometimes too unique to even touch, attending and presenting at academic conferences, and teaching. He began by teaching American students about European history and then switched to teaching European students about American history. In 2016 he completed and successfully defended his magnum opus ‘The Melancholy Pompous Sight’: Royal Deaths and the Politics of Ritual in the Late Stuart Monarchy, c. 1685-1714, and received his Ph.D. in History from the University of Essex. After moving to Philadelphia, he briefly taught at Drexel University before coming to Temple in 2017.
 
-**Favorite Quote:** _“Bart, don’t make fun of graduate students. They just made a terrible life choice.”_ - Marge Simpson
-
-**Favorite Books:** _Hero_ by Perry Moore, _Simon vs. The Homo-Sapiens Agenda_ by Becky Albertalli
-
-**Advising Interests:** International students, History majors/minors, graduate school planning, academic careers, LGBT students
+**Favorite Quote:** _“Bart, don’t make fun of graduate students. They just made a terrible life choice.”_ - Marge Simpson<br>
+**Favorite Books:** _Hero_ by Perry Moore, _Simon vs. The Homo-Sapiens Agenda_ by Becky Albertalli<br>
+**Advising Interests:** International Students, History Majors/Minors, Graduate School Planning, Academic Careers, LGBT Students<br>
 
 ___
