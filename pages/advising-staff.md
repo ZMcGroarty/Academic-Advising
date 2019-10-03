@@ -79,6 +79,17 @@ Beth was raised Alpharetta, GA. Growing up, she had many experiences traveling a
 
 ___
 
+![Timothy Madera]({{site.baseurl}}/media/resizedtimmadera.jpg){:.responsive-img .img-right}
+**[Timothy Madera](mailto:t.madera@temple.edu)**<br>
+**B.A. San Francisco State University, International Relations**<br>
+**M.A. New York University, International Education**<br>
+
+Timothy’s goal as an Academic Advisor is to support students in realizing and fulfilling their own educational empowerment. As a first-generation and non-traditional student himself, he values and celebrates the unique path of each and every student. He is a strong advocate for a globalized education, having visited over 35 countries, and served as an International Student Advisor for several years before starting at Temple.  After living on the West Coast, Timothy is thrilled to be back in Philadelphia.  In this spare time he’s likely rock climbing, hiking, eating good food, or in a yoga class.
+
+**Advising Interests:** First-Generation Students, Non-traditional Students, Transfer Students, International Students
+
+___
+
 ![Hannah McEwen]({{site.baseurl}}/media/Hannah McEwen .jpg){:.responsive-img .img-right}
 **[Hannah McEwen](mailto:)**<br>
 **B.S., St. John’s University, Education, English Concentration**<br>
