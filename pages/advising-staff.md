@@ -138,7 +138,7 @@ A northern New Jersey native, Liz moved to Philadelphia after spending more than
 
 ___
 
-![Dr. Mark Walker, Ph.D.]({{site.baseurl}}/media/Mark Walker.jpg){:.responsive-img .img-right}
+![Dr. Mark Walker, Ph.D.]({{site.baseurl}}/media/resizedmarkwalker.jpg){:.responsive-img .img-right}
 **[Dr. Mark Walker, Ph.D.](mailto:mark.walker0002@temple.edu)**<br>
 **BA (Hons) History, University of Essex (2009)**<br>
 **MA History, Old Dominion University (2011)**<br>
