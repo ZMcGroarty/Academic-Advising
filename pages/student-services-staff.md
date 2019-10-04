@@ -48,7 +48,7 @@ ___
 
 ![Nicole Conley]({{site.baseurl}}/media/nicole.jpg){:.responsive-img .img-right}
 **[Nicole Conley, Assistant Director for Transfer Services](mailto:nicole.conley@temple.edu)**<br>
-**B.A. Temple University, English - Creative Writing**<br>
+**B.F.A., Indiana University of Pennsylvania, Art Studio - Ceramics**<br>
 **M.S. West Chester University, Higher Education Counseling and Student Affairs**<br>
 
 Nicole grew up just outside of the city in Boyertown, PA. She ventured to western Pennsylvania, where she attended Indiana University of Pennsylvania (IUP) and earned her degree in Fine Arts. With a minor in Art History and major concentration in Ceramics, Nicole spent much of her time in Indiana seated at the potter’s wheel. While attending graduate school at West Chester University (WCU), Nicole worked in the WCU Career Development Center, as well as the Office of New Student Programs and Orientation. It was at WCU that she discovered her true passion: helping students navigate the exciting, yet challenging, road to college graduation. Nicole is very excited to be a part of the CLA Advising Team at Temple. When she isn’t on campus, you can find her spending time with family and friends, reading, cooking and exploring the city.
