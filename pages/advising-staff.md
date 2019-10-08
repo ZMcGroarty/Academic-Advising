@@ -23,7 +23,7 @@ Tiffany was raised in Fort Washington, Maryland and is a graduate from Temple Un
 
 ___
 
-![Xiomara I. Gonzalez]({{site.baseurl}}/media/Xiomara Gonzalez.jpg){:.responsive-img .img-right}
+![Xiomara I. Gonzalez]({{site.baseurl}}/media/croppedxiomaragonzalez.jpg){:.responsive-img .img-right}
 **[Xiomara I. Gonzalez](mailto:xiomara.gonzalez@temple.edu)**<br>
 **B.A., Rowan University, History**<br>
 **M.A., Counseling in Educational Settings- Higher Education Track**<br>
