@@ -13,11 +13,11 @@ Our knowledgeable and dedicated team of academic advisors will be with you from 
 
 ___
 
-![Tiffany Galloway]({{site.baseurl}}/media/Tiffany Galloway.jpg){:.responsive-img .img-right}
+![Tiffany Galloway]({{site.baseurl}}/media/croppedtiffanygalloway2019.jpg){:.responsive-img .img-right}
 **[Tiffany Galloway](mailto:tiffanygalloway@temple.edu)**<br>
 **B.A. Temple University, English - Creative Writing**<br>
 
-Tiffany was raised in Fort Washington, Maryland and is a graduate from Temple University’s College of Liberal Arts. She earned her BA in English with a Concentration in Creative Writing. She is thrilled to come back to CLA as an Academic Advisor. While a student, Tiffany was an Owl Ambassador, a Peer Advisor for CLA, and studied abroad at the university’s campus in Rome, Italy. She still raves about the amazing culture, pasta, and gelato she enjoyed while there. Currently, Tiffany is in the Masters of Social Work program at Temple, with a clinical concentration focusing on mental health. In her spare time, Tiffany enjoys exploring brunch spots in the city and checking out different literary readings downtown.
+Tiffany was raised in Fort Washington, Maryland and is a graduate from Temple University’s College of Liberal Arts. She earned her BA in English with a Concentration in Creative Writing. She is thrilled to come back to CLA as an Academic Advisor. While a student, Tiffany was an Owl Ambassador, a Peer Advisor for CLA, and studied abroad at the university’s campus in Rome, Italy. She still raves about the amazing culture, pasta, and gelato she enjoyed while there. Currently, Tiffany is in the Master’s of Higher Education program at Temple, with a focus on Access and Success. In her spare time, Tiffany enjoys exploring brunch spots in the city and checking out different literary readings downtown.
 
 **Favorite Books:** _On Beauty_ by Zadie Smith, _Boy_, _Snow_, _Bird_ by Helen Oyeyemi, and _The Mothers_ by Brit Bennett
 
