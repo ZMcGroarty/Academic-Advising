@@ -90,8 +90,8 @@ Timothy’s goal as an Academic Advisor is to support students in realizing and 
 
 ___
 
-![Hannah McEwen]({{site.baseurl}}/media/Hannah McEwen .jpg){:.responsive-img .img-right}
-**[Hannah McEwen](mailto:)**<br>
+![Hannah McEwen]({{site.baseurl}}/media/croppedhannahmcewen2019.jpg){:.responsive-img .img-right}
+**[Hannah McEwen](mailto:hannah.mcewen@temple.edu)**<br>
 **B.S., St. John’s University, Education, English Concentration**<br>
 **M.S., SUNY Buffalo State College, Multidisciplinary Studies, Educational Leadership Concentration**<br>
 
