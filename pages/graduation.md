@@ -22,9 +22,7 @@ _**If you are also earning a certificate, you must apply separately for your cer
 August 2019 and December 2019 graduates are welcome to attend the CLA Winter Graduation Ceremony on Thursday, January 30, 2020. The ceremony will be held in the Temple Performing Arts Center at 3:00 p.m. Details and ticket information will be emailed to students in October. 
 
 ## May Commencement
-The Temple University 133rd Commencement Exercises will take place on Thursday, May 7, 2020. Please visit the [Commencement website](http://www.temple.edu/commencement/) for more information.
-
-The College of Liberal Arts May undergraduate ceremony will take place on Thursday, May 7, 2020 at 5:30 p.m. in the Liacouras Center. Please contact [claugrad@temple.edu](mailto:claugrad@temple.edu) with any questions.
+The Temple University 133rd Commencement Exercises will take place on Thursday, May 7, 2020. Please visit the [Commencement website](http://www.temple.edu/commencement/) for more information. The College of Liberal Arts May undergraduate ceremony will take place on Thursday, May 7, 2020 at 5:30 p.m. in the Liacouras Center. Please contact [claugrad@temple.edu](mailto:claugrad@temple.edu) with any questions.
 
 ## Latin Honors
 To be eligible for Latin Honors, **at least 60 credits must be completed at Temple University** and the final cumulative GPA must meet the qualifying standards. The qualifying cumulative GPA standards for CLA students graduating in August 2020, December 2020, and May 2020 are as follows:
