@@ -36,17 +36,6 @@ Xiomara is a native of Puerto Rico but was raised in South Jersey. Xiomara recei
 
 ___
 
-**Shelby Haverson**<br>
-**B.A., Wesleyan University, Art with a Film Studies concentration**<br>
-**M.S., International Institute for Restorative Practices**<br>
-**J.D., Georgetown University**<br>
-
-Shelby is a native of Philadelphia. She comes to academic advising after several decades of practicing law with a focus on employment and general business law. Throughout her first career, Shelby worked with non-profits and youth programs and worked as college advisor in a local public school. Shelby enjoys the chance to help students identify their strengths and meet life challenges. Outside of Temple, Shelby can be found watching movies, reading, doing yoga, spending time with her wonderful family and friends or just thinking quietly.
-
-**Favorite Books:** _Independent People_ by Halldor Laxness, _The Magician’s Assistant_ by Ann Patchett, _Wide Sargasso Sea_ by Jean Rhys<br>
-
-___
-
 ![Mikel Houston]({{site.baseurl}}/media/resizedmikel2.jpg){:.responsive-img .img-right}
 **[Mikel Houston](mailto:mikel.houston@temple.edu)**<br>
 **B.A., Millersville University, Communication Studies**<br>
