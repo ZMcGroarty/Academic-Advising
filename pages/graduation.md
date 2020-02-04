@@ -10,7 +10,7 @@ title: Graduation
 ![CLA Graduation]({{site.baseurl}}/media/resized AdvisingGraduation.png){:.responsive-img .img-right}
 
 ## Apply for your degree
-If you are planning to graduate in December 2019 you must apply for graduation through Self Service Banner. You can apply to graduate by following the steps below:
+If you are planning to graduate and complete all remaining degree requirements in May 2020 you must apply for graduation through Self Service Banner. You can apply to graduate by following the steps below:
 
 1. In TUPortal, select the Student Tools Tab<br>
 2. Under Records right hand side select Apply to Graduate<br>
@@ -18,11 +18,10 @@ If you are planning to graduate in December 2019 you must apply for graduation t
 
 _**If you are also earning a certificate, you must apply separately for your certificate. This does not apply to minors or double majors.**_
 
-## Winter Graduation Ceremony
-August 2019 and December 2019 graduates are welcome to attend the CLA Winter Graduation Ceremony on Thursday, January 30, 2020. The ceremony will be held in the Temple Performing Arts Center at 3:00 p.m. Details and ticket information will be emailed to students in October. 
+## Commencement
+The Temple University 133rd Commencement Exercises will take place on Thursday, May 7, 2020. Please visit the [Commencement website](http://www.temple.edu/commencement/) for more information.
 
-## May Commencement
-The Temple University 133rd Commencement Exercises will take place on Thursday, May 7, 2020. Please visit the [Commencement website](http://www.temple.edu/commencement/) for more information. The College of Liberal Arts May undergraduate ceremony will take place on Thursday, May 7, 2020 at 5:30 p.m. in the Liacouras Center. Please contact [claugrad@temple.edu](mailto:claugrad@temple.edu) with any questions.
+The College of Liberal Arts May undergraduate ceremony will take place on Thursday, May 7, 2020 at 5:30 p.m. in the Liacouras Center. Details and ticket information will be emailed to students in February.
 
 ## Latin Honors
 To be eligible for Latin Honors, **at least 60 credits must be completed at Temple University** and the final cumulative GPA must meet the qualifying standards. The qualifying cumulative GPA standards for CLA students graduating in August 2020, December 2020, and May 2020 are as follows:
