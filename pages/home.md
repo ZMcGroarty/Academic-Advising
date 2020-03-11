@@ -37,19 +37,19 @@ You may come in to see us to schedule an academic advising appointment on the da
 ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-basic.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="FAQ's"
     content="New to the College of Liberal Arts and have questions? Visit or New Student FAQ page!"
     button-link="https://develop.cla.temple.edu/academic-advising/new-student-faq/"
     button-text="Learn More" %}
   </div>
-  <div class="col m12 l4">{% include cards/card2-basic.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="Meet our Academic Advisors!"
     content=""
     button-link="https://develop.cla.temple.edu/academic-advising/advising-staff/"
     button-text="Learn More" %}
     </div>
-    <div class="col m12 l4">{% include cards/card2-basic.html
+    <div class="col m12 l4">{% include cards/card2-fixed.html
       title="Ready for Graduation?"
       content="Visit our graduation page to get all of the details you need to ensure you are on track for graduation."
       button-link="https://develop.cla.temple.edu/academic-advising/graduation/"
