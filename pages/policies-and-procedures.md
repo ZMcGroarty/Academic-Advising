@@ -17,9 +17,11 @@ keywords: 'policies and procedures, current students, advising'
 
 **Step Three:** Complete a brief quiz which will test your knowledge of the college requirements covered in the video. You must answer each question correctly in order to complete the process. You can take the test more than once.
 
-**Step Four:** After receiving a verification email with further instructions, you will need to visit the Center for Academic Advising and Professional Development, located on the third floor of 1810 Liacouras Walk, to submit the form you will receive in your email. Your change of program will not be complete until you submit this form. Please note that this form is not available online. After submitting the form, you will then be able to make an appointment with your advisor if you need to register/revise your schedule for the upcoming semester.
+**Step Four:** You will then gain access to a link to the CLA Change of Program form that can only be accessed after successful completion of the quiz. Fill out and submit the form electronically. Please allow 5 business days for processing. 
 
-After completing the Canvas course, you will visit the Center for Academic Advising and Professional Development, located on the first floor of Paley Library, Suite 160.
+Upon completing the course you can make an appointment with an academic advisor to register or revise your schedule for the upcoming semester. Even if you are unsure of your plans, please still complete the Canvas course and then contact us at [claaac@temple.edu](mailto:claaac@temple.edu) in order to schedule an advising appointment to discuss your potential change in program.
+
+If you have any questions, please contact us at [claaac@temple.edu](mailto:claaac@temple.edu). Please make sure to include “COP” in the email subject line and your TUID in the email.
 
 ## What happens after I submit the form?
 Your request to transfer to the College of Liberal Arts will then be reviewed to ensure that you are eligible for transfer. If you have completed all the steps above and have a 2.0 GPA, your request will be forwarded to the Office of the University Registrar for processing and may take 5 to 7 business days to be finalized. You will receive e-mail notification from the Office of the University Registrar once your Change of Program is complete.
