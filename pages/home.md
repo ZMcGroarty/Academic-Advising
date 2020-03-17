@@ -24,10 +24,8 @@ We will no longer host in-person appointments. We will conduct all appointments 
 - Scroll down the center column & select **"Schedule"** under the "Appointment System" box
 - Under the **"Appointment Type"** drop-down menu, select what type of appointment you are attempting to book;<br>
  -- To book a same day appointment, select **"Same Day."** The system will begin accepting Same Day appointment requests at 7:00 am. _Appointments may begin as early as 8:30 am_.<br> 
-- Follow the steps and make sure to click **"schedule appointment"**
-- **_You must indicate if you want a [Zoom](https://its.temple.edu/zoom-transition) or phone appointment and include your phone number in your appointment notes._**
-
-A confirmation email with the details of your appointment will be sent to you.
+  -- To book a future appointment, select **"Future."** Future appointments maybe booked up to five business days in advance.<br>
+- Follow the steps and make sure to click **"schedule appointment"**. You will receive a confirmation email with the details of your appointment.
 
 ### Calling the Advising Center
 You may call us at [215-204-7971](tel:2152047971) to schedule an academic advising appointment on the day you would like to meet with an academic advisor. Ambler campus students can call [267-468-8200](tel:2674688200) to make an appointment. 
