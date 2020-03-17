@@ -76,6 +76,9 @@ social:
   # Google Tag Manager OR Google Analytics
   google_tag_manager: GTM-58ZL5B
 
+# chatra chat widget
+chatra_id: vwdpQHjTG45WFinSt
+
 # Global Site Config
 # DO NOT edit below unless if you know what you're doing!
 markdown: kramdown
