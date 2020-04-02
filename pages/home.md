@@ -16,7 +16,7 @@ promotion-table: true
 The Center for Academic Advising and Professional Development counsels students on issues relating to both classroom and career. We can help you navigate your curriculum, choose a major, explore career opportunities and determine your post-graduation plans.
 
 ## Make an Appointment
-We will no longer host in-person appointments. We will conduct all appointments via [**Zoom**](https://its.temple.edu/zoom-transition). There are two ways for you to schedule an academic advising appointment if you are a **Main campus student**, see below for details:
+We will no longer host in-person appointments. We will conduct all appointments via [**Zoom**](https://its.temple.edu/zoom-transition). To schedule an academic advising appointment if you are a **Main campus student**, see below for details:
 
 ### The Online Advising Appointment System
 - Go to [TUPortal](https://fim.temple.edu/idp/profile/cas/login;jsessionid=B615BC9901343362C6E4DCF7EB5F68A6?execution=e1s1)
@@ -26,6 +26,8 @@ We will no longer host in-person appointments. We will conduct all appointments 
  -- To book a same day appointment, select **"Same Day."** The system will begin accepting Same Day appointment requests at 7:00 am. _Appointments may begin as early as 8:30 am_.<br> 
   -- To book a future appointment, select **"Future."** Future appointments maybe booked up to five business days in advance.<br>
 - Follow the steps and make sure to click **"schedule appointment"**. You will receive a confirmation email with the details of your appointment. 
+
+On the day of your appointment, you will receive an email on the day of your appointment with instructions on the Zoom meeting link.
 
 ___
 
