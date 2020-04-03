@@ -27,7 +27,7 @@ We will no longer host in-person appointments. We will conduct all appointments 
   -- To book a future appointment, select **"Future."** Future appointments maybe booked up to five business days in advance.<br>
 - Follow the steps and make sure to click **"schedule appointment"**. You will receive a confirmation email with the details of your appointment. 
 
-On the day of your appointment, you will receive an email on the day of your appointment with instructions on the Zoom meeting link.
+Before your appointment time, you will receive an email (in your TU email account) with the link for the Zoom appointment.
 
 ___
 
